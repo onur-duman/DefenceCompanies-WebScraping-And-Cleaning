@@ -1,6 +1,5 @@
 # DefenceCompanies-WebScraping-And-Cleaning
-This repository contains data and code used to get and clean data from 
-1. https://people.defensenews.com/top-100/
+This repository contains data and code used to get and clean data from https://people.defensenews.com/top-100/
 
 ## Defence News Data
 * Defense News is a global website and magazine about politics, business and technology of defense. Defense News serves an audience of senior military, government and industry decision-makers throughout the world. The data has scraped from Defence News.
@@ -15,4 +14,4 @@ This repository contains data and code used to get and clean data from
 
 ### Data    
 * > *defence_companies_from_2005.csv* - The dataset which scraped from Defence News thanks to Script 
-* > *defence_companies_from_2005.csv* - The dataset which cleaned from Python Notebook
+* > *defence_companies_from_2005_cleaned.csv* - The dataset which cleaned from Python Notebook
