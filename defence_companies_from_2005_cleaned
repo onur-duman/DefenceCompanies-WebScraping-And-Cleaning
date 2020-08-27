@@ -1,0 +1,1605 @@
+Year,Rank,Company,Leadership,Country,Defense_Revenue_From_A_Year_Ago,Defense_Revenue_From_Two_Years_Ago,%Defense Revenue Change,Total Revenue,%of Revenue from Defence
+2020,1,Lockheed Martin,"James D. Taiclet, President and CEO *",USA,56606.0,50536.0,12.01124,59812.0,94.63988
+2020,2,Boeing,"David Calhoun, President and CEO *",USA,34300.0,34050.0,0.73421437,76559.0,44.802048
+2020,3,General Dynamics,"Phebe Novakovic, Chairman and CEO",USA,29512.0,27507.0,7.2890534,39350.0,74.99873
+2020,4,Northrop Grumman,"Kathy J. Warden, Chairman, CEO and President",USA,28600.0,25300.0,13.043478,33841.0,84.51287
+2020,5,Raytheon Company,"Thomas Kennedy, Chairman and CEO",USA,27448.0,25163.94,9.076721,29200.0,94.0
+2020,6,Aviation Industry Corporation of China,"Tan Ruisong, Chairman of the Board, and Luo Ronghuai, President",China,25075.38,24902.01,0.69621325,66858.02,37.505417
+2020,7,BAE Systems,"Charles Woodburn, Group CEO",United Kingdom,21033.27,22477.48,-6.425146,23370.3,90.0
+2020,8,China North Industries Group Corporation Limited,"Jiao Kaihe, Chairman, and Liu Dashan, President",China,14771.6,14777.77,-0.041751374,68074.15,21.69928
+2020,9,LHarris Technologies,"Bill Brown, Chairman and CEO",USA,13916.98,12303.08,13.117856,18074.0,77.00001
+2020,10,United Technologies Corp,"Gregory J. Hayes, Chairman and CEO",USA,13090.0,9310.0,40.601505,77000.0,17.0
+2020,11,China Aerospace Science and Industry Corporation,"Yuan Jie, Chairman and Secretary of the Party Committee, and Liu Shiquan, General Manager and President *",China,12035.25,12130.93,-0.7887251,37610.17,31.999987
+2020,12,Airbus,"Guillaume Faury, CEO",Netherlands,11266.57,13063.82,-13.757462,78916.36,14.276597
+2020,13,Leonardo,"Alessandro Profumo, CEO",Italy,11109.27,9828.51,13.031069,15429.55,71.99996
+2020,14,China Shipbuilding Industry Corporation,"Lei Fanpei, Chairman, and Yang Jincheng, Director and General Manager *",China,11019.56,9795.47,12.49649,55097.78,20.000006
+2020,15,China Electronics Technology Group,"Chen Zhaoxiong, Chairman of the Board, and Wu Manqing, President *",China,10148.87,10275.58,-1.2331173,32951.25,30.799652
+2020,16,Thales,"Patrice Caine, Chairman and CEO",France,9251.68,9575.57,-3.3824682,20596.61,44.91846
+2020,17,AlmazAntey,"Yan Novikov, CEO",Russia,9191.6,9660.14,-4.8502407,9651.71,95.232864
+2020,18,China South Industries Group Corporation,"Xu Xianping, Chairman of the Group and Secretary of the Party Committee, and Gong Yangde, Group Company Director and General Manager *",China,8845.87,11963.37,-26.05871,28550.02,30.98376
+2020,19,Huntington Ingalls Industries,"Mike Petters, President and CEO",USA,8119.0,7767.0,4.5319943,8899.0,91.23497
+2020,20,China Aerospace Science and Technology Corporation,"Wu Yansheng, Chairman of the Board, Xu Qiang, President, and Fang Xiangming, Executive Director *",China,7745.57,8138.47,-4.8276935,36223.21,21.38289
+2020,21,Mitsubishi Heavy Industries,"Seiji Izumisawa, President and CEO",Japan,6570.0,,,37670.0,17.440935
+2020,22,Dassault,"Eric Trappier, Chairman and CEO",France,5708.84,2934.43,94.546814,8171.48,69.86298
+2020,23,Leidos,"Roger Krone, Chairman and CEO",USA,5364.0,5378.0,-0.26031983,11094.0,48.35046
+2020,24,China State Shipbuilding Corporation,"Lei Fanpei, Chairman, and Yang Jincheng, Director and General Manager",China,5356.75,4954.07,8.12827,33495.61,15.992394
+2020,25,Honeywell,"Darius Adamczyk, Chairman and CEO",USA,5326.0,4665.0,14.169346,36709.0,14.508703
+2020,26,Booz Allen Hamilton,"Horacio D. Rozanski, President and CEO",USA,5182.96,4700.0,10.2757435,7463.84,69.44093
+2020,27,RollsRoyce,"Warren East, CEO",United Kingdom,4712.36,4682.36,0.64070255,19725.28,23.889954
+2020,28,Safran,"Philippe Petitcolin, CEO",France,4413.05,1636.67,169.6359,27581.55,16.000006
+2020,29,GE Aviation,"David Joyce, GE Vice Chairman; President and CEO of GE Aviation",USA,4400.0,4100.0,7.317073,32875.0,13.38403
+2020,30,Naval Group,"Pietre-Eric Pommelet, CEO *",France,4155.14,4260.53,-2.4736278,4155.14,100.0
+2020,31,Elbit Systems Ltd,"Bezhalel Machlis, President and CEO",Israel,4056.0,3326.65,21.924461,4508.0,89.97338
+2020,32,Hanwha,"Seung Youn Kim, Chairman",South Korea,3976.23,4281.48,-7.1295443,42900.0,9.268601
+2020,33,Rheinmetall AG,"Armin Papperger, CEO",Germany,3942.46,3803.54,3.6523848,7001.73,56.306942
+2020,34,CACI International Inc,"John Mengucci, President and CEO *",USA,3489.85,3032.75,15.072133,4986.34,69.98821
+2020,35,Tactical Missiles Corporation JSC,"Boris Obnosov, Director General",Russia,3474.9,3591.46,-3.2454784,3546.46,97.98221
+2020,36,SAIC,"Nazzic Keene, CEO",USA,3317.08,2795.4,18.662094,6379.0,52.000004
+2020,37,Perspecta Inc,"Mac Curtis, President and CEO",USA,3300.0,2817.7,17.1168,4504.0,73.2682
+2020,38,Textron Inc,"Scott C. Donnelly, Chairman and CEO",USA,3271.2,3350.0,-2.3522403,13630.0,24.0
+2020,39,Babcock International,"Archie Bethel, Chief Executive",United Kingdom,3233.92,2909.79,11.139288,6220.17,51.99086
+2020,40,Saab AB,"Micael Johansson, President and CEO *",Sweden,3185.19,3243.68,-1.8031987,3747.29,84.999825
+2020,41,Israel Aerospace Industries Ltd,"Nimrod Sheffer, President and CEO",Israel,3006.0,2647.0,13.562525,4108.0,73.17429
+2020,42,KBR,"Stuart Bradie, President and CEO",USA,2852.62,2425.78,17.595993,5639.38,50.583935
+2020,43,KNDS,"Frank Haun, Co-CEO, and Stephane Mayer, Co-CEO",Netherlands,2798.45,2597.89,7.7201138,2798.45,100.0
+2020,44,Rafael Advanced Defense Systems Ltd,"Yoav Har-Even, President and CEO",Israel,2746.65,2592.0,5.966431,2746.65,100.0
+2020,45,Hindustan Aeronautics Ltd,"Rajagopalan Madhavan, Chairman and Managing Director",India,2710.0,2754.6,-1.6191134,3010.0,90.03322
+2020,46,Amentum,"John Vollmer, CEO",USA,2700.0,2200.0,22.727274,4100.0,65.85366
+2020,47,Bechtel,"Brendan Bechtel, Chairman and CEO",USA,2303.0,3745.0,-38.504673,21800.0,10.56422
+2020,48,Aselsan AS,"Haluk Görgün, Chairman, President and CEO",Turkey,2172.57,1792.63,21.194561,2290.61,94.84679
+2020,49,Jacobs,"Steve Demetriou, Chair of the Board and CEO",USA,2115.0,1567.0,34.971283,,
+2020,50,Oshkosh Defense,"John Bryant, Executive Vice President, Oshkosh Corporation; President, Oshkosh Defense",USA,2032.0,1828.9,11.105035,8382.0,24.242424
+2020,51,Aerojet Rocketdyne Holdings Inc,"Eileen Drake, CEO and President",USA,1982.0,1895.9,4.5413775,1982.0,100.0
+2020,52,TransDigm,"Kevin Stein, President, CEO and Director",USA,1932.59,1333.89,44.88376,5223.2,37.000114
+2020,53,Turkish Aerospace Industries,"Temel Kotil, President and CEO",Turkey,1858.35,1307.65,42.11371,2266.79,81.98157
+2020,54,Cobham,"Shonnel Malani, Chairman *",United Kingdom,1787.4,1588.37,12.530458,2628.76,67.99403
+2020,55,Korea Aerospace Industries Ltd,"Ahn Hyun-ho, President and CEO *",South Korea,1740.87,1694.35,2.745597,2667.2,65.26957
+2020,56,DynCorp International,"George Krivo, CEO",USA,1730.34,1803.4,-4.05124,,
+2020,57,ST Engineering,"Vincent Chong, President and CEO",Singapore,1685.8,1556.58,8.301539,5790.36,29.113907
+2020,58,Fincantieri SpA,"Giuseppe Bono, CEO",Italy,1682.74,1693.51,-0.63595843,6547.5,25.700497
+2020,59,Sierra Nevada Corp,"Eren Ozmen, Chairwoman, President and Owner, and Fatih Ozmen, CEO and Owner",USA,1591.0,1500.0,6.0666666,1989.0,79.989944
+2020,60,Serco,"Rupert Soames, CEO",United Kingdom,1493.76,1264.02,18.175344,4146.78,36.022167
+2020,61,Bharat Electronics Ltd,"M V Gowtama, Chairman and Managing Director",India,1390.0,1144.94,21.403748,1780.0,78.08989
+2020,62,Melrose Industries,"Simon Peckham, Chief Executive",United Kingdom,1376.3,1366.4,0.7245334,14799.7,9.299513
+2020,63,Vectrus,"Chuck Prow, President and CEO",USA,1367.63,1232.74,10.942292,1382.64,98.9144
+2020,64,Austal,"David Singleton, CEO",Australia,1289.64,1055.14,22.224539,1324.47,97.37027
+2020,65,QinetiQ Plc,"Steve Wadey, CEO",United Kingdom,1274.16,1118.8,13.886304,1369.92,93.00981
+2020,66,Ball Corporation,"John A. Hayes, Chairman, President and CEO *",USA,1256.0,934.0,34.475372,11500.0,10.921739
+2020,67,Hensoldt,"Thomas Mueller, CEO",Germany,1247.17,1310.89,-4.8608174,1247.17,100.0
+2020,68,LIG Nex,"Kim Ji Chan, President and CEO",South Korea,1246.42,1341.23,-7.06888,1246.42,100.0
+2020,69,Viasat,"Mark Dankberg, Chairman of the Board and CEO",USA,1138.1,955.6,19.09795,2300.0,49.48261
+2020,70,PAE,"John Heller, President and CEO",USA,1082.0,980.0,10.408163,2764.0,39.146164
+2020,71,Moog Inc,"John R. Scannell, CEO",USA,1081.43,925.02,16.908827,2904.66,37.230865
+2020,72,CurtissWright Corporation,"David C. Adams, Chairman and CEO",USA,1079.05,960.6,12.330843,2487.96,43.370876
+2020,73,Meggitt,"Tony Wood, CEO",United Kingdom,1052.01,975.98,7.7901216,2905.81,36.203674
+2020,74,CAE,"Marc Parent, President and CEO",Canada,1001.08,995.33,0.5776979,2724.55,36.74295
+2020,75,Ultra Electronics,"Simon Pryce, CEO",United Kingdom,906.26,890.29,1.7938012,1053.8,85.99924
+2020,76,Ruag,"Urs Kiener, CEO ad int. and Chief Financial Officer *",Switzerland,886.86,898.65,-1.3119723,2015.59,44.00002
+2020,77,Kongsberg,"Geir Haoy, President and CEO",Norway,823.43,750.0,9.790666,2736.93,30.085901
+2020,78,Day  Zimmermann,"Hal Yoh, Chair and CEO",USA,821.1,773.77,6.116799,2457.0,33.4188
+2020,79,Embraer,"Francisco Gomes Neto, President and CEO",Brazil,775.0,728.0,6.456044,5463.0,14.186345
+2020,80,Teledyne Technologies,"Robert Mehrabian, Executive Chairman, and Aldo Pichelli, President and CEO",USA,759.8,655.3,15.946895,3163.6,24.016943
+2020,81,AAR Corp,"John M. Holmes, President and CEO",USA,739.79,493.72,49.839985,2051.8,36.055656
+2020,82,Cubic Corporation,"Bradley H. Feldmann, Chairman, President and CEO",USA,646.7,532.18,21.51904,1496.0,43.22861
+2020,83,Indra,"Fernando Abril-Martorell, Chairman and CEO, and Ignacio Mataix, Executive Director, Indra; Senior Vice President, Transport & Defense business",Spain,633.57,732.13,-13.462089,3586.5,17.665411
+2020,84,Peraton,"Stu Shea, Chairman, President and CEO",USA,631.29,638.27,-1.0935875,1029.69,61.308746
+2020,85,Mercury Systems,"Mark Aslett, President and CEO",USA,622.59,473.46,31.497917,654.74,95.08966
+2020,86,Diehl Group,"Karl Tragl, CEO",Germany,577.6,547.92,5.416848,4062.23,14.218791
+2020,87,Battelle,"Lewis Von Thaer, President and CEO",USA,560.0,440.0,27.272728,8200.0,6.8292685
+2020,88,John Cockerill Defense,"Thierry Renaudin, President",Belgium,548.16,595.15,-7.8954964,548.16,100.0
+2020,89,BMC Otomotiv Sanayi ve Ticaret AS,"Bulent Denkdemir, CEO",Turkey,533.56,554.18,-3.7208118,676.59,78.86016
+2020,90,Patria,"Esa Rautalinko, President and CEO",Finland,522.64,524.0,-0.2595392,568.09,91.999504
+2020,91,Roketsan AS,"Selcuk Yasar, President and CEO",Turkey,515.18,522.76,-1.4499995,515.18,100.0
+2020,92,STM Savunma Teknolojileri Muhendislik ve Ticaret AS,"Murat Ikinci, General Manager",Turkey,485.08,564.83,-14.119297,503.73,96.297615
+2020,93,DLT Solutions,"Chris Wilkinson, President",USA,468.7,437.39,7.1583705,1241.09,37.765194
+2020,94,Nammo,"Morten Brandtzaeg, President and CEO",Norway,461.26,487.67,-5.415548,576.57,80.000694
+2020,95,Hyundai Rotem Company,"Yong-Bae Lee, CEO *",South Korea,449.82,459.95,-2.2024143,2040.0,22.050001
+2020,96,Chemring,"Michael Ord, Group Chief Executive",United Kingdom,385.17,336.9,14.327701,427.96,90.0014
+2020,97,Allegheny Technologies Inc,"Robert S. Wetherbee, President and CEO",USA,377.1,277.1,36.088055,4122.5,9.147363
+2020,98,FNSS Savunma Sistemleri AS,"Nail Kurt, General Manager and CEO",Turkey,374.94,367.54,2.0133846,374.94,100.0
+2020,99,Havelsan AS,"Ahmet Hamdi Atalay, General Manager and CEO",Turkey,295.61,278.6,6.1055202,342.27,86.367485
+2020,100,Telephonics Corporation,"Kevin McSweeney, President",USA,295.51,288.11,2.568472,2209.29,13.375791
+2019,1,Lockheed Martin,"Marillyn Hewson, Chairman, President and CEO",USA,50536.0,47985.0,5.3162446,53762.0,93.99948
+2019,2,Boeing,"Dennis Muilenburg, Chairman, President and CEO",USA,34050.0,20561.0,65.60479,101127.0,33.670532
+2019,3,Northrop Grumman,"Kathy J. Warden, CEO and President *",USA,25300.0,21700.0,16.589863,30095.0,84.067116
+2019,4,Raytheon Company,"Thomas Kennedy, Chairman and CEO",USA,25163.94,23573.64,6.7460895,27058.0,93.0
+2019,5,Aviation Industry Corporation of China,"Tan Ruisong, Chairman of the Board, and Luo Ronghuai, President",China,24902.01,22898.73,8.748429,66405.36,37.5
+2019,6,General Dynamics,"Phebe Novakovic, Chairman and CEO",USA,24055.0,19587.0,22.811049,36200.0,66.45027
+2019,7,BAE Systems,"Charles Woodburn,CEO",United Kingdom,22477.48,22380.04,0.4353943,24569.06,91.48694
+2019,8,China North Industries Group Corporation Limited,"Jiao Kaihe, Chairman, and Liu Dashan, President",China,14777.77,14206.36,4.022207,68100.3,21.700008
+2019,9,Airbus,"Guillaume Faury, CEO *",Netherlands,13063.82,11185.91,16.788174,75220.59,17.367346
+2019,10,China Aerospace Science and Industry Corporation,"Gao Hongwei, Chairman of the Board, and Liu Shiquan, General Manager",China,12130.93,11206.28,8.251171,37909.17,31.999987
+2019,11,China South Industries Group Corporation,"Xu Ping, CEO, and Gong Yande, Director and General Manager",China,11963.37,14121.77,-15.2842,38591.53,30.999989
+2019,12,China Electronics Technology Group,"Xiong Qunli, Chairman",China,10275.58,9518.91,7.9491234,33354.01,30.807629
+2019,13,Leonardo,"Alessandro Profumo, CEO",Italy,9828.51,8856.48,10.975346,14453.69,68.0
+2019,14,China Shipbuilding Industry Corporation,"Hu Wenming, Chairman of the Board, and Wu Yongjie, President",China,9795.47,9337.91,4.900021,48977.36,19.999996
+2019,15,AlmazAntey,"Yan Novikov, CEO",Russia,9660.14,9125.02,5.8643174,9896.67,97.61
+2019,16,Thales,"Patrice Caine, Chairman and CEO",France,9575.57,8926.13,7.275722,18775.63,50.999992
+2019,17,United Technologies,"Gregory Hayes, Chairman and CEO",USA,9310.0,7826.0,18.962433,66500.0,14.0
+2019,18,L Technologies,"Bill Brown, Chairman, President and CEO",USA,8249.0,7749.0,6.4524455,10200.0,80.87255
+2019,19,China Aerospace Science and Technology Corporation,"Wu Yansheng, Chairman of the Board, and Yuan Jie, Executive Director and President",China,8138.47,7514.73,8.300235,38030.23,21.400002
+2019,20,Huntington Ingalls Industries,"Mike Petters, President and CEO",USA,7767.0,7030.0,10.483642,8176.0,94.99756
+2019,21,Leidos,"Roger Krone, Chairman and CEO",USA,5378.0,5218.0,3.066309,10194.0,52.756523
+2019,22,China State Shipbuilding Corporation,"Lei Fan Pei, Chairman, and Yang Jin Cheng, General Manager",China,4954.07,4842.69,2.299959,30962.94,15.999998
+2019,23,Booz Allen Hamilton,"Horacio D. Rozanski, President and CEO",USA,4700.0,4320.0,8.796296,6704.04,70.10698
+2019,24,RollsRoyce,"Warren East, CEO",United Kingdom,4682.36,4625.73,1.2242366,20110.93,23.282661
+2019,25,Honeywell,"Darius Adamczyk, Chairman and CEO",USA,4665.0,4100.0,13.780488,41802.0,11.159753
+2019,26,Harris Corporation,"Bill Brown, Chairman, President and CEO",USA,4601.6,4158.0,10.668592,6391.1,72.00013
+2019,27,Hanwha,"Seung Youn Kim, Chairman and CEO",South Korea,4281.48,3895.27,9.9148445,44304.8,9.663692
+2019,28,Naval Group,"Hervé Guillou, CEO",France,4260.53,4178.33,1.9672861,4260.53,100.0
+2019,29,GE Aviation,"David Joyce, GE Vice Chairman; President and CEO of GE Aviation",USA,4100.0,3991.0,2.731145,30566.0,13.413596
+2019,30,Rheinmetall AG,"Armin Papperger, CEO",Germany,3803.54,3430.35,10.879063,7259.91,52.391006
+2019,31,Bechtel,"Brendan Bechtel, Chairman and CEO",USA,3745.0,3576.0,4.725951,25500.0,14.686275
+2019,32,Tactical Missiles Corporation JSC,"Boris Obnosov, Director General",Russia,3591.46,3573.95,0.48993438,3664.35,98.01083
+2019,33,AECOM,"Michael Burke, Chairman and CEO",USA,3500.0,3197.78,9.450931,20200.0,17.326733
+2019,34,Textron Inc,"Scott C. Donnelly, Chairman and CEO",USA,3350.0,4117.42,-18.638369,13972.0,23.976524
+2019,35,Elbit Systems Ltd,"Bezhalel Machlis, President and CEO",Israel,3326.65,3377.83,-1.5151792,3684.0,90.29994
+2019,36,Saab AB,"Håkan Buskhe, President and CEO",Sweden,3243.68,3090.07,4.9710803,3816.09,85.000084
+2019,37,CACI International Inc,"Ken Asbury, President and CEO",USA,3032.75,2829.31,7.1904435,4467.86,67.87926
+2019,38,Dassault,"Eric Trappier, Chairman and CEO",France,2934.43,2124.19,38.14348,6003.48,48.878815
+2019,39,Babcock International,"Archie Bethel, Chief Executive",United Kingdom,2909.79,3341.03,-12.907396,6206.67,46.881664
+2019,40,Perspecta Inc,"Mac Curtis, President and CEO",USA,2817.7,2731.95,3.1387835,4274.27,65.92237
+2019,41,Jacobs,"Steve Demetriou, Chair and CEO",USA,2800.0,2600.0,7.692308,14984.65,18.685787
+2019,42,SAIC,"Nazzic Keene, CEO-elect *",USA,2795.4,2761.48,1.228324,4659.0,59.999996
+2019,43,Hindustan Aeronautics Ltd,"Raragopalan Madhavan, Chairman and Managing Director *",India,2754.6,2720.0,1.2720624,2930.43,93.99986
+2019,44,Israel Aerospace Industries Ltd,"Nimrod Sheffer, CEO *",Israel,2647.0,2469.0,7.2093964,3682.0,71.890274
+2019,45,KNDS,"Frank Haun, Co-CEO, and Stephane Mayer, Co-CEO",France,2597.89,2991.95,-13.170677,2597.89,100.0
+2019,46,Rafael Advanced Defense Systems Ltd,"Yoav Har-Even, President and CEO",Israel,2592.0,2300.06,12.692709,2592.0,100.0
+2019,47,KBR,"Stuart Bradie, President and CEO",USA,2425.78,1546.67,56.838882,4912.89,49.375828
+2019,48,ST Engineering,"Vincent Chong, President and CEO",Singapore,2100.0,2300.0,-8.695652,6700.0,31.343285
+2019,49,Aerojet Rocketdyne Holdings Inc,"Eileen Drake, CEO and President",USA,1895.9,1870.8,1.3416706,1895.9,100.0
+2019,50,Oshkosh Defense,"John Bryant, Executive Vice President, Oshkosh Corporation, and President, Oshkosh Defense",USA,1828.9,1820.1,0.4834926,7710.0,23.721142
+2019,51,DynCorp International,"George Krivo, CEO",USA,1803.4,1501.09,20.13937,2148.28,83.94623
+2019,52,Aselsan AS,"Haluk Görgün, Chairman, President and CEO",Turkey,1792.63,1424.93,25.804773,1917.6,93.483
+2019,53,Fluor,"Alan Boeckmann, Executive Chairman, and Carlos Hernandez, CEO *",USA,1748.79,1217.06,43.68971,19166.6,9.124154
+2019,54,Korea Aerospace Industries Ltd,"Kim Jo-Won, President and CEO",South Korea,1694.35,982.28,72.49155,2532.57,66.90239
+2019,55,Fincantieri SpA,"Giuseppe Bono, CEO",Italy,1693.51,1369.23,23.683388,6464.02,26.199022
+2019,56,Safran,"Philippe Petitcolin, CEO",France,1636.67,1519.7,7.69692,24857.04,6.584332
+2019,57,Cobham,"David Lockwood, CEO *",United Kingdom,1588.37,1584.86,0.22147128,2482.67,63.9783
+2019,58,Sierra Nevada Corp,"Eren Ozmen, Chairwoman, President and Owner, and Fatih Ozmen, Owner and CEO",USA,1500.0,,,1900.0,78.94737
+2019,59,ManTech International,"George Pedersen, Executive Chairman and Chairman of the Board, and Kevin Phillips, President and CEO",USA,1450.4,1300.0,11.569233,1960.0,74.0
+2019,60,Melrose Industries,"Simon Peckham, Chief Executive",United Kingdom,1366.4,3484.12,-60.78207,12012.9,11.374439
+2019,61,LIG Nex,"Kim Jichan, CEO",South Korea,1341.23,1555.24,-13.760577,1341.23,100.0
+2019,62,TransDigm,"Kevin Stein, President, CEO and Director",USA,1333.89,,,3811.1,35.00013
+2019,63,Hensoldt,"Thomas Mueller, CEO",Germany,1310.89,1082.89,21.05477,1310.89,100.0
+2019,64,Serco,"Rupert Soames, CEO *",United Kingdom,1264.02,1236.84,2.19754,3777.39,33.46279
+2019,65,Vectrus,"Chuck Prow, President and CEO",USA,1232.74,1114.79,10.580463,1279.3,96.360504
+2019,66,Bharat Electronics Ltd,"M V Gowtama, Chairman and Managing Director",India,1144.94,1270.0,-9.847248,1686.82,67.87565
+2019,67,QinetiQ Plc,"Steve Wadey, CEO",United Kingdom,1118.8,850.64,31.524504,1216.11,91.99826
+2019,68,Austal,"David Singleton, CEO",Australia,1055.14,969.12,8.876096,1078.78,97.80863
+2019,69,Turkish Aerospace Industries,"Temel Kotil, President and CEO",Turkey,1050.84,1089.63,-3.5599277,1665.66,63.0885
+2019,70,CAE,"Marc Parent, President and CEO",Canada,995.33,836.73,18.954744,2518.04,39.52797
+2019,71,PAE,"John Heller, CEO",USA,980.0,1127.35,-13.070473,2600.0,37.692307
+2019,72,Meggitt,"Tony Wood, CEO*",United Kingdom,975.98,910.97,7.13635,2776.32,35.153725
+2019,73,CurtissWright,"David Adams, Chairman and CEO",USA,960.6,862.69,11.3493805,2412.0,39.825867
+2019,74,ViaSat,"Mark Dankberg, Chairman of the Board and CEO",USA,955.6,772.1,23.766352,2100.0,45.50476
+2019,75,Ball Aerospace,"Robert Strain, President",USA,934.0,665.17,40.415237,1197.44,77.99973
+2019,76,Moog Inc,"John R. Scannell, CEO",USA,925.02,861.8,7.3358126,2709.47,34.140255
+2019,77,Ruag,"Urs Breitmeier, CEO Ruag Group and Chairman of the Group Executive Board",Switzerland,898.65,873.83,2.8403702,2042.4,43.999706
+2019,78,Ultra Electronics,"Simon Pryce, CEO",United Kingdom,890.29,951.97,-6.4791956,1023.37,86.9959
+2019,79,Day  Zimmermann,"Hal Yoh, Chair and CEO",USA,773.77,617.65,25.27645,2800.0,27.634644
+2019,80,Kongsberg,"Geir Håøy, President and CEO",Norway,750.0,771.33,-2.7653553,1766.99,42.445065
+2019,81,Indra,"Fernando Abril-Martorell, Chairman and CEO",Spain,732.13,673.41,8.719804,3660.66,19.999947
+2019,82,Teledyne,"Robert Mehrabian, Executive Chairman",USA,655.3,,,2902.0,22.580978
+2019,83,John Cockerill Defense,"Thierry Renaudin, President",Belgium,595.15,344.81,72.60231,1531.57,38.85882
+2019,84,Embraer,"Francisco Gomes Neto, President and CEO *",Brazil,593.32,951.0,-37.610935,5071.1,11.700026
+2019,85,STM Savunma Teknolojileri Muhendislik ve Ticaret AS,"Murat Ikinci, General Manager *",Turkey,564.83,369.96,52.673267,586.58,96.29207
+2019,85,BMC Otomotiv Sanayi ve Ticaret AS,"Bülent Denkdemir, CEO",Turkey,554.18,297.98,85.97891,654.99,84.608925
+2019,86,Diehl Defence Holding,"Karl Tragl, CEO*",Germany,547.92,515.23,6.34474,4362.09,12.560951
+2019,87,Cubic,"Bradley H. Feldmann, Chairman, President and CEO",USA,532.18,907.27,-41.342712,1202.9,44.241417
+2019,88,Patria,"Esa Rautalinko, President and CEO *",Finland,524.0,486.17,7.781225,556.3,94.19378
+2019,89,Roketsan AS,"Selcuk Yasar, President and CEO",Turkey,522.76,376.08,39.002346,522.76,100.0
+2019,90,AAR,"John M. Holmes, President and CEO",USA,493.72,597.6,-17.382862,1748.2,28.24162
+2019,91,Nammo,"Morten Brandtzæg, President and CEO",Norway,487.67,431.78,12.944095,604.52,80.670616
+2019,92,Mercury Systems,"Mark Aslett, President and CEO",USA,473.46,392.24,20.70671,493.18,96.00146
+2019,93,Hyundai Rotem Company,"Lee Geon-Yong, CEO *",South Korea,459.95,446.87,2.9270296,2477.93,18.561865
+2019,94,Battelle,"Lewis “Lou” Von Thaer, President and CEO",USA,440.0,450.0,-2.2222223,5100.0,8.627451
+2019,95,Denel,"Monhla Hlahla, Chairperson*",South Africa,377.81,621.23,-39.183556,377.81,100.0
+2019,96,Chemring,"Michael Ord, Group Chief Executive",United Kingdom,336.9,585.51,-42.460423,396.43,84.98348
+2019,97,Telephonics Corporation,"Kevin McSweeney, President",USA,288.11,366.91,-21.47666,1977.92,14.566311
+2019,98,JXTG Energy,"Katsuyuki Ota, Representative Director and President",Japan,176.27,,,,
+2019,99,Itochu Enex Co Ltd,"Kenji Okada, Representative Director, President and CEO",Japan,99.81,,,9083.92,1.0987548
+2018,1,Lockheed Martin,"Marillyn Hewson, Chairman, President and CEO",USA,47985.0,43468.0,10.391553,51048.0,93.99977
+2018,2,Raytheon Company,"Thomas Kennedy, Chairman and CEO",USA,23573.64,22384.17,5.3138924,25348.0,93.0
+2018,3,BAE Systems,"Charles Woodburn, CEO",United Kingdom,22380.04,23621.84,-5.257003,25288.2,88.49993
+2018,4,Northrop Grumman,"Wes Bush, Chairman and CEO",USA,21700.0,20200.0,7.4257426,25803.0,84.09875
+2018,5,Boeing,"Dennis Muilenburg, President and CEO",USA,20561.0,20180.0,1.8880079,94005.0,21.87224
+2018,6,General Dynamics,"Phebe Novakovic, Chairman and CEO",USA,19587.0,19696.0,-0.55341184,30973.0,63.23895
+2018,7,Airbus,"Thomas Enders, CEO",Netherlands,11185.91,12321.0,-9.212644,75702.63,14.776118
+2018,8,AlmazAntey,"Yan Novikov, CEO",Russia,9125.02,6581.69,38.6425,9125.02,100.0
+2018,9,Thales,"Patrice Caine, Chairman and CEO",France,8926.13,8362.0,6.746351,17852.26,50.0
+2018,10,Leonardo,"Alessandro Profumo, CEO",Italy,8856.48,8526.22,3.873472,13024.24,67.99998
+2018,11,United Technologies,"Gregory Hayes, Chairman and CEO",USA,7826.0,6888.0,13.617887,60200.0,13.0
+2018,12,L Technologies,"Christopher Kubasik, Chairman, CEO and President",USA,7749.0,7629.0,1.5729454,9573.0,80.94641
+2018,13,Huntington Ingalls Industries,"Mike Petters, President and CEO",USA,7030.0,6778.21,3.714698,7400.0,95.0
+2018,14,United Aircraft Corp,"Yury Slyusar, President, Chairman of the Management Board",Russia,6197.25,5636.84,9.94192,7746.56,80.00002
+2018,15,Leidos,"Roger Krone, Chairman and CEO",USA,5218.0,4252.0,22.71872,10170.0,51.307766
+2018,16,RollsRoyce,"Warren East, CEO",United Kingdom,4625.73,4741.15,-2.4344287,28582.91,16.183552
+2018,17,Booz Allen Hamilton,"Horacio Rozanski, President and CEO",USA,4320.0,4000.0,8.0,6171.85,69.99522
+2018,18,Naval Group,"Hervé Guillou, Chairman and CEO",France,4178.33,3540.9,18.001926,4178.33,100.0
+2018,19,Harris Corporation,"Bill Brown, Chairman, President and CEO",USA,4158.0,4213.0,-1.305483,5979.0,69.5434
+2018,20,Textron Inc,"Scott Donnelly, Chairman and CEO",USA,4117.42,4412.16,-6.68018,14198.0,29.0
+2018,21,Honeywell,"Darius Adamczyk, Chairman and CEO",USA,4100.0,4375.0,-6.285714,40534.0,10.1149645
+2018,22,GE Aviation,"David Joyce, GE Vice Chairman, President and CEO,",USA,3991.0,3500.0,14.028571,27013.0,14.774367
+2018,23,Hanwha,"Seung Youn Kim, Chairman and CEO",South Korea,3895.27,4214.97,-7.584874,44507.09,8.752021
+2018,24,Bechtel,"Brendan Bechtel, Chairman and CEO",USA,3576.0,3020.0,18.410597,,
+2018,25,Tactical Missiles Corporation JSC,"Boris Obnosov, Director General",Russia,3573.95,2866.24,24.69123,3624.21,98.61321
+2018,26,GKN Aerospace,"Hans Buthker, Chief Executive",United Kingdom,3484.12,3316.55,5.0525417,13400.45,26.000023
+2018,27,Rheinmetall,"Armin Papperger, CEO",Germany,3430.35,3270.06,4.901746,6661.83,51.492607
+2018,28,Elbit Systems Ltd,"Bezhalel Machlis, President and CEO",Israel,3377.83,3147.2,7.328105,3377.83,100.0
+2018,29,Babcock International,"Mike Turner, Chairman, and Archie Bethel, Chief Executive",United Kingdom,3341.03,2963.71,12.731342,7108.58,46.999966
+2018,30,Orbital ATK,"David W. Thompson, CEO",USA,3300.0,2871.0,14.942529,4760.0,69.32773
+2018,31,AECOM,"Michael Burke, Chairman and CEO",USA,3197.78,2939.8,8.775427,18203.4,17.566936
+2018,32,Saab,"Håkan Buskhe, President and CEO",Sweden,3090.07,2777.27,11.262861,3678.65,84.00011
+2018,33,KNDS,"Frank Haun, CEO of KMW, and Stéphane Mayer, Chairman and CEO of the Nexter Group",France,2991.95,2903.84,3.0342531,2991.95,100.0
+2018,34,CACI International,"Ken Asbury, President and CEO",USA,2829.31,2439.33,15.987176,4354.62,64.9726
+2018,35,SAIC,"Tony Moraco, CEO",USA,2761.48,2581.0,6.992638,4454.0,62.0
+2018,36,Russian Helicopters,"Andrey Boginskiy, CEO",Russia,2735.16,2652.01,3.135354,4250.24,64.353065
+2018,37,Perspecta,"Mac Curtis, President and CEO",USA,2731.95,,,4203.0,65.0
+2018,38,Hindustan Aeronautics,"Shri T. Suvarna Raju, Chairman and Managing Director",India,2720.0,2518.6,7.996502,2830.0,96.113075
+2018,39,Israel Aerospace Industries,"Joseph Weiss, CEO",Israel,2469.0,2618.0,-5.691367,3520.0,70.142044
+2018,40,St Engineering,"Vincent Chong, President and CEO",Singapore,2300.0,2339.0,-1.6673793,6619.0,34.74845
+2018,41,Rockwell Collins,"Kelly Ortberg, Chairman, President and CEO",USA,2280.0,2210.0,3.167421,6820.0,33.431087
+2018,42,Rafael Advanced Defense Systems,"Yoav Har-Even, President and CEO",Israel,2300.06,2354.56,-2.3146574,2300.06,100.0
+2018,43,Mitsubishi Heavy Industries Ltd,"Shunichi Miyanaga, President and CEO",Japan,2217.38,4033.48,-45.02564,,
+2018,44,Dassault,"Eric Trappier, CEO*",France,2124.19,1356.0,56.651176,5434.77,39.085186
+2018,45,Aerojet Rocketdyne,"Warren Lichtenstein, Executive Chairman, and Eileen Drake, CEO and President",USA,1870.8,1761.3,6.2169986,1870.8,100.0
+2018,46,Uralvagonzavod,"Alexander PotaPov, CEO",Russia,1865.0,1584.29,17.718344,2626.77,70.99974
+2018,47,Oshkosh Defense,"John Bryant, Executive Vice President, Oshkosh Corporation, and President, Oshkosh Defense",USA,1820.1,1351.1,34.712456,6830.0,26.648607
+2018,48,Concern RadioElectronic Technologies JSC,"Nikolay Kolesov, CEO",Russia,1677.48,1365.52,22.845507,1973.5,85.00025
+2018,49,Cobham,"Michael Wareing, Chairman",United Kingdom,1584.86,1490.5,6.3307605,2641.44,59.999847
+2018,50,Kawasaki Heavy Industries,"Shigeru Murayama, Chairman",Japan,1566.15,884.66,77.03412,,
+2018,51,LIG Nex,"Kim Jichan, CEO",South Korea,1555.24,1618.1,-3.8848023,1555.24,100.0
+2018,52,KBR,"Stuart Bradie, President and CEO",USA,1546.67,1532.64,0.9154159,4171.0,37.081516
+2018,53,Safran,"Philippe Petitcolin, CEO",France,1519.7,1374.18,10.589581,18666.91,8.141144
+2018,54,DynCorp International,"George Krivo, CEO",USA,1501.09,1277.64,17.489273,2004.44,74.888245
+2018,55,Aselsan,"Haluk Görgün, Chairman, President and CEO",Turkey,1424.93,1195.28,19.213074,1470.91,96.87405
+2018,56,Fincantieri,"Giuseppe Bono, CEO",Italy,1369.23,1306.51,4.8005733,5672.14,24.139565
+2018,57,Accenture,"Pierre Nanterme, Chairman and CEO",USA,1343.0,1315.0,2.1292777,34900.0,3.8481376
+2018,58,ManTech International,"George Pedersen, Executive Chairman and Chairman of the Board, and Kevin Phillips, President and CEO",USA,1300.0,1454.25,-10.606842,1720.0,75.5814
+2018,59,Bharat Electronics Ltd,"M V Gowtama, Chairman and Managing Director",India,1270.0,1164.9,9.022231,1500.0,84.66667
+2018,60,Serco,"Dave Dacquino, Chairman and CEO",United Kingdom,1236.84,1305.14,-5.233159,4264.95,29.000103
+2018,61,Fluor,"David Seaton, Chairman and CEO",USA,1217.06,986.67,23.350267,19521.0,6.2346196
+2018,62,PAE,"John Heller, CEO",USA,1127.35,1145.14,-1.5535252,2331.59,48.35112
+2018,63,Vectrus,"Chuck Prow, President and CEO",USA,1114.79,1190.52,-6.3610845,1114.79,100.0
+2018,64,Turkish Aerospace Industries,"Temel Kotil, President and CEO",Turkey,1089.63,1083.75,0.542561,1421.67,76.64436
+2018,65,NEC,"Takashi Niino, President and CEO (Representative Director)",Japan,1062.0,921.83,15.205622,,
+2018,66,Korea Aerospace Industries,"Kim Jo-won, President and CEO",South Korea,982.28,1818.69,-45.989693,1829.8,53.68237
+2018,67,Austal,"David Singleton, CEO",Australia,969.12,920.0,5.33913,986.3,98.25814
+2018,68,Ultra Electronics,"Simon Pryce, CEO",United Kingdom,951.97,943.32,0.91697025,1160.94,81.99993
+2018,69,Embraer,"Paulo Cesar de Souza e Silva, CEO",Brazil,951.0,932.7,1.9620442,5839.3,16.2862
+2018,70,Cubic,"Bradley Feldmann, Chairman, President and CEO",USA,907.27,875.3,3.6524658,1485.86,61.06026
+2018,71,Meggitt,"Tony Wood, CEO*",United Kingdom,910.97,943.76,-3.4744043,2602.78,34.99988
+2018,72,Ukroboronprom,"Pavlo Bukin, Director General",Ukraine,873.45,852.52,2.4550734,1063.82,82.10506
+2018,73,Ruag,"Urs Breitmeier, CEO Ruag Group, Chairman of the Group Executive Board",Switzerland,873.83,816.19,7.062083,1985.98,43.99994
+2018,74,Mitsubishi Electric,"Masaki Sakuyama, Chairman",Japan,863.77,682.63,26.535606,41803.76,2.0662496
+2018,75,CurtissWright,"David Adams, Chairman and CEO",USA,862.69,787.27,9.579939,2271.03,37.98673
+2018,76,Moog Inc,"John Scannell, CEO",USA,861.8,848.39,1.5806377,2497.52,34.50623
+2018,77,QinetiQ Plc,"Steve Wadey, CEO",United Kingdom,850.64,912.22,-6.75056,1104.75,76.99842
+2018,78,CAE,"Marc Parent, President and CEO",Canada,836.73,741.16,12.894652,2182.23,38.342888
+2018,79,Engility,"Lynn Dugle, Chairman, President and CEO",USA,776.32,888.72,-12.647399,1931.89,40.184483
+2018,80,ViaSat,"Mark Dankberg, Chairman of the Board and CEO",USA,772.1,685.1,12.698877,1594.6,48.419666
+2018,81,Kongsberg,"Geir Håøy, President and CEO",Norway,771.33,894.29,-13.749451,1753.03,43.999817
+2018,82,Indra,"Fernando Abril-Martorell, Chairman and CEO",Spain,673.41,671.22,0.32627195,3402.1,19.79395
+2018,83,Ball,"Robert Strain, President",USA,665.17,551.2,20.676699,990.56,67.1509
+2018,84,Denel,"Monhla Hlahla, chairman*",South Africa,621.23,559.5,11.033062,621.23,100.0
+2018,85,Day  Zimmermann,"Hal Yoh, Chair and CEO",USA,617.65,521.4,18.459915,2530.0,24.413044
+2018,86,IMI Systems,"Avi Felder, President and CEO",Israel,611.38,496.0,23.262098,611.38,100.0
+2018,87,AAR,"John Holmes, President and CEO",USA,597.6,652.3,-8.385715,1767.6,33.80855
+2018,88,Chemring,"Michael Ord, Group Chief Executive",United Kingdom,585.51,543.04,7.8207927,697.04,83.99948
+2018,89,Toshiba Infrastructure Systems,"Shinichiro Akibam, President and CEO",Japan,570.61,,,,
+2018,90,Patria,"Olli Isotalo, President and CEO",Finland,486.17,530.6,-8.373532,528.45,91.999245
+2018,91,Diehl Defence Holding,"Karl Tragl, President and CEO*",Germany,515.23,482.85,6.7060113,4235.96,12.16324
+2018,92,Battelle,"Lewis ""Lou"" Von Thaer, President and CEO",USA,450.0,470.0,-4.255319,4900.0,9.183674
+2018,93,Hyundai Rotem Company,"Seung-tack Kim, CEO and President",South Korea,446.87,517.86,-13.708337,2406.76,18.567286
+2018,94,Fujitsu Ltd,"Tatsuya Tanaka, Representative Director President",Japan,432.66,440.47,-1.7731054,36991.97,1.1696053
+2018,95,Nammo,"Morten Brandtzæg, President and CEO",Norway,431.78,393.4,9.755975,539.82,79.98592
+2018,96,Roketsan,"Selcuk Yasar, President and CEO",Turkey,376.08,363.69,3.406743,376.08,100.0
+2018,97,STM Savunma Teknolojileri Muhendislik ve Ticaret AS,"Davut Yilmaz, General Manager",Turkey,369.96,342.6,7.9859853,414.1,89.34074
+2018,98,Telephonics Corporation,"Kevin McSweeney, President",USA,366.91,403.23,-9.007268,1985.91,18.47566
+2018,99,Komatsu Ltd,"Kunio Noji, Chairman",Japan,252.56,884.66,-71.45118,22574.99,1.1187602
+2018,100,Oki Electric Industry,"Hideichi Kawasaki, Director and Chairman",Japan,194.71,,,,
+2017,1,Lockheed Martin,"Marillyn Hewson, Chairman, President and CEO",USA,43468.0,40596.0,7.074589,47248.0,91.999664
+2017,2,Boeing,"Dennis Muilenburg, President and CEO",USA,29500.0,30388.0,-2.9222062,94571.0,31.193495
+2017,3,BAE Systems,"Charles Woodburn, CEO",United Kingdom,23621.84,25278.08,-6.5520806,25867.2,91.31967
+2017,4,Raytheon Company,"Thomas Kennedy, Chairman and CEO",USA,22384.17,21619.71,3.5359354,24069.0,93.0
+2017,5,Northrop Grumman,"Wes Bush, Chairman, President and CEO",USA,20200.0,17600.0,14.772727,24508.0,82.422066
+2017,6,General Dynamics,"Phebe Novakovic, Chairman and CEO",USA,19696.0,19148.0,2.8619177,31353.0,62.82014
+2017,7,Airbus,"Fabrice Brégier, President and CEO",Netherlands,12321.0,12776.1,-3.562117,73903.8,16.671675
+2017,8,L Technologies,"Michael Strianese, Chairman, President and CEO",USA,8879.0,8772.0,1.2197902,10511.0,84.473404
+2017,9,Leonardo,"Alessandro Profumo, CEO",Italy,8526.22,9318.45,-8.50174,13322.22,63.999992
+2017,10,Thales,"Patrice Caine, Chairman and CEO",France,8362.0,7863.24,6.34293,16837.0,49.66443
+2017,11,AlmazAntey,"Yan Novikov, CEO",Russia,7412.9,6965.77,6.418958,7412.9,100.0
+2017,12,United Technologies,"Gregory Hayes, President, CEO and Director",USA,6888.0,6780.0,1.5929203,57400.0,12.0
+2017,13,Huntington Ingalls Industries,"Mike Petters, President and CEO",USA,6778.21,6879.6,-1.4737796,7068.0,95.89997
+2017,14,United Aircraft Corp,"Yury Slyusar, President and Chairman",Russia,5636.84,4643.76,21.38526,7046.05,80.0
+2017,15,RollsRoyce,"Warren East, CEO",United Kingdom,4741.15,4790.28,-1.025616,18675.97,25.386364
+2017,16,Textron Inc,"Scott Donnelly, Chairman, President and CEO",USA,4412.16,4161.13,6.032743,13788.0,32.000004
+2017,17,Honeywell,"Dave Cote, Executive Chairman",USA,4375.0,4715.0,-7.2110286,39302.0,11.131749
+2017,18,Leidos,"Roger Krone, Chairman and CEO",USA,4252.0,3248.0,30.91133,7043.0,60.372
+2017,19,Hanwha,"Seung Youn Kim, Chairman",South Korea,4214.97,3104.0,35.79157,40523.38,10.401329
+2017,20,Harris Corporation,"Bill Brown, Chairman, President and CEO",USA,4213.0,4400.0,-4.25,5950.0,70.806725
+2017,21,Mitsubishi Heavy Industries Ltd,"Shunichi Miyanaga, President and CEO",Japan,4033.48,2395.12,68.404076,34834.6,11.578946
+2017,22,Booz Allen Hamilton,"Horacio Rozanski, President and CEO",USA,4000.0,3900.0,2.5641026,5804.28,68.914665
+2017,23,DCNS Group,"Hervé Guillou, Chairman and CEO",France,3540.9,3288.55,7.6735897,3540.9,100.0
+2017,24,GE Aviation,"David Joyce, President and CEO",USA,3500.0,3700.0,-5.4054055,26000.0,13.461539
+2017,25,GKN Aerospace,"Kevin Cummings, CEO",United Kingdom,3316.55,2604.65,27.331894,12755.97,25.999985
+2017,26,Rheinmetall,"Armin Papperger, CEO",Germany,3270.06,2876.01,13.701275,5753.13,56.83967
+2017,27,Elbit Systems Ltd,"Bezhalel Machlis, President and CEO",Israel,3147.2,3108.0,1.2612597,3260.22,96.53336
+2017,28,Bechtel,"Brendan Bechtel, CEO",USA,3020.0,3230.0,-6.501548,32300.0,9.349845
+2017,29,Backbock International,"Archie Bethel, CEO",United Kingdom,2963.71,3357.41,-11.726299,6174.4,47.99997
+2017,30,AECOM,"Michael Burke, Chairman and CEO",USA,2939.8,2735.0,7.4881186,17410.8,16.884922
+2017,31,Orbital ATK,"David Thompson, President and CEO",USA,2871.0,2775.0,3.4594595,4450.0,64.51685
+2017,32,Tactical Missiles Corporation JSC,"Boris Obnosov, Director General",Russia,2866.24,2387.78,20.037859,2920.32,98.14814
+2017,33,Israel Aerospace Industries,"Joseph Weiss, President & CEO",Israel,2618.0,2776.0,-5.6916428,3577.0,73.18983
+2017,34,SAIC,"Tony Moraco, CEO",USA,2581.0,2838.0,-9.055674,4450.0,58.0
+2017,35,Hindustan Aeronautics,"T. Suvarna Raju, Chairman and Managing Director",India,2518.6,2410.97,4.464184,2697.93,93.35306
+2017,36,CACI International,"Ken Asbury, President and CEO",USA,2439.33,2217.03,10.02693,3744.05,65.152176
+2017,37,Rafael Advanced Defense Systems,"Yoav Har-Even, President and CEO",Israel,2354.56,2016.17,16.783804,2354.56,100.0
+2017,38,Saab,"Håkan Buskhe, President and CEO",Sweden,2307.62,2643.83,-12.716776,2780.27,82.999855
+2017,39,CSRA,"Lawrence Prior, President and CEO",USA,2250.0,1684.85,33.54305,4993.0,45.063087
+2017,40,Rockwell Collins,"Kelly Ortberg, President and CEO",USA,2210.0,2187.0,1.0516689,5250.0,42.095238
+2017,41,Korea Aerospace Industries LTD,"Sung-Yong Ha, President and CEO",South Korea,1818.69,1678.86,8.328863,2666.58,68.20309
+2017,42,Aerojet Rocketdyne,"Eileen Drake, CEO and President",USA,1761.3,1708.3,3.1024995,1761.3,100.0
+2017,43,St Engineering,"Vincent Chong, President and CEO",Singapore,1697.5,1659.32,2.3009458,4850.0,35.0
+2017,44,LIG Nex,"Lee Hyo-koo, CEO",South Korea,1618.1,1528.67,5.8501787,1618.1,100.0
+2017,45,Uralvagonzavod,"Alexander PotaPov, CEO",Russia,1584.29,1014.39,56.18155,2235.87,70.85788
+2017,46,KBR,"Stuart B. Bradie, President and CEO",USA,1532.64,535.02,186.46405,4268.0,35.910027
+2017,47,Cobham,"David Lockwood, CEO",United Kingdom,1490.5,1965.5,-24.16688,2634.12,56.58436
+2017,48,ManTech International,"George Pedersen, Chairman and CEO",USA,1454.25,1406.0,3.431721,1601.6,90.79983
+2017,49,Safran,"Phillippe Petitcolin, CEO",France,1374.18,1405.26,-2.211687,17516.91,7.8448772
+2017,50,Concern Rdaioelectronic Technologies JSC,"Nikolay Kolesov, CEO",Russia,1365.52,1678.41,-18.642048,2090.53,65.31932
+2017,51,Dassault,"Serge Dassault, CEO",France,1356.0,1887.0,-28.139904,3208.07,42.268406
+2017,52,Oshkosh Defense,"Wilson Jones, CEO",USA,1351.1,939.8,43.76463,6279.2,21.51707
+2017,53,Accenture,"Pierre Nanterme, Chairman and CEO",USA,1315.0,1140.0,15.350877,32900.0,3.9969604
+2017,54,Fincantieri,"Giuseppe Bono, CEO",Italy,1306.51,1172.16,11.461743,5004.56,26.10639
+2017,55,Serco,"Rupert Soames, CEO",United Kingdom,1305.14,1613.43,-19.10774,4078.55,32.0001
+2017,56,DynCorp International,"George Krivo, CEO",USA,1277.64,1287.35,-0.75425965,1836.15,69.58255
+2017,57,Aselsan,"Faik Eken, CEO",Turkey,1195.28,1025.98,16.5013,1243.47,96.12456
+2017,58,Vectrus,"Chuck Prow, CEO",USA,1190.52,1180.0,0.89152706,1190.52,100.0
+2017,59,Bharat Electronics Ltd,"S.K. Sharma, Chairman & Managing Director",India,1164.9,982.12,18.610764,1323.75,88.0
+2017,60,PAE,"John Heller, CEO",USA,1145.14,939.5,21.888239,2229.41,51.36516
+2017,61,Turkish Aerospace Industries,"Temel Kotil, President & CEO",Turkey,1083.75,886.55,22.24353,1260.19,85.99894
+2017,62,Ukroboronprom,"Roman Romanov, General Director",Ukraine,1075.45,920.0,16.896734,1075.45,100.0
+2017,63,Fluor,"David Thomas Seaton, Chairman and CEO",USA,986.67,1019.66,-3.2353911,19036.53,5.183035
+2017,64,Nexter,"Stéphane Mayer, CEO",France,978.58,1187.7,-17.607134,978.58,100.0
+2017,65,Meggitt,"Stephen Young, CEO",United Kingdom,943.76,877.07,7.6037264,2696.45,35.000095
+2017,66,Embraer,"Paulo Cesar de Souza e Silva, CEO",Brazil,932.7,811.1,14.991991,6217.5,15.001206
+2017,67,Vencore,"Mac Curtis, President and CEO",USA,886.59,880.48,0.69394493,1168.07,75.90214
+2017,68,Kawasaki Heavy Industries,"Shigeru Murayama, Chairman",Japan,884.66,1740.83,-49.181713,13517.59,6.5445094
+2017,69,Komatsu Ltd,"Kunio Noji, Chairman",Japan,884.66,308.49,186.77104,16045.81,5.5133395
+2017,70,Cubic,"Bradley Feldmann, President & CEO",USA,875.3,864.2,1.284422,1461.67,59.883553
+2017,71,Kongsberg,"Geir Håøy, CEO",Norway,870.0,894.29,-2.7161188,1900.0,45.789474
+2017,72,Engility,"Lynn Dugle, CEO",USA,847.91,888.72,-4.591997,2076.42,40.835186
+2017,73,Austal,"David Singleton, CEO",Australia,842.97,920.0,-8.372829,996.94,84.55574
+2017,74,Ruag,"Urs Breitmeier, CEO",Switzerland,826.1,816.19,1.2141747,1921.17,42.999836
+2017,75,Ultra Electronics,"Rakesh Sharma, CEO",United Kingdom,824.78,943.32,-12.566254,1005.82,82.000755
+2017,76,Moog Inc,"John Scannell, CEO",USA,819.31,848.39,-3.427671,2411.94,33.96892
+2017,77,NEC,"Nobuhiro Endo, Chairman",Japan,805.45,921.83,-12.624888,23718.5,3.3958726
+2017,78,CurtisWright,"David Adams, Chairman and CEO",USA,793.73,787.27,0.8205521,2108.93,37.636623
+2017,79,QinetiQ Plc,"Steve Wadey, CEO",United Kingdom,783.68,912.22,-14.090898,1004.72,77.99984
+2017,80,CAE,"Marc Parent, CEO",Canada,782.86,741.16,5.6263175,2041.9,38.339783
+2017,81,Fujitsu Ltd,"Masami Yamamoto, Chairman",Japan,696.87,440.47,58.210545,40135.44,1.7362958
+2017,82,ViaSat,"Mark Dankberg, Chairman and CEO",USA,685.1,607.5,12.773659,1559.0,43.944836
+2017,83,Mitsubishi Electric,"Masaki Sakuyama, President and CEO",Japan,682.63,784.42,-12.976464,37723.54,1.8095598
+2017,84,Indra,"Frenando Abril-Martorell, Chairman",Spain,671.22,601.62,11.56876,3051.0,21.999998
+2017,85,AAR,"David Storch, Chairman, President and CEO",USA,652.3,589.8,10.596812,1662.6,39.23373
+2017,86,RTI,"Maxim Kuzyuk, CEO",Russia,565.9,660.13,-14.274459,753.55,75.09788
+2017,87,Denel,"Daniel Mantsha, Chairman",South Africa,559.5,415.49,34.660282,559.5,100.0
+2017,88,Ball,"Robert Strain, President",USA,551.2,577.3,-4.521042,818.3,67.35916
+2017,89,Chemring,"Michael Flowers, CEO",United Kingdom,543.04,478.13,13.5758,646.47,84.0008
+2017,90,Patria,"Olli Isotalo, President & CEO",Finland,530.6,431.42,22.98919,559.0,94.919495
+2017,91,Day  Zimmermann,"Hal Yoh, Chairman and CEO",USA,521.4,559.36,-6.78632,2420.0,21.545454
+2017,92,Israel Military Industries,"Avi Felder, President and CEO",Israel,496.0,511.0,-2.9354208,496.0,100.0
+2017,93,Nammo,"Morten Brandtzæg, President and CEO",Norway,495.0,363.12,36.318573,495.0,100.0
+2017,94,Diehl Defence Holding,"Thomas Diehl, president & CEO",Germany,482.85,449.55,7.407412,3785.1,12.7565975
+2017,95,Battelle,"Jeff Wadsworth, CEO",USA,470.0,476.0,-1.2605042,4800.0,9.791667
+2017,96,Telephonics Corporation,"Kevin McSweeney, President",USA,403.23,397.68,1.3955991,1957.15,20.602917
+2017,97,Japan Marine United Corporation,"Shinjiro Mishima, CEO",Japan,365.79,,,,
+2017,98,Roketsan,"Selcuk Yasar, CEO",Turkey,363.69,,,363.69,100.0
+2017,99,LGS Innovations,"Kevin Kelly, CEO",USA,330.04,,,343.0,96.22158
+2017,100,IHI Corporation,"Tamotsu Saito, CEO",Japan,315.95,563.29,-43.90988,13228.35,2.388431
+2016,1,Lockheed Martin,"Marillyn Hewson, Chairman, President and CEO",USA,40596.0,40128.0,1.166268,46132.0,87.99966
+2016,2,Boeing,"Dennis Muilenburg, President and CEO",USA,30388.0,29000.0,4.7862067,96114.0,31.616623
+2016,3,BAE Systems,"Ian Graham King, CEO",United Kingdom,25278.08,25449.0,-0.67161745,27357.31,92.39973
+2016,4,Raytheon,"Thomas Kennedy, Chairman and CEO",USA,21619.71,22228.2,-2.737461,23247.0,93.00001
+2016,5,General Dynamics,"Phebe Novakovic, Chairman and CEO",USA,19148.0,18561.0,3.162545,31469.0,60.84718
+2016,6,Northrop Grumman,"Wes Bush, Chairman, President and CEO",USA,17600.0,18400.0,-4.347826,23526.0,74.810844
+2016,7,Airbus,"Fabrice BrŽgier, President and CEO",Netherlands,12776.1,14609.5,-12.549371,71539.5,17.858805
+2016,8,Leonardo Spa,"Mauro Moretti, CEO and General Manager",Italy,9318.45,9808.0,-4.9913316,14424.45,64.601776
+2016,9,L Communications,"Michael Strianese, Chairman, President and CEO",USA,8772.0,9808.0,-10.562806,10466.0,83.814255
+2016,10,Thales,"Patrice Caine, Chairman and CEO",France,7863.24,8461.6,-7.071469,15609.93,50.37332
+2016,11,AlmazAntey,"Yan Novikov, CEO",Russia,6965.77,9209.8,-24.365673,6965.77,100.0
+2016,12,Huntington Ingalls Industries,"Mike Petters, President and CEO",USA,6879.6,6818.0,0.9034922,7020.0,98.0
+2016,13,United Technologies Corporation,"Gregory Hayes, President, CEO and Director",USA,6780.0,13020.0,-47.92627,56500.0,12.0
+2016,14,RollsRoyce,"Warren East, CEO",United Kingdom,4790.28,5433.7,-11.841294,19795.4,24.198954
+2016,15,Honeywell,"David Cote, CEO",USA,4715.0,4754.0,-0.82036185,38581.0,12.221042
+2016,16,United Aircraft Corporation,"Yury Slyusar, President and Chairman",Russia,4643.76,6244.0,-25.628448,5804.7,79.99999
+2016,17,Harris,"Bill Brown, Chairman, President and CEO",USA,4400.0,2384.7,84.50959,7467.0,58.925938
+2016,18,Textron,"Scott Donnelly, Chairman, President and CEO",USA,4161.13,4719.0,-11.821787,13423.0,31.0
+2016,19,GE Aviation,"David Joyce, President and CEO",USA,3700.0,4000.0,-7.5000005,24660.0,15.004055
+2016,20,Babcock International,"Peter Rogers, CEO",United Kingdom,3357.41,3558.8,-5.658934,7298.72,45.99998
+2016,21,Safran,"Phillippe Petitcolin, CEO",France,3334.44,4081.3,-18.299562,19329.54,17.250488
+2016,22,DCNS Group,"HervŽ Guillou, Chairman and CEO",USA,3288.55,4074.7,-19.293442,3363.3,97.77748
+2016,23,Leidos,"Roger Krone, Chairman and CEO",USA,3248.0,3627.0,-10.449408,5086.0,63.86158
+2016,24,Bechtel,"Bill Dudley, CEO",USA,3230.0,3000.0,7.666667,37200.0,8.682796
+2016,25,Russian Helicopters,"Alexander Mikheev, CEO",Russia,3193.99,3960.0,-19.343687,3629.54,87.999855
+2016,26,Elbit Systems,"Bezhalel Machlis, President and CEO",Israel,3108.0,2958.2,5.063892,3108.0,100.0
+2016,27,Rheinmetall,"Armin Papperger, CEO",Germany,2876.01,2976.9,-3.3890924,5753.0,49.99148
+2016,28,SAIC,"Tony Moraco, CEO",USA,2838.0,2735.0,3.7659962,4315.0,65.77057
+2016,29,Israel Aerospace Industries,"Joseph Weiss, President & CEO",Israel,2776.0,2785.0,-0.32315978,3708.0,74.86516
+2016,30,Orbital ATK,"David Thompson, President and CEO",USA,2775.0,2750.0,0.9090909,4515.0,61.461796
+2016,31,AECOM,"Michael Burke, Chairman and CEO",USA,2735.0,4433.0,-38.30363,17989.9,15.202975
+2016,32,Saab,"HŒkan Buskhe, President and CEO",Sweden,2643.83,2829.3,-6.5553308,3224.26,81.99805
+2016,33,Booz Allen Hamilton,"Horacio Rozanski, President and CEO",USA,2600.0,4100.0,-36.585365,5405.74,48.09702
+2016,34,KNDS,"Frank Haun and StŽphane Mayer, CEOs",Germany,2442.0,1096.2,122.769585,2442.0,100.0
+2016,35,Hindustan Aeronautics,"T. Suvarna Raju, Chairman and Managing Director",India,2410.97,2480.4,-2.7991426,2560.61,94.156075
+2016,36,Mitsubishi Heavy Industries,"Shunichi Miyanaga, President and CEO",Japan,2395.12,2626.7,-8.81638,42761.81,5.6010733
+2016,37,Tactical Missiles Corporation JSC,"Boris Obnosov, Director General",Russia,2387.78,2147.8,11.173292,2498.22,95.579254
+2016,38,Hanwha Group,"Seung Youn Kim, Chairman",South Korea,2374.74,1545.0,53.704853,2427.72,97.8177
+2016,39,CACI International,"Ken Asbury, President and CEO",USA,2217.03,2578.0,-14.001939,3313.45,66.91002
+2016,40,Rockwell Collins,"Kelly Ortberg, President and CEO",USA,2187.0,2209.0,-0.9959257,5244.0,41.704807
+2016,41,Rafael Advanced Defense Systems,"Yoav Har-Even, President and CEO",Israel,2016.17,2115.0,-4.672811,2016.17,100.0
+2016,42,Cobham,"Bob Murphy, CEO",United Kingdom,1965.5,1860.0,5.6720433,3170.16,62.000023
+2016,43,Dassault Group,"Serge Dassault, CEO",France,1887.0,1332.3,41.63476,4662.0,40.476192
+2016,44,Kawasaki Heavy Industries,"Shigeru Murayama, President",Japan,1740.83,1909.2,-8.818876,13523.72,12.87242
+2016,45,Aerojet Rocketdyne,"Eileen Drake, CEO and President",USA,1708.3,1591.2,7.359232,1708.3,100.0
+2016,46,CSRA,"Lawrence Prior, President and CEO",USA,1684.85,2177.0,-22.606798,5191.25,32.455574
+2016,47,Korea Aerospace Industries,"Ha, Sung-Yong, President and CEO",South Korea,1678.86,1160.0,44.72931,2552.91,65.7626
+2016,48,Concern Radioelectronic Technologies JSC,"Nikolay Kolesov, CEO",Russia,1678.41,,,1963.56,85.477905
+2016,49,ST Engineering,"Tan Pheng Hock, President and CEO",Singapore,1659.32,2012.8,-17.56161,4609.36,35.998924
+2016,50,Serco,"Rupert Soames, CEO",United Kingdom,1613.43,2174.8,-25.812489,4609.36,35.00334
+2016,51,LIG Nex,"Lee Hyo-koo, CEO",South Korea,1528.67,1330.0,14.937597,1528.67,100.0
+2016,52,ManTech International,"George Pedersen, Chairman and CEO",USA,1406.0,1046.7,34.32694,1550.12,90.70265
+2016,53,DynCorp,"S. Gordon Walsh, CEO",USA,1287.35,1579.0,-18.470552,1923.18,66.93861
+2016,54,Nexter Group,"StŽphane Mayer, CEO",France,1187.7,1392.8,-14.725739,1187.7,100.0
+2016,55,Vectrus,"Kenneth Hunzeker, President and CEO",USA,1180.0,,,1180.0,100.0
+2016,56,Fincantieri,"Giuseppe Bono, CEO",Italy,1172.16,1406.8,-16.67899,4643.07,25.245369
+2016,57,Accenture,"Pierre Nanterme, Chairman and CEO",USA,1140.0,1059.5,7.5979233,31000.0,3.6774192
+2016,58,Aselsan,"Faik Eken, CEO",Turkey,1025.98,1109.0,-7.4860253,1025.98,100.0
+2016,59,Fluor,"David Thomas Seaton, Chairman and CEO",USA,1019.66,1319.3,-22.71205,18100.0,5.6334805
+2016,60,Uralvagonzavod,"Oleg Sienko, CEO",Russia,1014.39,1545.0,-34.34369,1758.47,57.685947
+2016,61,Bharat Electronics,"S.K. Sharma, Chairman & Managing Director",India,982.12,875.7,12.152561,1094.57,89.72656
+2016,62,GKN Aerospace,"Kevin Cummings, CEO",United Kingdom,953.47,990.2,-3.7093558,3820.0,24.959948
+2016,63,Ultra Electronics,"Rakesh Sharma, CEO",United Kingdom,943.32,951.5,-0.8596945,1109.79,84.99986
+2016,64,Oshkosh Defense,"Charles Szews, CEO",USA,939.8,1725.0,-45.51884,6098.1,15.411358
+2016,65,PAE,"John Heller, CEO",USA,939.5,895.2,4.9486136,2109.53,44.535984
+2016,66,NEC,"Nobuhiro Endo, Chairman",Japan,921.83,1011.0,-8.819979,26710.32,3.451213
+2016,67,Austal,"David Singleton, CEO",Australia,920.0,791.0,16.30847,1060.0,86.79245
+2016,68,Ukroboronprom,"Roman Romanov, General Director",Ukraine,920.0,575.9,59.74995,920.0,100.0
+2016,69,QinetiQ,"Steve Wadey, CEO",United Kingdom,912.22,1017.9,-10.382164,1154.56,79.01018
+2016,70,Kongsberg,"Walter Qvam, President & CEO",Norway,894.29,929.8,-3.819102,2113.67,42.309822
+2016,71,Engility,"Lynn Dugle, CEO",USA,888.72,1530.0,-41.913727,2086.0,42.604027
+2016,72,Turkish Aerospace Industries,"Muharrem Dortkasli, President and CEO",Turkey,886.55,853.6,3.8601234,1034.65,85.68598
+2016,73,Vencore,"Mac Curtis, President and CEO",USA,880.48,838.62,4.9915323,1155.05,76.22873
+2016,74,Meggitt,"Stephen Young, CEO",United Kingdom,877.07,888.7,-1.3086536,2505.92,34.999924
+2016,75,Cubic,"Bradley Feldmann, President & CEO",USA,864.2,798.7,8.200827,1431.0,60.39134
+2016,76,Moog,"John Scannell, CEO",USA,848.39,837.8,1.2640281,2525.53,33.592552
+2016,77,ANA Holdings,"Shinya Katanozaka, President & CEO",Japan,844.48,926.1,-8.813303,15592.46,5.4159513
+2016,78,Ruag,"Urs Breitmeier, CEO",Switzerland,816.19,718.4,13.61219,1813.76,44.99989
+2016,79,Embraer,"Paulo Cesar de Souza e Silva, CEO",Brazil,811.1,1459.5,-44.426174,5928.1,13.682292
+2016,80,CurtissWright,"David Adams, Chairman and CEO",USA,787.27,749.6,5.025353,2205.68,35.69285
+2016,81,Mitsubishi Electric,"Masaki Sakuyama, President and CEO",Japan,784.42,860.3,-8.82018,39339.67,1.9939668
+2016,82,CAE,"Gene Colabatistto, Group President, Defence & Security",Canada,741.16,755.6,-1.9110644,1919.17,38.618774
+2016,83,RTI,"Sergey Boev, General Director",Russia,660.13,947.2,-30.30722,1050.6,62.83362
+2016,84,ViaSat,"Mark Dankberg, Chairman and CEO",USA,607.5,535.5,13.445379,1417.0,42.872265
+2016,85,Indra,"Frenando Abril-Martorell, Chairman",Spain,601.62,676.0,-11.002959,3163.5,19.017544
+2016,86,AAR Corp,"David Storch, Chairman, President and CEO",USA,589.8,827.4,-28.716465,1594.3,36.99429
+2016,87,Ball Aerospace,"David Taylor, President and CEO",USA,577.3,681.0,-15.227609,810.1,71.26281
+2016,88,IHI Corporation,"Tamotsu Saito, CEO",Japan,563.29,617.8,-8.823246,15145.13,3.7192814
+2016,89,Day  Zimmermann,"Hal Yoh, Chairman and CEO",USA,559.36,555.0,0.78558296,2700.0,20.717037
+2016,90,Israel Military Industries,"Ian Graham King, CEO",Israel,511.0,475.8,7.398069,511.0,100.0
+2016,91,Toshiba,"Masashi Muromachi, CEO",Japan,479.57,,,60568.69,0.7917787
+2016,92,Chemring,"Michael Flowers, CEO",United Kingdom,478.13,723.7,-33.93257,576.06,83.00003
+2016,93,Battelle,"Jeffrey Wadsworth, President and CEO",USA,476.0,569.2,-16.37386,4800.0,9.916667
+2016,94,Diehl Defence Holding,"Heinrich Schunk, President",Germany,449.55,648.5,-30.67849,3450.44,13.028773
+2016,95,Fujitsu,"Masami Yamamoto, Chairman",Japan,440.47,525.9,-16.244537,39727.9,1.1087171
+2016,96,Patria,Heikki Allonen,Finland,431.42,555.8,-22.37855,4747.47,9.087367
+2016,97,Denel,"Zoli - Kunene, Chairman",South Africa,415.49,454.6,-8.603171,415.49,100.0
+2016,98,Telephonics,"Joseph J. Battaglia, President and CEO",USA,397.68,367.95,8.079897,2016.03,19.725897
+2016,99,Nammo,"Morten Brandtzaeg, President and CEO",Norway,363.12,527.4,-31.149036,453.96,79.989426
+2016,100,Komatsu Ltd,"Kunio Noji, Chairman",Japan,308.49,,,18005.95,1.713267
+2015,1,Lockheed Martin,"Marillyn Hewson, Chairman, President & CEO",USA,40128.0,40494.0,-0.90383756,45600.0,88.0
+2015,2,Boeing,"Dennis Muilenburg, President & CEO",USA,29000.0,32000.0,-9.375,90762.0,31.951698
+2015,3,BAE Systems,"Ian King, CEO",United Kingdom,25449.0,28014.0,-9.1561365,27411.3,92.84127
+2015,4,Raytheon,"Thomas Kennedy, Chairman & CEO",USA,22228.2,22047.6,0.819135,22826.0,97.38106
+2015,5,General Dynamics,"Phebe Novakovic, Chairman & CEO",USA,18561.0,18836.0,-1.4599702,30852.0,60.16142
+2015,6,Northrop Grumman,"Wes Bush, Chairman, President & CEO",USA,18400.0,19500.0,-5.6410255,23979.0,76.73381
+2015,7,Airbus Group,"Tom Enders, CEO",Netherlands,14609.5,16546.5,-11.706403,80686.4,18.106522
+2015,8,United Technologies,"Gregory Hayes, President & CEO",USA,13020.0,11894.0,9.466958,65100.0,20.0
+2015,9,Finmeccanica,"Mauro Moretti, CEO & General Manager",Italy,10561.4,10896.3,-3.073515,19486.8,54.197712
+2015,10,L Communications,"Michael Strianese, Chairman, President & CEO",USA,9808.0,10336.0,-5.108359,12124.0,80.89739
+2015,11,AlmazAntey,"Yan Novikov, CEO",Russia,9209.8,8326.3,10.610956,9209.8,100.0
+2015,12,Thales,"Patrice Caine, Chairman & CEO",France,8461.6,10961.6,-22.80689,17242.2,49.074944
+2015,13,Huntington Ingalls Industries,"Mike Petters, President & CEO",USA,6818.0,6324.0,7.811512,6957.0,98.002014
+2015,14,United Aircraft Corp,"Yury Slyusar, President & Chairman of Management Board",Russia,6244.0,5831.7,7.069976,7805.3,79.996925
+2015,15,RollsRoyce,"Warren East, CEO",United Kingdom,5433.7,6123.6,-11.266247,24035.3,22.607166
+2015,16,Honeywell,"Tim Mahoney, President & CEO",USA,4754.0,4900.0,-2.9795918,40300.0,11.796526
+2015,17,Textron,"Scott Donnelly, Chairman, President & CEO",USA,4719.0,4236.0,11.4022665,13878.0,34.003456
+2015,18,AECOM,"Michael Burke, Chairman & CEO",USA,4433.0,1712.6,158.8462,19641.2,22.569904
+2015,19,Booz Allen Hamilton,"Horacio Rozanski, President & CEO",USA,4100.0,4300.0,-4.6511626,5479.0,74.83118
+2015,20,Safran,"Phillippe Petitcolin, CEO",France,4081.3,4027.0,1.3483995,20406.5,20.0
+2015,21,DCNS,"Herve Guillou, CEO",France,4074.7,4601.7,-11.452294,4074.7,100.0
+2015,22,GE,"David Joyce, President & CEO",USA,4000.0,4000.0,0.0,24000.0,16.666668
+2015,23,Russian Helicopters,"Alexander Mikheev, CEO",Russia,3960.0,3406.4,16.251764,4500.8,87.98436
+2015,24,Leidos,"Roger Krone, Chairman & CEO",USA,3627.0,4080.0,-11.102941,5063.0,71.63737
+2015,25,Babcock International,"Peter Rogers, CEO",United Kingdom,3558.8,3423.8,3.9429874,7414.2,47.999783
+2015,26,United EngineBuilding,"Vladislav Masalov, General Director",Russia,3323.6,2647.0,25.561016,5405.2,61.488937
+2015,27,Bechtel,"Craig Albert, Chairman",USA,3000.0,2600.0,15.384616,37200.0,8.064516
+2015,28,Rheinmetall,"Armin Papperger, CEO",Germany,2976.9,2952.8,0.8161695,6230.3,47.781006
+2015,29,Elbit Systems,"Bezhalel Machlis, President & CEO",Israel,2958.2,2925.2,1.1281279,2958.2,100.0
+2015,30,Saab,"Håkan Bushke, President & CEO",Sweden,2829.3,2948.3,-4.0362244,3438.5,82.282974
+2015,31,Tactical Missiles,"Boris Obnosov, Director General",Russia,2812.6,1892.7,48.60253,2960.6,95.001015
+2015,32,Israel Aerospace Industries,"Joseph Weiss, President & CEO",Israel,2785.0,2646.0,5.2532125,3827.0,72.77241
+2015,33,Orbital ATK,"David Thompson, President & CEO",USA,2750.0,2525.0,8.910892,4400.0,62.5
+2015,34,SAIC,"Tony Moraco, CEO",USA,2735.0,2887.0,-5.2649813,3835.0,71.31682
+2015,35,Exelis,"David Melcher, President & CEO",USA,2644.0,2655.0,-0.41431263,3277.0,80.683556
+2015,36,Mitsubishi Heavy Industries,"Shunichi Miyanaga, President & CEO",Japan,2626.7,3354.9,-21.705564,46897.0,5.600998
+2015,37,CACI International,"Ken Asbury, President & CEO",USA,2578.0,2735.0,-5.740402,3565.0,72.31416
+2015,38,Hindustan Aeronautics,"T. Suvarna Raju, Chairman & Managing Director",India,2480.4,2459.0,0.8702685,2531.0,98.000786
+2015,39,Harris,"William Brown, Chairman, President & CEO",USA,2384.7,2418.0,-1.3771732,5012.0,47.579807
+2015,40,HewlettPackard,"Meg Whitman, Chariman, President & CEO",USA,2240.8,4070.4,-44.9489,111500.0,2.009686
+2015,41,Rockwell Collins,"Kelly Ortberg, President & CEO",USA,2209.0,2395.0,-7.7661796,4979.0,44.36634
+2015,42,CSC,"Mike Lawrie, President & CEO",USA,2177.0,2401.0,-9.329447,12200.0,17.844263
+2015,43,Serco,"Rupert Soames, Group CEO",United Kingdom,2174.8,2124.6,2.3627954,7826.1,27.789064
+2015,44,ST Engineering,"Tan Pheng Hock, President & CEO",Singapore,2012.8,1988.2,1.2373049,5161.0,39.000195
+2015,45,Rafael Advanced Defense Systems,"Yedidia Yaari, President & CEO",Israel,1965.4,2115.0,-7.0732846,1965.4,100.0
+2015,46,Kawasaki Heavy Industries,"Shigeru Murayama, President",Japan,1909.2,1004.9,89.989044,17094.7,11.168374
+2015,47,Cobham,"Bob Murphy, CEO",United Kingdom,1860.0,1907.0,-2.464604,3051.4,60.95563
+2015,48,Oshkosh,"Charles Szews, CEO",USA,1725.0,3050.0,-43.442623,6808.0,25.33784
+2015,49,General Atomics,"Linden Blue, CEO",USA,1655.0,2149.6,-23.008936,,
+2015,50,Aerojet Rocketdyne,"Eileen Drake, President",USA,1591.2,1377.4,15.521993,1597.4,99.61187
+2015,51,DynCorp,"James Geisler, CEO",USA,1579.0,3100.0,-49.064518,2252.0,70.115456
+2015,52,Uralvagonzavod,"Oleg Sienko, CEO",Russia,1545.0,1529.0,1.0464356,2992.0,51.637703
+2015,53,Hanwha,"Lee Tae-jong, Executive Vice President",South Korea,1545.0,1529.7,1.0001993,5154.3,29.974974
+2015,54,Engility,"Anthony Smeraglinolo, President & CEO",USA,1530.0,846.0,80.85107,2500.0,61.199997
+2015,55,Embraer,"Frederico Fleury Curado, President & CEO",Brazil,1459.5,1101.8,32.465054,6357.6,22.956776
+2015,56,Fincantieri,"Giuseppe Bono, CEO",Italy,1406.8,1543.2,-8.838771,5845.8,24.065144
+2015,57,Nexter,"Philippe Burtin, CEO",France,1392.8,1078.3,29.166279,1392.8,100.0
+2015,58,Dassault Aviation,"Eric Trappier, CEO",France,1332.3,1923.8,-30.746439,4890.6,27.242056
+2015,59,LIG Nex,"Lee Hyo-koo, CEO",South Korea,1330.1,1087.4,22.319288,1330.1,100.0
+2015,60,Fluor,"David Seaton, Chairman & CEO",USA,1319.3,1752.7,-24.727558,21531.0,6.1274443
+2015,61,Korea Aerospace Industries,"Ha Sung-yong, President and CEO",South Korea,1160.0,1364.2,-14.968477,2199.1,52.748848
+2015,62,Aselsan,"Faik Eken, CEO",Turkey,1109.0,1001.4,10.744955,1142.5,97.06783
+2015,63,Accenture,"Pierre Nanterme, CEO",USA,1059.5,888.0,19.313063,30000.0,3.5316668
+2015,64,ManTech,"George Pedersen, Chairman & CEO",USA,1046.7,2208.0,-52.595108,1774.0,59.00225
+2015,65,QinetiQ,"Steve Wadey, CEO",United Kingdom,1017.9,1286.0,-20.847588,1288.4,79.00497
+2015,66,NEC,"Nobuhiro Endo, President",Japan,1011.0,846.9,19.376547,29296.3,3.4509475
+2015,67,GKN Aerospace,"Kevin Cummings, CEO",United Kingdom,990.2,993.4,-0.32212725,3667.6,26.998583
+2015,68,Ultra Electronics,"Rakesh Sharma, CEO",United Kingdom,951.5,932.3,2.0594244,1174.7,80.99941
+2015,69,RTI,"Sergey Boev, CEO",Russia,947.2,819.0,15.653237,1877.3,50.45544
+2015,70,KraussMaffei Wegmann,"Frank Haun, CEO",Germany,934.6,1096.2,-14.741834,934.6,100.0
+2015,71,Kongsberg,"Walter Qvam, President & CEO",Norway,929.8,1272.2,-26.914007,2644.0,35.166412
+2015,72,Ana Holdings,"Shinya Katanozaka, President & CEO",Japan,926.1,,,17100.3,5.415694
+2015,73,Samsung Techwin,"Kim Cheol-kyo, CEO",South Korea,904.8,945.0,-4.2539697,2484.8,36.41339
+2015,74,PAE,"John Heller, CEO",USA,895.2,704.1,27.141037,1816.5,49.281586
+2015,75,Meggitt,"Stephen Young, CEO",United Kingdom,888.7,1015.4,-12.477842,2559.9,34.7162
+2015,76,Bharat Electronics,"S.K. Sharma, Chairman & Managing Director",India,875.7,853.4,2.6130757,1094.6,80.00183
+2015,77,Mitsubishi Electric,"Kenichiro Yamanishi, CEO",Japan,860.3,1102.4,-21.961178,43143.5,1.994043
+2015,78,Turkish Aerospace Industries,"Muharrem Dörtkasli, President & CEO",Turkey,853.6,788.4,8.269908,1001.0,85.27472
+2015,79,Moog,"John Scannell, CEO",USA,837.8,861.0,-2.6945426,2648.4,31.634193
+2015,80,AAR Corp,"David Storch, Chairman & CEO",USA,827.4,839.2,-1.4060996,2035.0,40.658478
+2015,81,Cubic,"Bradley Feldmann, President & CEO",USA,798.7,831.7,-3.9677768,1398.4,57.115276
+2015,82,CAE,"Marc Parent, President & CEO",Canada,755.6,772.4,-2.175045,1979.3,38.17511
+2015,83,Alion Science and Technology,"Bahman Atefi, Chairman & CEO",USA,753.7,790.9,-4.7035036,804.8,93.6506
+2015,84,CurtissWright,"David Adams, Chairman & CEO",USA,749.6,730.1,2.6708672,2243.1,33.418037
+2015,85,Chemring,"Michael Flowers, Group Chief Executive",United Kingdom,723.7,973.2,-25.637072,786.6,92.00356
+2015,86,Ruag,"Urs Breitmeier, CEO",Switzerland,718.4,750.8,-4.315392,1670.8,42.997368
+2015,87,Ball Aerospace  Technologies,"Robert Strain, President",USA,681.0,677.0,0.59084195,934.8,72.84981
+2015,88,Indra,"Frenando Abril-Martorell, Chairman",Spain,676.0,678.0,-0.29498523,3904.4,17.3138
+2015,89,Wyle,"Roger Wiederkehr, President & CEO",USA,650.7,676.9,-3.870588,865.5,75.18198
+2015,90,Diehl Defence Holding,"Claus Günther, CEO",Germany,648.5,730.3,-11.200875,4038.9,16.056353
+2015,91,IHI,"Tamotsu Saito, CEO",Japan,617.8,512.0,20.66406,14528.9,4.2522144
+2015,92,Ukroboronprom,"Roman Romanov, General Director",Ukraine,575.9,681.1,-15.445596,575.9,100.0
+2015,93,Battelle,"Jeffrey Wadsworth, President & CEO",USA,569.2,613.9,-7.2813177,5600.0,10.164287
+2015,94,Patria,"Heikki Allonen, President & CEO",Finland,555.8,1028.3,-45.94963,614.5,90.44752
+2015,95,Day  Zimmerman,"Hal Yoh, Chairman & CEO",USA,555.0,518.8,6.977643,2500.0,22.2
+2015,96,ViaSat,"Mark Dankberg, Chairman & CEO",USA,535.5,565.2,-5.254779,1382.5,38.734177
+2015,97,Nammo,"Edgar Fossheim, President & CEO",Norway,527.4,529.8,-0.45299423,591.6,89.14808
+2015,98,Fujitsu,"Tatsuya Tanaka, President",Japan,525.9,,,47436.9,1.1086308
+2015,99,Israel Military Industries,"Avi Felder, President & CEO",Israel,475.8,560.0,-15.035717,475.8,100.0
+2015,100,Denel,"Zoli - Kunene, Chairman",South Africa,454.6,388.2,17.104582,454.6,100.0
+2014,1,Lockheed Martin,"Marillyn Hewson, Chairman, President & CEO",USA,40494.0,44883.0,-9.778758,45358.0,89.27642
+2014,2,Boeing,"W. James McNerney, Chairman & CEO",USA,32000.0,31378.0,1.9822806,86623.0,36.94169
+2014,3,BAE Systems,"Ian King, CEO",United Kingdom,28014.0,26813.1,4.4787827,29802.5,93.998825
+2014,4,Raytheon,"Thomas Kennedy, CEO",USA,22047.6,22705.0,-2.895399,23706.0,93.004295
+2014,5,Northrop Grumman,"Wes Bush, Chairman, President & CEO",USA,19500.0,20600.0,-5.3398056,24661.0,79.07222
+2014,6,General Dymics,"Phebe Novakovic, Chairman & CEO",USA,18836.0,21023.0,-10.402892,31218.0,60.336983
+2014,7,Airbus Group,"Thomas Enders, CEO",Netherlands,16546.5,14913.0,10.95353,81192.6,20.37932
+2014,8,United Technologies,"Louis Chenevert, Chairman & CEO",USA,11894.0,12117.0,-1.8403895,62600.0,19.0
+2014,9,Thales,"Jean-Ber-rd Levy, Chairman & CEO",France,10961.6,9212.6,18.984869,19456.8,56.33814
+2014,10,Finmeccanica,"Mauro Moretti, General Ma-ger & CEO",Italy,10896.3,12528.7,-13.029287,21968.4,49.599876
+2014,11,L Communications,"Michael Strianese, Chairman, President & CEO",USA,10337.0,10839.0,-4.6314235,12629.0,81.851295
+2014,12,AlmazAntey,"Vladislaw Vladamirovich Menshikov, General Director",Russia,8326.3,5754.3,44.69701,8326.3,100.0
+2014,13,Huntington Ingalls Industries,"Mike Petters, President & CEO",USA,6324.0,6240.3,1.3412848,6800.0,93.0
+2014,14,RollsRoyce,"John Rishton, CEO",United Kingdom,6123.6,5098.0,20.117695,25409.2,24.099934
+2014,15,Honeywell,"David Cote, Chairman & CEO",USA,4900.0,5100.0,-3.9215689,39055.0,12.546408
+2014,16,DCNS,"Patrick Boissier, Chairman & CEO",France,4601.7,3766.8,22.164705,4601.7,100.0
+2014,17,Textron,"Scott Donnelly, President & CEO",USA,4236.4,4288.0,-1.2033606,12104.0,35.0
+2014,18,Booz Allen Hamilton,"Ralph Shrader, Chairman & CEO",USA,4100.0,4800.0,-14.583333,5758.1,71.20404
+2014,18,GE,"Jeffrey Immelt, Chairman & CEO",USA,4100.0,4000.0,2.5,146045.0,2.8073537
+2014,20,Exelis,"David Melcher, President & CEO",USA,4093.0,4251.5,-3.7280958,4816.0,84.98754
+2014,21,Leidos,"Roger Krone, CEO",USA,4080.0,4680.0,-12.820514,5772.0,70.68607
+2014,22,HewlettPackard,"Meg Whitman, Chairman, President & CEO",USA,4070.7,2668.8,52.52922,112000.0,3.6345534
+2014,23,Safran,"Jean-Paul Herteman, Chairman & CEO",France,4027.0,3486.5,15.502652,20135.1,19.9999
+2014,24,Babcock Intertiol,"Peter Rogers, CEO",United Kingdom,3423.8,3110.8,10.06172,5803.1,58.999504
+2014,25,Russian Helicopters,"Alexander Mikheev, CEO",Russia,3406.4,3489.1,-2.3702443,4230.8,80.51432
+2014,26,Mitsubishi Heavy Industries,"Shunichi Miya-ga, President & CEO",Japan,3354.9,2907.6,15.383814,36252.0,9.254386
+2014,27,Oshkosh,"Charles Szews, CEO",USA,3047.0,3947.5,-22.811907,7665.1,39.751602
+2014,28,Rheinmetall,"Armin Papperger, CEO",Germany,2952.8,3001.9,-1.635626,6320.7,46.716343
+2014,29,Saab,"HÃ¥kan Buskhe, President & CEO",Sweden,2948.3,3013.1,-2.1506107,3652.8,80.713425
+2014,30,Elbit Systems,"Bezhalel Machlis, President & CEO",Israel,2925.2,2744.2,6.5957294,2925.2,100.0
+2014,31,SAIC,"Anthony Moraco, CEO",USA,2884.7,3346.7,-13.804643,4121.0,70.0
+2014,32,CACI Intertiol,"Ken Asbury, President & CEO",USA,2735.1,2944.9,-7.1241746,3682.0,74.283005
+2014,33,URS,"Martin Koffel, CEO",USA,2702.9,3471.2,-22.133558,10990.7,24.592607
+2014,34,United EngineBuilding,"Vladislav Masalov, General Director",Russia,2647.0,1857.6,42.495693,4859.1,54.475105
+2014,35,Israel Aerospace Industries,"Joseph Weiss, President & CEO",Israel,2646.0,2481.0,6.650544,3642.0,72.65239
+2014,36,Bechtel,"Craig Albert, Chairman",USA,2600.0,2500.0,4.0,39400.0,6.5989842
+2014,37,ATK,"Mark DeYoung, President & CEO",USA,2525.0,3047.0,-17.131605,4800.0,52.604168
+2014,38,DynCorp,"Steven Gaffney, Chairman & CEO",USA,2479.6,3100.3,-20.020641,3287.2,75.431984
+2014,39,Hindustan Aeroutics,"Ravindra Tyagi, Chairman & Ma-ging Director",India,2459.0,2619.8,-6.1378746,2535.1,96.998146
+2014,40,Harris,"William Brown, Chairman, President & CEO",USA,2418.0,2794.4,-13.469794,5111.7,47.303246
+2014,41,CSC,"Mike Lawrie, President & CEO",USA,2401.0,3687.0,-34.879307,12998.0,18.472073
+2014,42,Rockwell Collins,"Kelly Ortberg, President & CEO",USA,2395.0,2591.0,-7.5646467,4610.0,51.95228
+2014,43,ManTech,"George Pederson, Chairman & CEO",USA,2207.6,2464.0,-10.40584,2310.1,95.562965
+2014,44,Fluor,"David Seaton, Chairman & CEO",USA,2162.3,1865.4,15.916159,27351.6,7.9055705
+2014,45,General Atomics,"J. Neal Blue, Chairman & CEO",USA,2149.6,2460.1,-12.621437,,
+2014,46,Aviation Holding Co Sukhoi,"Igor Yakovlevich Ozar, General Director",Russia,2126.7,2270.8,-6.3457856,2739.9,77.61962
+2014,47,Serco,"Rupert Soames, CEO",United Kingdom,2124.6,1946.4,9.155367,8430.9,25.200155
+2014,48,Rafael Advanced Defense Systems,"Yedidia Yaari, President & CEO",Israel,2115.0,1781.5,18.72018,2115.0,100.0
+2014,49,ST Engineering,"Tan Pheng Hock, President & CEO",Singapore,1988.2,1889.1,5.245883,5232.2,37.99931
+2014,50,Dassault Aviation,"Eric Trappier, Chairman & CEO",France,1923.8,1470.7,30.808466,6293.3,30.56902
+2014,51,Cobham,"Bob Murphy, CEO",United Kingdom,1907.0,1890.5,0.872785,2933.9,64.99881
+2014,52,Concern RadioElectronic Technologies,"Nikolay Kolesov, General Director",Russia,1801.0,1603.7,12.302803,2364.7,76.16189
+2014,53,Fincantieri,"Giuseppe Bono, CEO",Italy,1543.2,1149.8,34.214638,5221.8,29.553028
+2014,54,GenCorp,"Scott J. Seymour, President & CEO",USA,1377.4,986.1,39.68158,1383.1,99.58789
+2014,55,Korea Aerospace Industries,"Ha Sung-yong, President & CEO",South Korea,1364.2,1039.5,31.236166,1814.7,75.17496
+2014,56,Irkut,"Roman Zhurenko, General Director",Russia,1350.7,1045.1,29.241219,1857.1,72.73168
+2014,57,Kongsberg,"Walter Qvam, President & CEO",Norway,1272.2,1183.2,7.521974,2650.4,48.0003
+2014,58,QinetiQ,"Leo Quinn, CEO",United Kingdom,1268.0,1410.4,-10.096428,1950.8,64.99897
+2014,59,Mitsubishi Electric,"Masaki Sakuyama, President & CEO",Japan,1102.4,1500.4,-26.52626,42975.6,2.5651765
+2014,60,Embraer,"Frederico Fleury Curado, President & CEO",Brazil,1101.8,1068.1,3.155142,5776.1,19.075155
+2014,61,KraussMaffei Wegmann,"Frank Haun, CEO",Germany,1096.2,1028.5,6.5823965,1096.2,100.0
+2014,62,LIG Nex,"Lee Hyo koo, CEO",South Korea,1087.4,856.9,26.899286,1087.4,100.0
+2014,63,Nexter,"Philippe Burtin, CEO",France,1078.3,953.9,13.041202,1078.3,100.0
+2014,64,Patria,"Heikki Allonen, President & CEO",Finland,1028.3,851.1,20.820124,1130.1,90.99196
+2014,65,Meggitt,"Stephen Young, CEO",United Kingdom,1015.4,988.9,2.6797452,2672.1,38.000072
+2014,66,Kawasaki Heavy Industries,"Shigeru Murayama, President",Japan,1004.9,1790.8,-43.885414,14686.1,6.8425245
+2014,67,Aselsan,"Faik Eken, CEO",Turkey,1001.4,862.4,16.11781,1030.8,97.14784
+2014,68,GKN Aerospace,"Marcus Bryson, CEO",United Kingdom,993.4,1806.6,-45.01273,3676.9,27.017324
+2014,69,Chemring,"Michael Flowers, CEO",United Kingdom,973.2,1133.4,-14.134463,1024.4,95.00195
+2014,70,Samsung Techwin,"Kim Cheol-kyo, CEO",South Korea,945.0,990.0,-4.5454545,2610.0,36.206894
+2014,71,RSK MiG,"Sergey Sergeyevich Korotkov, General Director",Russia,927.2,578.2,60.359734,927.2,100.0
+2014,72,Accenture,"Pierre -nterme, Chairman & CEO",USA,888.0,860.0,3.2558138,28562.8,3.1089387
+2014,73,Moog,"John Scannell, Chairman & CEO",USA,861.0,857.1,0.45502564,2610.0,32.988506
+2014,74,Bharat Electronics,"Sunil Kumar Sharma, Chairman & Ma-ging Director",India,853.4,956.9,-10.816177,1004.0,85.0
+2014,75,NEC,"Nobuhiro Endo, President",Japan,846.9,1974.7,-57.112473,32256.9,2.6254847
+2014,76,Cubic,"William Boyle, CEO",USA,843.6,866.8,-2.6765127,1361.4,61.965622
+2014,77,AAR,"David Storch, Chairman & CEO",USA,839.2,930.4,-9.802237,2137.3,39.264492
+2014,78,RTI,"Boev Sergey, General Director",Russia,819.0,801.8,2.145175,2139.6,38.27818
+2014,79,Alion Science and Technology,"Bahman Atefi, Chairman & CEO",USA,788.7,748.4,5.384819,849.0,92.89753
+2014,80,Turkish Aerospace Industries,"Muharrem DÃ¶rtkasli, President & CEO",Turkey,788.4,693.4,13.700606,912.7,86.381065
+2014,81,CAE,"Marc Parent, President & CEO",Canada,772.4,833.5,-7.330531,1987.2,38.86876
+2014,82,CurtissWright,"David Adams, President & CEO",USA,760.9,779.5,-2.3861418,2510.8,30.305082
+2014,83,Ruag,"Urs Breitmeier, CEO",Switzerland,750.8,964.6,-22.164627,1706.5,43.996483
+2014,84,Diehl Defence Holding,"Claus GÃ¼nther, CEO",Germany,730.3,707.1,3.2810087,3980.4,18.347403
+2014,85,PAE,"John Heller, CEO",USA,704.1,437.0,61.121273,1296.1,54.324512
+2014,86,Ultra Electronics,"Rakesh Sharma, CEO",United Kingdom,696.3,964.5,-27.807156,1221.6,56.999016
+2014,87,Indra,"Javier MonzÃ³n, Chairman",Spain,678.0,595.5,13.853905,3992.9,16.98014
+2014,88,Ball Aerospace  Technologies,"Robert Strain, President",USA,677.0,603.0,12.271974,897.0,75.4738
+2014,89,Wyle,"George Melton, Chairman, President & CEO",USA,676.9,913.1,-25.867918,902.8,74.97785
+2014,90,FLIR,"Andrew Teich, President & CEO",USA,650.0,690.0,-5.7971015,1496.4,43.437584
+2014,91,Battelle,"Jeffrey Wadsworth, President & CEO",USA,613.9,688.0,-10.770346,5600.0,10.962501
+2014,92,Jacobs Engineering,"Craig Martin, President & CEO",USA,582.1,1441.3,-59.612854,11818.4,4.92537
+2014,93,ViaSat,"Mark Dankberg, Chairman & CEO",USA,565.2,527.8,7.0860224,1351.5,41.8202
+2014,94,Israel Military Industries,"Avi Felder, President & CEO",Israel,560.0,520.0,7.692308,560.0,100.0
+2014,95,vistar,"Troy Clarke, President & CEO",USA,541.0,1000.0,-45.899998,10775.0,5.0208817
+2014,96,mmo,"Edgar Fossheim, President & CEO",Norway,529.8,595.1,-10.972944,602.1,87.99203
+2014,97,Day  Zimmermann,"Harold Yoh, Chairman & CEO",USA,518.8,618.4,-16.106085,2200.0,23.581818
+2014,98,IHI,"Tamotsu Saito, President & CEO",Japan,512.0,335.2,52.74463,13822.4,3.704132
+2014,99,Mission Essential,"Peter Horvath, Chairman & CEO",USA,490.0,797.4,-38.55029,490.0,100.0
+2014,100,Griffon,"Ro-ld J. Kramer, CEO",USA,426.2,397.4,7.2471113,1871.3,22.775612
+2013,1,Lockheed Martin Corporation,"Marillyn Hewson, President & CEO",USA,44883000000.0,43978000000.0,2.0578542,47182000000.0,95.12738
+2013,2,Boeing,"W. James McNerney, Chairman & CEO",USA,31378000000.0,30700000000.0,2.208471,81698000000.0,38.407307
+2013,3,BAE,"Ian King, CEO",United Kingdom,26813125000.0,29130200000.0,-7.9542003,28255201000.0,94.89625
+2013,4,Raytheon Company,"William Swanson, Chairman & CEO",USA,22705020000.0,23055600000.0,-1.5205795,24414000000.0,93.00001
+2013,5,General Dymics,"Phebe Novakovic, Chairman & CEO",USA,21023000000.0,23491000000.0,-10.50615,31513000000.0,66.71215
+2013,6,Northrop Grumman Corporation,"Wes Bush, Chairman, President & CEO",USA,20600000000.0,21400000000.0,-3.7383177,25218000000.0,81.68768
+2013,7,EADS NV,"Thomas Enders, CEO",Netherlands,14912960000.0,16092900000.0,-7.332052,72636400000.0,20.530975
+2013,8,Finmeccanica,"Alessandro Pansa, COO & CEO",Italy,12528671000.0,14584600000.0,-14.096575,22135466000.0,56.599987
+2013,9,United Technologies,"Louis Chenevert, Chairman & CEO",USA,12117000000.0,11000000000.0,10.154542,57700000000.0,21.0
+2013,10,L Communications,"Michael Strianese, Chairman, President & CEO",USA,10839000000.0,12521000000.0,-13.433431,13146000000.0,82.450935
+2013,11,Thales,"Jean-Ber-rd Levy, Chairman & CEO",France,9212610000.0,9492600000.0,-2.9495635,18255520000.0,50.46479
+2013,12,SAIC,"John Jumper, Chairman & CEO",USA,8301000000.0,8577000000.0,-3.2179053,11200000000.0,74.11607
+2013,13,Huntington Ingalls Industries,"Mike Petters, President & CEO",USA,6240300000.0,6119400000.0,1.9756856,6710000000.0,93.0
+2013,14,AlmazAntey,"Vladislaw Vladamirovich Menshikov, General Director",Russia,5754332700.0,3552000000.0,62.00261,6123996000.0,93.96369
+2013,15,Honeywell,"David Cote, Chairman & CEO",USA,5100000000.0,5300000000.0,-3.7735753,37700000000.0,13.527851
+2013,16,RollsRoyce,"John Rishton, CEO",United Kingdom,5097980000.0,4691500000.0,8.664177,19347601000.0,26.349417
+2013,17,Booz Allen Hamilton,"Ralph Shrader, Chairman, President & CEO",USA,4800000000.0,4860000000.0,-1.2345731,5859218000.0,81.922195
+2013,18,Textron Inc,"Scott Donnelly, President & CEO",USA,4288000000.0,4171000000.0,2.8050811,12237000000.0,35.04127
+2013,19,Exelis,"David Melcher, President & CEO",USA,4251500000.0,4087300000.0,4.01732,5522000000.0,76.992035
+2013,20,GE,"Jeffrey Immelt, Chairman & CEO",USA,4000000000.0,3700000000.0,8.108108,147359000000.0,2.714459
+2013,21,Oshkosh,Charles Szews. CEO,USA,3947500000.0,4365200000.0,-9.56886,8180900000.0,48.25264
+2013,22,DCNS,"Patrick Boissier, Chairman & CEO",France,3766808000.0,3647000000.0,3.2851112,3766808000.0,100.0
+2013,23,CSC,"Mike Lawrie, President & CEO",USA,3687000000.0,4498000000.0,-18.030231,15000000000.0,24.579998
+2013,24,Russian Helicopters,"Dmitry Yevgenievich Petrov, CEO",Russia,3489109500.0,2644300000.0,31.948322,4036543000.0,86.43806
+2013,25,Safran,"Jean-Paul Herteman, Chairman & CEO",France,3486547200.0,3267300000.0,6.7103443,17432736000.0,20.0
+2013,26,URS,"Martin Koffel, CEO",USA,3471200000.0,3595600000.0,-3.4597807,10972500000.0,31.635452
+2013,27,Babcock Intertiol,"Peter Rogers, CEO",United Kingdom,3110766000.0,2856100000.0,8.916564,4785794000.0,65.0
+2013,28,DynCorp Intertiol,"Steven Gaffney, Chairman & CEO",USA,3100312800.0,2776100000.0,11.678712,4044275500.0,76.659294
+2013,29,ATK,"Mark DeYoung, President & CEO",USA,3047000000.0,3250000000.0,-6.246148,4362000000.0,69.85328
+2013,30,Saab,"HÃ¥kan Buskhe, President & CEO",Sweden,3013080000.0,3258900000.0,-7.5430336,3546277000.0,84.9646
+2013,31,Rheinmetall,"Armin Papperger, CEO",Germany,3001876000.0,2980300000.0,0.7239518,6047462400.0,49.638603
+2013,32,CACI Intertiol,"Ken Asbury, President & CEO",USA,2944924000.0,2858721000.0,3.0154352,3774473000.0,78.022125
+2013,33,Mitsubishi Heavy Industries,"Hideaki Omiya, President",Japan,2907630000.0,3610000000.0,-19.456226,36689620000.0,7.924939
+2013,34,Harris,"William Brown, President & CEO",USA,2794400000.0,2984700000.0,-6.375847,5451300000.0,51.26117
+2013,35,Elbit Systems,"Bezhalel Machlis, President & CEO",Israel,2744176600.0,2676600000.0,2.5247169,2888607000.0,95.0
+2013,36,HewlettPackard,"Meg Whitman, President & CEO",USA,2668822000.0,2235900000.0,19.362322,119895000000.0,2.225966
+2013,37,Hindustan Aeroutics,"Ravindra Tyagi, Chairman",India,2619828000.0,2769600000.0,-5.4077134,2619828000.0,100.0
+2013,38,Rockwell Collins,"Clay Jones, Chairman & CEO",USA,2591000000.0,2813000000.0,-7.8919263,4726000000.0,54.824375
+2013,39,Israel Aerospace Industries,"Joseph Weiss, President & CEO",Israel,2553000000.0,2508000000.0,1.7942559,3338000000.0,76.482925
+2013,40,Bechtel,"Craig Albert, President",USA,2500000000.0,2400000000.0,4.166667,37900000000.0,6.596306
+2013,41,ManTech,"George Pederson, Chairman & CEO",USA,2464000000.0,2772000000.0,-11.111112,2582295000.0,95.419
+2013,42,General Atomics,"J. Neal Blue, Chairman & CEO",USA,2460093000.0,2034700000.0,20.90691,,
+2013,43,Aviation Holding Co Sukhoi,"Igor Yakovlevich Ozar, General Director",Russia,2270831000.0,2479500000.0,-8.415766,2365449000.0,96.0
+2013,44,NEC,"Nobuhiro Endo, President",Japan,1974720000.0,1438800000.0,37.247704,37166360000.0,5.313192
+2013,45,Serco,"Christopher Hyman, CEO",United Kingdom,1946407800.0,1900000000.0,2.442516,7785631000.0,25.0
+2013,46,Cobham,"Bob Murphy, CEO",United Kingdom,1890547100.0,1894400000.0,-0.20338513,2771640300.0,68.2104
+2013,47,ST Engineering,"Tan Pheng Hock, President & CEO",Singapore,1889148500.0,1955200000.0,-3.3782456,5105807000.0,37.0
+2013,48,Fluor,"David Seaton, Chairman & CEO",USA,1865350400.0,2735500000.0,-31.809526,27577135000.0,6.76412
+2013,49,United EngineBuilding,"Vladislav Masalov, General Director",Russia,1857627000.0,1245900000.0,49.0992,4128060000.0,45.0
+2013,50,GKN Aerospace,"Marcus Bryson, CEO",United Kingdom,1806558000.0,1371400000.0,31.730934,2820766000.0,64.04494
+2013,51,Kawasaki Heavy Industries,"Shigeru Murayama, President",Japan,1790800000.0,2623800000.0,-31.747849,15595461000.0,11.482829
+2013,52,Rafael Advanced Defense Systems,"Yedidia Yaari, President & CEO",Israel,1781493200.0,1979000000.0,-9.980132,1781493200.0,100.0
+2013,53,Mitsubishi Electric,"Kenichiro Yamanishi, Representative Executive Officer",Japan,1500400000.0,1441300000.0,4.100467,43161910000.0,3.476213
+2013,54,DSN,"Isao Moriyasu, President & CEO",Japan,1477410000.0,,,2449850600.0,60.306126
+2013,55,Dassault Aviation,"Eric Trappier, Chairman & CEO",France,1470726400.0,1238900000.0,18.71228,5066850300.0,29.026443
+2013,56,Jacobs Engineering,"Craig Martin, President & CEO",USA,1441255000.0,1036300000.0,39.077003,10893778000.0,13.230075
+2013,57,QinetiQ,"Leo Quinn, CEO",United Kingdom,1410383000.0,1579300000.0,-10.695687,2104164600.0,67.02817
+2013,58,Kongsberg,"Walter Qvam, President & CEO",Norway,1183166000.0,1444300000.0,-18.08032,2689013500.0,44.0
+2013,59,Fincantieri,"Giuseppe Bono, CEO",Italy,1149837400.0,1085900000.0,5.8879642,3066156000.0,37.500946
+2013,60,Chemring,"Mark Papworth, CEO",United Kingdom,1133377400.0,1156000000.0,-1.9569715,1172678000.0,96.64864
+2013,61,Embraer,"Frederico Fleury Curado, President & CEO",Brazil,1068061630.0,866800000.0,23.218924,6259724000.0,17.06244
+2013,62,Irkut,"Oleg Demchenko, President",Russia,1045087000.0,1286200000.0,-18.746157,1530855000.0,68.26819
+2013,63,KraussMaffei Wegmann,"Frank Haun, President & CEO",Germany,1028480000.0,1308500000.0,-21.400074,1028480000.0,100.0
+2013,64,vistar,"Troy Clarke, President & CEO",USA,1000000000.0,2000000000.0,-50.0,12948000000.0,7.7232003
+2013,65,Samsung Techwin,"Kim Cheol-kyo, CEO",South Korea,990000000.0,1092000000.0,-9.340659,2700000000.0,36.666668
+2013,66,Meggitt,"Terry Twigger, CEO",United Kingdom,988852800.0,938800000.0,5.331572,2535520000.0,39.0
+2013,67,Ruag,"Ko-ad Peter, Executive Chairman",Switzerland,964601000.0,844700000.0,14.194505,1929202000.0,50.0
+2013,68,Ultra Electronics,"Rakash Sharma, CEO",United Kingdom,964511800.0,961500000.0,0.31323722,1205639800.0,79.99999
+2013,69,Bharat Electronics,"Anil Kumar, Chairman & Ma-ging Director",India,956903360.0,943100000.0,1.4636123,1100230000.0,86.97303
+2013,70,Nexter,"Philippe Burtin, Chairman & CEO",France,953850940.0,1184600000.0,-19.479074,953850940.0,100.0
+2013,71,AAR,"David Storch, Chairman & CEO",USA,930409000.0,962000000.0,-3.283885,2064998000.0,45.05617
+2013,72,Wyle,"George Melton, Chairman, Presient & CEO",USA,913134000.0,829019800.0,10.146228,1155866000.0,78.99999
+2013,73,Cubic,"William Boyle, CEO",USA,866800000.0,869000000.0,-0.25316456,1381500000.0,62.743397
+2013,74,Aselsan,"Cengiz Ergeneman, CEO",Turkey,862365700.0,848400000.0,1.6461216,906584060.0,95.12253
+2013,75,Accenture,"Pierre -nterme, Chairman & CEO",USA,860000000.0,758000000.0,13.456464,27900000000.0,3.0824373
+2013,76,Moog,"John Scannell, Chairman & CEO",USA,857059000.0,855000000.0,0.24081965,2469536000.0,34.705265
+2013,77,LIG Nex,"Lee Hyo-koo, CEO",South Korea,856890000.0,823500000.0,4.054639,856890000.0,100.0
+2013,78,Patria,"Heikki Allonen, President & CEO",Finland,851067200.0,779500000.0,9.181163,946330200.0,89.93343
+2013,79,CAE,"Marc Parent, President & CEO",Canada,833482200.0,904500000.0,-7.8516083,2102185100.0,39.648373
+2013,80,RTI,"Boev Sergey, General Director",Russia,801754430.0,718100000.0,11.649418,2371786200.0,33.803825
+2013,81,Mission Essential,"Peter Horvath, Chairman & CEO",USA,797400000.0,718200000.0,11.027569,797400000.0,100.0
+2013,82,CurtissWright,"Martin Be-nte, Chairman & CEO",USA,779521000.0,819900000.0,-4.9248695,2097700000.0,37.160748
+2013,83,Alion Science and Technology,"Bahman Atefi, Chairman & CEO",USA,748418000.0,726128000.0,3.0697045,817204000.0,91.58276
+2013,84,Diehl Defence Holding,"Claus GÃ¼nther, CEO",Germany,707080000.0,946600000.0,-25.30319,3638248000.0,19.43463
+2013,85,Turkish Aerospace Industries,"Muharrem DÃ¶rtka?li, President & CEO",Turkey,693414300.0,737847100.0,-6.021957,832881860.0,83.25482
+2013,86,Battelle,"Jeffrey Wadsworth, President & CEO",USA,688000000.0,718900000.0,-4.298229,6100000000.0,11.278688
+2013,87,Korea Aerospace Industries,"Ha Sung-yong, CEO",South Korea,672480000.0,898200000.0,-25.13026,1377000000.0,48.836605
+2013,88,FLIR,"Andrew Teich, President & CEO",USA,619200000.0,712300000.0,-13.070339,1405400000.0,44.058628
+2013,89,Toshiba,"Norio Sasaki, President & CEO",Japan,608630000.0,630000000.0,-3.3920608,70183630000.0,0.86719656
+2013,90,Ball Aerospace  Technologies,"Robert Strain, President",USA,603000000.0,491200000.0,22.760586,873300000.0,69.04844
+2013,91,Indra,"Javier MonzÃ³n, Chairman",Spain,595466100.0,709700000.0,-16.096077,3780923600.0,15.749224
+2013,92,mmo,"Edgar Fossheim, President & CEO",Norway,595115200.0,565700000.0,5.199794,595115200.0,100.0
+2013,93,RSK MiG,"Sergey Sergeyevich Korotkov, General Director",Russia,578151700.0,700000000.0,-17.406902,578939260.0,99.86396
+2013,94,ViaSat,"Mark Dankberg, Chairman & CEO",USA,527800000.0,389300000.0,35.576675,1119700000.0,47.137627
+2013,95,Israel Military Industries,"Avi Felder, President & CEO",Israel,520000000.0,485900000.0,7.017905,520000000.0,100.0
+2013,96,Denel,"Zoli Kunene, Chairman",South Africa,434939200.0,449751600.0,-3.2934659,434939200.0,100.0
+2013,97,Fujitsu,"Masami Yamamoto, President",Japan,363000000.0,661300000.0,-45.10812,53018570000.0,0.68466574
+2013,98,Day  Zimmermann,"Harold Yoh, Chairman & CEO",USA,346000000.0,489600000.0,-29.330067,2400000000.0,14.416666
+2013,99,IHI,"Tamotsu Saito, President & CEO",Japan,335170000.0,413826000.0,-19.007023,15198193000.0,2.205328
+2013,100,Komatsu,"Tetsuji Ohashi, President & CEO",Japan,323070000.0,390446000.0,-17.256163,22807290000.0,1.4165208
+2012,1,Lockheed Martin,"Robert Stevens, Chairman and CEO",USA,43978.0,42800.0,2.7523365,46499.0,94.57838
+2012,2,Boeing,"W. James McNerney, Chairman, President and CEO",USA,30700.0,30858.0,-0.5120228,68735.0,44.66429
+2012,3,BAE Systems,"Ian King, CEO",United Kingdom,29130.2,33109.5,-12.018607,30723.0,94.815605
+2012,4,General Dymics,"Jay Johnson, Chairman and CEO",USA,25506.0,26622.0,-4.1920214,32677.0,78.0549
+2012,5,Raytheon,"William Swanson, Chairman and CEO",USA,23055.6,23420.2,-1.5567741,24791.0,92.99988
+2012,6,Northrop Grumman,"Wes Bush, Chairman, President and CEO",USA,21400.0,31181.0,-31.368462,26400.0,81.06061
+2012,7,EADS,"Louis Gallois, CEO",Netherlands,16092.9,16286.7,-1.1899267,68386.2,23.53238
+2012,8,Finmeccanica,"Giuseppe Orsi, CEO",Italy,14584.6,14442.9,0.9810994,24106.8,60.499935
+2012,9,L Communications,"Michael Strianese, Chairman, President and CEO",USA,12521.0,13074.0,-4.229769,15169.0,82.54334
+2012,10,United Technologies,"Louis ChÃªnevert, President and CEO",USA,11000.0,11600.0,-5.172414,55800.0,19.713263
+2012,11,Thales,"Luc Vigneron, Chairman and CEO",France,9492.6,9956.0,-4.6544833,18135.0,52.344086
+2012,12,SAIC,"John Jumper, President and CEO",USA,8577.0,8677.0,-1.152472,10657.0,80.48231
+2012,13,Huntington Ingalls,"Michael Petters, President and CEO",USA,6575.0,,,6575.0,100.0
+2012,14,Honeywell,"David Cote, Chairman and CEO",USA,5300.0,5400.0,-1.8518518,36500.0,14.520548
+2012,15,Booz Allen Hamilton,"Ralph Shrader, Chairman, President and CEO",USA,4860.0,4662.0,4.247104,5900.0,82.37288
+2012,16,RollsRoyce,"John Rishton, CEO",United Kingdom,4691.5,4483.3,4.643905,17432.0,26.913149
+2012,17,CSC,"Michael Laphen, Chairman, President and CEO",USA,4498.0,4502.0,-0.0888494,16042.0,28.038898
+2012,18,Oshkosh,"Charles Szews, President and CEO",USA,4365.2,7161.7,-39.04799,7584.7,57.552708
+2012,19,Textron,"Scott Donnelly, Chairman and CEO",USA,4171.0,3999.5,4.288036,11275.0,36.993347
+2012,20,GE,"Jeffrey Immelt, Chairman and CEO",USA,4100.0,4100.0,0.0,147300.0,2.783435
+2012,21,ITT Exelis,"David Melcher, President and CEO",USA,4087.3,,,5839.0,70.0
+2012,22,DCNS,"Patrick Boissier, Chairman and CEO",France,3647.0,3318.7,9.892429,3647.0,100.0
+2012,23,Mitsubishi Heavy Industries,"Hideaki Omiya, President and CEO",Japan,3610.0,3039.4,18.773445,35261.3,10.237852
+2012,24,URS,"Martin Koffel, CEO",USA,3595.6,3736.1,-3.760606,9545.0,37.669987
+2012,25,AlmazAntei,"Vladislav Menshikov, director",Russia,3552.0,3940.5,-9.859155,4188.7,84.799576
+2012,26,Safran,"Jean-Paul Herteman, Chairman and CEO",France,3267.3,3142.4,3.974674,16336.5,20.0
+2012,27,Saab,"HÃ¥kan Buskhe, CEO",Sweden,3258.9,3100.0,5.125803,3626.7,89.85855
+2012,28,ATK,"Mark DeYoung, President and CEO",USA,3250.0,2730.0,19.047619,4618.4,70.37069
+2012,29,Harris,"William Brown, President and CEO",USA,2984.7,2622.3,13.819925,5924.6,50.378082
+2012,30,Rheinmetall,"Klaus Eberhardt, CEO",Germany,2980.3,2664.2,11.864729,6200.0,48.069355
+2012,31,CACI Intertiol,"Paul Cofoni, President and CEO",USA,2858.7,2450.5,16.657824,3577.8,79.901054
+2012,32,Babcock Intertiol,"Peter Rogers, CEO",United Kingdom,2856.1,2087.1,36.845383,4924.3,58.000122
+2012,33,Rockwell Collins,"Clay Jones, Chairman, President and CEO",USA,2813.0,2900.0,-3.0,4806.0,58.531006
+2012,34,DynCorp,"Steven Gaffney, Chairman and CEO",USA,2776.1,2623.8,5.80456,3721.5,74.59627
+2012,35,Mantech,"George Pederson, Chairman and CEO",USA,2772.4,2494.7,11.1315975,2870.0,96.5993
+2012,36,Hindustan Aeroutics,"Ravindra K. Tyagi, Chairman",India,2769.6,2277.0,21.633732,2996.2,92.437096
+2012,37,Fluor,"David Seaton, Chairman and CEO",USA,2735.5,1884.2,45.18098,23381.4,11.6994705
+2012,38,Elbit Systems,"Joseph Ackerman, President and CEO",Israel,2676.6,2536.6,5.5191984,2817.5,94.999115
+2012,39,Russian Helicopters,"Dmitry Petrov, Director",Russia,2644.3,1905.4,38.77926,3416.4,77.40019
+2012,40,Kawasaki Heavy Industries,"Satoshi Hasegawa, President",Japan,2623.8,1042.7,151.6352,16297.2,16.099699
+2012,41,Israel Aerospace Industries,"Itzhak Nissan, President and CEO",Israel,2508.0,2380.0,5.3781514,3436.0,72.99185
+2012,42,Aviation Holding Co Sukhoi,"Mikhail Pogosyan, Director",Russia,2479.5,1404.2,76.577415,2610.0,95.0
+2012,43,Goodrich,"Marshall Larsen, Chairman, President and CEO",USA,2424.0,2201.0,10.131759,8075.0,30.018578
+2012,44,Bechtel,"David Walker, President",USA,2400.0,2200.0,9.090909,32900.0,7.2948327
+2012,45,HewlettPackard,"LÃ©o Apotheker, President and CEO",USA,2235.9,971.9,130.05452,127200.0,1.7577829
+2012,46,General Atomics,"J. Neal Blue, Chairman and CEO",USA,2034.7,1819.6,11.821279,,
+2012,47,vistar,"Daniel Ustian, Chairman, Preisdent and CEO",USA,2000.0,2151.0,-7.019991,13958.0,14.3287
+2012,48,Rafael Advanced Defense Systems,"Yedidia Yaari, President and CEO",Israel,1979.0,1844.8,7.274499,1979.0,100.0
+2012,49,ST Engineering,"Tan Pheng Hock, President and CEO",Singapore,1955.2,1800.9,8.567934,4768.7,41.000687
+2012,50,Serco,"Christopher Hyman, CEO",United Kingdom,1900.0,1669.5,13.806529,7285.6,26.07884
+2012,51,Cobham,"Andy Stevens, CEO",United Kingdom,1894.4,1998.7,-5.2183886,2974.5,63.688015
+2012,52,QinetiQ,"Leo Quinn, CEO",United Kingdom,1579.3,1921.3,-17.800447,2357.2,66.998985
+2012,53,Kongsberg,"Walter Qvam, CEO",Norway,1444.3,1499.8,-3.7004933,2704.1,53.411484
+2012,54,Mitsubishi Electric,"Kenichiro Yamanishi, President and CEO",Japan,1441.3,1187.7,21.352201,45492.5,3.1682146
+2012,55,NEC,"Nobuhiro Endo, President (Representative Director)",Japan,1438.8,1008.8,42.62491,37960.0,3.7903056
+2012,56,GKN,"Marcus Bryson, CEO",United Kingdom,1371.4,1054.2,30.089176,2375.5,57.731003
+2012,57,KraussMaffei Wegmann,"Frank Haun, President and CEO",Germany,1308.5,1194.7,9.525409,1308.5,100.0
+2012,58,Irkut,"Alexei Fyodorov, President",Russia,1286.2,1400.0,-8.128575,1626.0,79.10209
+2012,59,United Enginebuilding,"Andrei Reus, Director",Russia,1245.9,1243.7,0.17689742,3116.7,39.974976
+2012,60,Dassault Aviation,"Charles Edelstenne, CEO",France,1238.9,1273.0,-2.6787097,4600.6,26.929096
+2012,61,Nexter,"Philippe Burtin, Chairman and CEO",France,1184.6,1428.4,-17.06805,1184.6,100.0
+2012,62,Chemring,"David Price, CEO",United Kingdom,1156.0,901.1,28.287653,1191.8,96.99613
+2012,63,Samsung Techwin,"Cheol Kyo Kim, CEO",South Korea,1092.0,1032.0,5.813954,2684.5,40.677963
+2012,64,Fincantieri,"Giuseppe Bono, CEO",Italy,1085.9,943.0,15.153768,3315.7,32.750248
+2012,65,Jacobs Engineering,"Craig Martin, President and CEO",USA,1036.3,1053.1,-1.5952832,10381.7,9.981988
+2012,66,AAR,"David Storch, Chairman and CEO",USA,962.0,942.4,2.0797937,1989.5,48.353855
+2012,67,Ultra Electronics,"Rakesh Sharma, CEO",United Kingdom,961.5,878.0,9.51025,1172.5,82.004265
+2012,68,Diehl Stiftung,"Thomas Diehl, President and CEO",Germany,946.6,963.7,-1.7744148,3793.3,24.954525
+2012,69,Bharat Electronics,"Anil Kumar, Chairman and Ma-ging Director",India,943.1,997.7,-5.4725904,1220.4,77.27794
+2012,70,Meggitt,"Terry Twigger, CEO",United Kingdom,938.8,789.0,18.986057,2334.3,40.217625
+2012,71,CAE,"Marc Parent, President and CEO",Canada,904.5,850.9,6.2992096,1842.9,49.080254
+2012,72,Korea Aerospace Industries,"Kim Hong Kyung, President and CEO",South Korea,898.2,854.3,5.138713,1169.9,76.775795
+2012,73,Cubic,"Walter Zable, Chairman, President and CEO",USA,869.0,805.1,7.9369054,1285.0,67.62646
+2012,74,Embraer,"Frederico Fleury Curado, President and CEO",Brazil,866.8,671.3,29.1226,5914.8,14.654764
+2012,75,Moog,"John Scannell, CEO",USA,855.0,837.0,2.1505377,2331.0,36.679535
+2012,76,Aselsan,"Cengiz Ergeneman, General Ma-ger",Turkey,848.4,762.2,11.309369,899.6,94.308586
+2012,77,Ruag,"Ko-ad Peter, Executive Chairman",Switzerland,844.7,810.2,4.258208,2012.0,41.9831
+2012,78,Wyle,"George Melton, Chairman, CEO and President",USA,829.0,563.5,47.116238,1148.5,72.18111
+2012,79,LIG Nex,"Hyo Koo-Lee, CEO",South Korea,823.5,811.0,1.541307,823.5,100.0
+2012,80,CurtissWright,"Martin Be-nte, Chairman and CEO",USA,819.9,784.0,4.579085,2017.6,40.63739
+2012,81,Patria,"Heikki Allonen, CEO",Finland,779.5,658.4,18.39307,861.6,90.47122
+2012,82,Accenture,"Pierre -nterme, CEO",Ireland,758.0,725.0,4.551724,25500.0,2.972549
+2012,83,Turkish Aerospace Industries,"Muharrem DÃ¶rtkasli, President",Turkey,737.8,445.0,65.79775,848.7,86.93295
+2012,84,Alion Science and Technology,"Bahman Atefi, Chairman and CEO",USA,726.1,771.8,-5.921225,787.3,92.22659
+2012,85,Battelle,"Jeffrey Wadsworth, President and CEO",USA,718.9,753.2,-4.5539017,6300.0,11.411112
+2012,86,Mission Essential,"Marc Peltier, President",USA,718.2,622.7,15.336437,725.5,98.9938
+2012,87,RTI,"Sergei Boev, Director",Russia,718.1,449.0,59.933178,2093.0,34.3096
+2012,88,FLIR,"Earl Lewis, Chairman and CEO",USA,712.3,706.0,0.89234954,1544.1,46.130432
+2012,89,Indra,"Javier MonzÃ³n, Chairman",Spain,709.7,788.4,-9.982244,3742.4,18.963768
+2012,90,RSK MiG,"Sergei Korotkov, Director",Russia,700.0,300.0,133.33334,700.0,100.0
+2012,91,Teledyne Technologies,"Robert Mehrabian, Chairman, President and CEO",USA,694.4,727.4,-4.536706,1941.9,35.758793
+2012,92,Fujitsu,"Masami Yamamoto, President",Japan,661.3,503.8,31.262407,55843.8,1.1841959
+2012,93,Toshiba,"Norio Sasaki, Director, President and CEO",Japan,630.0,209.0,201.4354,76253.8,0.8261884
+2012,94,SRA Intertiol,"William Ballhaus, President and CEO",USA,567.0,661.0,-14.220877,1705.0,33.255135
+2012,95,mmo,"Edgar Fossheim, CEO",Norway,565.7,570.9,-0.9108447,565.7,100.0
+2012,96,SRC,"Paul Tremont, President",USA,556.3,691.0,-19.493488,572.1,97.23825
+2012,97,ARINC,"John Belcher, Chairman and CEO",USA,495.1,649.8,-23.807323,931.4,53.156536
+2012,98,Ball Aerospace  Technologies,"David Taylor, President and CEO",USA,491.2,416.6,17.906866,784.0,62.653065
+2012,99,Day  Zimmermann,"Harold Yoh, Chairman and CEO",USA,489.6,647.7,-24.409449,2728.2,17.9459
+2012,100,Israel Military Industries,"Avi Felder, President and CEO",Israel,485.9,508.6,-4.463235,485.9,100.0
+2011,1,Lockheed Martin,"Robert Stevens, Chairman and CEO",USA,42800.0,42025.7,1.8424459,45800.0,93.44978
+2011,2,BAE Systems,"Ian King, CEO",United Kingdom,33109.5,33418.8,-0.9255293,34613.6,95.654594
+2011,3,Northrop Grumman,"Wes Bush, Chairman, President and CEO",USA,31181.0,30656.9,1.7095649,34757.0,89.711426
+2011,4,Boeing,"W. James McNerney, Chairman, President and CEO",USA,30858.0,31932.0,-3.3633974,64306.0,47.98619
+2011,5,General Dymics,"Jay Johnson, Chairman and CEO",USA,26622.0,25904.6,2.769394,32466.0,81.999626
+2011,6,Raytheon,"William Swanson, Chairman and CEO",USA,23420.2,23139.3,1.2139453,25183.0,93.00004
+2011,7,EADS,"Louis Gallois, CEO",Netherlands,16286.7,15013.7,8.478923,60734.4,26.816269
+2011,8,Finmeccanica,"Giuseppe Orsi, CEO",Italy,14442.9,13332.1,8.331778,24817.1,58.197372
+2011,9,L Communications,"Michael Strianese, Chairman, President and CEO",USA,13074.0,13014.0,0.461042,15680.0,83.380104
+2011,10,United Technologies,"Louis Chenevert, President and CEO",USA,11600.0,11100.0,4.504504,54326.0,21.352575
+2011,11,Thales,"Luc Vigneron, Chairman and CEO",France,9956.0,10456.7,-4.7883196,17389.9,57.25162
+2011,12,SAIC,"Walt Havenstein, CEO",USA,8677.0,8400.0,3.297619,11117.0,78.051636
+2011,13,Oshkosh,"Charles Szews, President and CEO",USA,7161.7,2594.8,176.00201,9842.4,72.763756
+2011,14,ITT,"Steven Loranger, Chairman, President and CEO",USA,5484.0,5698.0,-3.755704,10995.0,49.877216
+2011,15,Honeywell,"David Cote, Chairman and CEO",USA,5400.0,5382.0,0.33444816,33370.0,16.1822
+2011,16,Booz Allen Hamilton,"Ralph Shrader, Chairman, President and CEO",USA,4662.0,4299.0,8.443824,5600.0,83.25
+2011,17,CSC,"Michael Laphen, Chairman, President and CEO",USA,4498.0,4203.3,7.011163,16000.0,28.112501
+2011,18,RollsRoyce,"John Rishton, CEO",United Kingdom,4483.3,3146.9,42.46719,16796.7,26.691553
+2011,19,GE,"Jeffrey Immelt, Chairman and CEO",USA,4100.0,4200.0,-2.3809524,150211.0,2.7294939
+2011,20,Textron,"Scott Donnelly, Chairman and CEO",USA,3999.5,3300.0,21.19697,10525.0,38.0
+2011,21,AlmazAntei,"Vladislav Menshikov, Director",Russia,3940.5,3263.0,20.763102,4427.6,88.99855
+2011,22,URS,"Martin Koffel, CEO",USA,3736.1,3483.3,7.257487,9177.1,40.71112
+2011,23,KBR,"William Utt, Chairman, President and CEO",USA,3563.8,5410.2,-34.128128,10099.0,35.288643
+2011,24,DCNS,"Patrick Boissier, Chairman and CEO",France,3318.7,3355.0,-1.0819687,3318.7,100.0
+2011,25,Safran,"Jean-Paul Herteman, Chairman and CEO",France,3142.4,3067.7,2.4350476,14283.6,22.000057
+2011,26,Mitsubishi Heavy Industries,"Hideaki Omiya, President and Director",Japan,3039.4,2833.1,7.2817693,35016.2,8.679982
+2011,27,Rockwell Collins,"Clay Jones, Chairman, President and CEO",USA,2900.0,2579.0,12.446685,4700.0,61.702126
+2011,28,Saab,"Hâ€NAkan Buskhe, CEO",Sweden,2887.4,2594.5,11.289262,3397.1,84.99602
+2011,29,ATK,"Mark DeYoung, President and CEO",USA,2730.0,2740.0,-0.3649635,4842.3,56.378166
+2011,30,Rheinmetall,"Klaus Eberhardt, CEO",Germany,2664.2,2646.6,0.6649986,5295.3,50.312542
+2011,31,DynCorp,"Steven Gaffney, Chairman, President and CEO",USA,2623.8,2381.9,10.155765,3696.2,70.98642
+2011,32,Harris,"Howard Lance,Chairman, President and CEO",USA,2622.3,2686.7,-2.396989,5206.1,50.36976
+2011,33,Elbit Systems,"Joseph Ackerman, President and CEO",Israel,2536.6,2690.8,-5.7306356,2670.1,95.00019
+2011,34,Mantech,"George Pederson, Chairman and CEO",USA,2494.7,1919.3,29.979673,2604.0,95.80261
+2011,35,CACI Intertiol,"Paul Cofoni, President and CEO",USA,2450.5,2078.3,17.908865,3149.1,77.81589
+2011,36,Israel Aerospace Industries,"Itzhak Nissan, President and CEO",Israel,2380.0,2234.0,6.5353622,3148.0,75.60355
+2011,37,Hindustan Aeroutics,"Ashok -yak, Chairman",India,2267.7,1999.5,13.41335,2496.4,90.838806
+2011,38,Goodrich,"Marshall Larsen, Chairman, President and CEO",USA,2201.0,2005.8,9.731775,6967.0,31.591791
+2011,39,Bechtel,"Riley Bechtel, Chairman and CEO",USA,2200.0,2100.0,4.7619047,27900.0,7.885305
+2011,40,vistar,"Daniel Ustian, Chairman, Preisdent and CEO",USA,2151.0,2885.0,-25.441942,12145.0,17.710993
+2011,41,Babcock Intertiol,"Peter Rogers, CEO",United Kingdom,2087.8,2138.7,-2.3799458,2948.7,70.804085
+2011,42,Cobham,"Andy Stevens, CEO",United Kingdom,1998.7,2266.4,-11.811682,2941.0,67.95988
+2011,43,QinetiQ,"Leo Quinn, CEO",United Kingdom,1921.3,1795.4,7.0123663,2631.9,73.000496
+2011,44,Russian Helicopters,"Dmitry Petrov, Director",Russia,1905.4,813.8,134.13617,2672.3,71.30187
+2011,45,Fluor,"David Seaton, CEO",USA,1884.2,871.5,116.20195,20849.0,9.037363
+2011,46,Rafael Advanced Defense Systems,"Yedidia Yaari, President and CEO",Israel,1844.8,1607.0,14.797764,1844.8,100.0
+2011,47,General Atomics,"J. Neal Blue, Chairman and CEO",USA,1819.6,1369.8,32.836906,,
+2011,48,ST Engineering,"Tan Pheng Hock, President and CEO",Singapore,1800.9,1451.3,24.088745,4392.4,41.000366
+2011,49,Serco,"Christopher Hyman, CEO",United Kingdom,1669.5,1597.0,4.539762,6677.9,25.000376
+2011,50,Kongsberg,"Walter Qvam, CEO",Norway,1499.8,1059.8,41.517265,2565.7,58.455784
+2011,51,Nexter,"Philippe Burtin, Chairman and CEO",France,1428.4,1236.9,15.482254,1428.4,100.0
+2011,52,Aviation Holding Co Sukhoi,"Mikhail Pogosyan, Director",Russia,1404.2,1522.0,-7.7398195,1462.7,96.00055
+2011,53,Irkut,"Alexei Fyodorov, President",Russia,1400.0,1103.7,26.84607,1673.0,83.68201
+2011,54,Dassault Aviation,"Charles Edelstenne, CEO",France,1273.0,1366.5,-6.842298,5558.1,22.90351
+2011,55,United Engine,"Andrei Reus, Director",Russia,1243.7,713.4,74.33416,2799.6,44.424202
+2011,56,KraussMaffei Wegmann,"Manfred Bode, Chairman and CEO",Germany,1194.7,1722.1,-30.6254,1194.7,100.0
+2011,57,Mitsubishi Electric,"Kenichiro Yamanishi, President and CEO",Japan,1187.7,1968.8,-39.67392,42613.9,2.7871187
+2011,58,GKN,"Marcus Bryson, CEO",United Kingdom,1054.2,1052.1,0.19959849,2243.0,46.999554
+2011,59,Jacobs Engineering,"Craig Martin, President and CEO",USA,1053.1,971.7,8.377067,9900.0,10.637374
+2011,60,Kawasaki Heavy Industries,"Satoshi Hasegawa, President (Representative Director)",Japan,1042.7,1123.9,-7.2248483,14343.0,7.269748
+2011,61,Samsung Techwin,"Cheol Kyo Kim, CEO",South Korea,1032.0,1374.0,-24.89083,2752.0,37.5
+2011,62,Tactical Missiles,"Boris Obnosov, Director",Russia,1028.7,910.9,12.932256,1118.1,92.004295
+2011,63,NEC,"Nobuhiro Endo, President (Representative Director)",Japan,1008.8,778.6,29.56589,36414.4,2.7703326
+2011,64,Bharat Electronics,"Ashwani Kumar Datt, Chairman and Ma-ging Director",India,997.7,916.0,8.919215,1210.9,82.39326
+2011,65,HewlettPackard,"Lâ€šo Apotheker, President and CEO",USA,971.9,1751.1,-44.49774,126033.0,0.77114725
+2011,66,Diehl Stiftung,"Thomas Diehl, President and CEO",Germany,963.7,966.2,-0.2587456,3617.5,26.639944
+2011,67,Fincantieri,"Giuseppe Bono, CEO",Italy,943.0,735.4,28.229532,3817.8,24.700089
+2011,68,AAR,"David Storch, Chairman and CEO",USA,942.4,645.0,46.108532,1775.8,53.06904
+2011,69,Chemring,"David Price, CEO",United Kingdom,929.0,778.1,19.393398,929.0,100.0
+2011,70,IHI Marine,"Shigemi Kurahara, President and CEO",Japan,917.7,,,2336.8,39.271652
+2011,71,Ultra Electronics,"Rakesh Sharma, CEO",United Kingdom,878.0,815.4,7.6772103,1097.5,80.0
+2011,72,CAE,"Marc Parent, President and CEO",Canada,850.9,742.7,14.568467,1602.3,53.10491
+2011,73,LIG Nex,"Hyo Koo-Lee, CEO",South Korea,811.0,763.5,6.2213492,811.0,100.0
+2011,74,RUAG,"Lukas Braunshweiler, CEO",Switzerland,810.2,844.9,-4.106996,1726.0,46.940907
+2011,75,Cubic,"Walter Zable, Chairman, President and CEO",USA,805.1,709.8,13.426315,1194.2,67.41752
+2011,76,Meggitt,"Terry Twigger, CEO",United Kingdom,789.0,810.2,-2.6166391,1793.1,44.002007
+2011,77,Indra,"Javier MonzÂ¢n, Chairman",Spain,788.4,950.9,-17.089073,3394.3,23.227177
+2011,78,CurtissWright,"Martin Be-nte, Chairman and CEO",USA,784.0,759.0,3.2938077,1893.0,41.41574
+2011,79,Alion Science and Technology,"Bahman Atefi, Chairman and CEO",USA,771.8,735.3,4.9639606,834.0,92.54196
+2011,80,Aselsan,"Cengiz Ergeneman, General Ma-ger",Turkey,762.2,643.1,18.519678,789.6,96.52989
+2011,81,Battelle,"Jeffrey Wadsworth, President and CEO",USA,753.2,737.0,2.1981022,6200.0,12.148387
+2011,82,Teledyne Technologies,"Robert Mehrabian, Chairman, President and CEO",USA,727.4,777.8,-6.47981,1644.2,44.24036
+2011,83,Accenture,"Pierre -nterme, CEO",Ireland,725.0,453.0,60.04415,21600.0,3.3564813
+2011,84,FLIR,"Earl Lewis, Chairman and CEO",USA,706.0,655.3,7.736916,1385.0,50.974728
+2011,85,SRC,"Paul Tremont, President",USA,691.0,471.0,46.70913,701.0,98.57346
+2011,86,VSE,"Maurice Gauthier, President and CEO",USA,675.4,840.3,-19.62394,866.0,77.99076
+2011,87,Embraer,"Frederico Fleury Curado, President and CEO",Brazil,667.0,480.4,38.842632,5312.5,12.555294
+2011,88,SRA Intertiol,"Stanton Sloane, President and CEO",USA,661.0,559.9,18.056791,1666.6,39.661587
+2011,89,Patria,"Heikki Allonen, CEO",Finland,658.4,662.0,-0.543803,748.7,87.939095
+2011,90,Deloitte,"Barry Salzberg, CEO",USA,657.4,176.5,272.4646,10900.0,6.031193
+2011,91,Force Protection,"Michael Moody, Chairman and CEO",USA,656.0,977.1,-32.86255,656.0,100.0
+2011,92,ARINC,"John Belcher, Chairman and CEO",USA,649.8,833.5,-22.039595,1083.2,59.988922
+2011,93,Day  Zimmermann,"Harold Yoh, Chairman and CEO",USA,647.7,637.0,1.6797507,2382.0,27.191437
+2011,94,Tula KB Priborostroyeniya,"Igor Stepanichev, Director",Russia,627.4,,,628.6,99.80911
+2011,95,mmo,"Edgar Fossheim, CEO",Norway,570.9,513.8,11.113281,570.9,100.0
+2011,96,Wyle,"George Melton, Chairman, CEO and President",USA,563.5,390.8,44.191406,924.1,60.978252
+2011,97,MC Dean,"Bill Dean, President and CEO",USA,548.2,445.0,23.191013,820.1,66.84551
+2011,98,Israel Military Industries,"Avi Felder, President and CEO",Israel,508.6,465.0,9.376346,508.6,100.0
+2011,99,Fujitsu,"Masami Yamamoto, President (Representative Director)",Japan,503.8,533.4,-5.549313,52937.1,0.95169544
+2011,100,RTI Sistema,"Sergei Tishchenko, Director",Russia,449.0,,,506.0,88.735176
+2010,1,Lockheed Martin,"Robert Stevens, Chairman and CEO,",USA,42025.7,39739.8,5.752164,45189.0,92.99985
+2010,2,BAE Systems,"Ian King, CEO",United Kingdom,33418.8,32708.7,2.170987,35094.1,95.226265
+2010,3,Boeing,"W. James McNerney, Chairman, President and CEO,",USA,31932.0,31082.0,2.7347016,68281.0,46.76557
+2010,4,Northrop Grumman,"Wes Bush, President and CEO,",USA,30656.9,26579.0,15.342565,33755.0,90.8218
+2010,5,General Dynamics,"Jay Johnson, Chairman and CEO,",USA,25904.6,22854.0,13.348208,31981.0,80.99997
+2010,6,Raytheon Company,"William Swanson, Chairman and CEO",USA,23139.3,21551.8,7.365974,24881.0,92.99988
+2010,7,EADS,"Louis Gallois, CEO",Netherlands,15013.7,16208.4,-7.3708706,59711.8,25.143606
+2010,8,Finmeccanica,"Pierfrancesso GuarguafliniI, Chairman and CEO",Italy,13332.1,10219.5,30.457455,24345.2,54.762745
+2010,9,L Communications,"Michael Strianese, Chairman, President and CEO",USA,13014.0,12159.0,7.031828,15615.0,83.34294
+2010,10,United Technologies,"Louis Chenevert, Chairman and CEO",USA,11100.0,9975.8,11.269274,52920.0,20.975056
+2010,11,SAIC,"Walt Havenstein, CEO",USA,8400.0,7661.0,9.64626,10846.0,77.44791
+2010,12,Thales,"Luc Vigneron, Chairman and CEO",France,8032.0,7944.1,1.1064804,17988.1,44.651745
+2010,13,ITT,"Steven Loranger, Chairman, President and CEO",USA,6097.5,6094.1,0.055790063,10904.5,55.917282
+2010,14,KBR,"William Utt, Chairman, President and CEO",USA,5410.2,6674.4,-18.941025,12105.0,44.693928
+2010,15,Honeywell,"David Cote, Chairman and CEO",USA,5382.0,5313.0,1.2987013,30908.0,17.412968
+2010,16,Booz Allen Hamilton,"Ralph Shrader, Chairman and CEO",USA,4299.0,3575.0,20.251747,5100.0,84.29411
+2010,17,CSC,"Michael Laphen, Chairman, President and CEO",USA,4203.3,3800.0,10.6131525,16739.9,25.109467
+2010,18,GE Aviation,"David Joyce, President and CEO",USA,4200.0,4200.0,0.0,18700.0,22.459892
+2010,19,URS,"Martin Koffel, CEO",USA,3483.3,3370.0,3.3620193,9249.1,37.66096
+2010,20,DCNS,"Patrick Boissier, Chairman and CEO",France,3355.0,3686.3,-8.987333,3355.0,100.0
+2010,21,Textron,"Scott Donnelly, President and CEO",USA,3300.0,3400.0,-2.9411764,10500.0,31.428572
+2010,22,AlmazAntei,"Vladislav Menshikov, Director",Russia,3263.0,4335.2,-24.732426,3666.3,88.99981
+2010,23,RollsRoyce,"Sir John Rose, CEO",United Kingdom,3146.9,3131.0,0.50782186,16304.7,19.30057
+2010,24,Safran,"Jean-Paul Herteman, PrÃ©sident du directoire",France,3067.7,3037.9,0.9809424,14569.0,21.056353
+2010,25,Navistar Defense,"Daniel Ustian, Chairman, President and CEO",USA,2885.0,4000.0,-27.875,11569.0,24.937334
+2010,26,Mitsubishi Heavy Industries,"Hideaki Omiya, President",Japan,2833.1,3138.2,-9.722129,26684.3,10.617105
+2010,27,ATK,"Mark DeYoung, President and CEO",USA,2740.0,2850.0,-3.8596492,4807.7,56.991905
+2010,28,Elbit Systems,"Joseph Ackerman, President and CEO",Israel,2690.8,2506.1,7.370015,2832.4,95.00072
+2010,29,Harris,"Howard Lance, Chairman, President and CEO",USA,2686.7,2465.7,8.962973,5000.0,53.733997
+2010,30,Rheinmetall,"Klaus Eberhardt, CEO",Germany,2646.6,2668.7,-0.82811314,4768.9,55.49708
+2010,31,Oshkosh,"Robert Bohn, Chairman and CEO",USA,2594.8,1891.9,37.15313,5695.2,45.561172
+2010,32,Rockwell Collins,"Clay Jones, Chairman, President and CEO",USA,2579.0,2366.0,9.002536,4470.0,57.69575
+2010,33,DynCorp International,"William Ballhaus, President and CEO",USA,2381.9,1850.9,28.688738,3585.3,66.435165
+2010,34,Bechtel,"Riley Bechtel, Chairman and CEO",USA,2297.5,2202.9,4.294344,30800.0,7.4594154
+2010,35,Cobham,"Andy Stevens, CEO",United Kingdom,2266.4,1630.2,39.025887,2944.0,76.98369
+2010,36,Israel Aerospace Industries,"Itzhak Nissan, President and CEO",Israel,2234.0,2203.0,1.4071721,2881.0,77.54252
+2010,37,Babcock International Group,"Peter Rogers, CEO",United Kingdom,2138.7,2117.2,1.0154922,3016.1,70.90945
+2010,38,CACI International,"Paul Cofoni, President and CEO",USA,2078.3,1807.5,14.982022,2730.2,76.12263
+2010,39,Saab,"Hakan Buskhe, President and CEO (as of 9/1)",Sweden,2014.6,2957.4,-31.879353,2424.9,83.07972
+2010,40,Goodrich,"Marshall Larsen, Chairman, President and CEO",USA,2005.8,1794.0,11.806023,6686.0,30.000002
+2010,41,Hindustan Aeronautics,"Ashok Nayak, Chairman",India,1999.5,1641.2,21.83159,2182.1,91.631905
+2010,42,Mitsubishi Electric,"Kenichiro Yamanishi, President and CEO",Japan,1968.8,1555.1,26.602797,36135.2,5.448427
+2010,43,ManTech International,"George Pedersen, Chairman and CEO",USA,1919.3,1754.9,9.368056,2020.3,95.00075
+2010,44,QinetiQ Group,"Leo Quinn, CEO",United Kingdom,1795.4,2032.3,-11.656745,2599.4,69.06979
+2010,45,HewlettPackard,"Mark Hurd, Chairman, President and CEO",USA,1751.1,2027.1,-13.61551,114552.0,1.5286508
+2010,46,KraussMaffei Wegmann,"Frank Haun, President and CEO",Germany,1722.1,2059.2,-16.370436,1722.1,100.0
+2010,47,Rafael Advanced Defense Systems Ltd,"Yedidia Yaari, President and CEO",Israel,1607.0,1528.0,5.170157,1607.0,100.0
+2010,48,Serco,"Edward Casey, Chairman and CEO",United Kingdom,1597.0,1446.6,10.396794,6215.6,25.693417
+2010,49,Aviation Holding Co Sukhoi,"Mikhail Pogosyan, Director",Russia,1522.0,2039.2,-25.362885,1640.0,92.80488
+2010,50,Singapore Technologies Engineering Ltd,"Tan Pheng Hock, President and CEO",Singapore,1451.3,1247.9,16.299385,3819.3,37.99911
+2010,51,Samsung Techwin,"ChangSuk Oh, President and CEO",South Korea,1374.0,746.5,84.05894,3085.7,44.527985
+2010,52,General Atomics,"J. Neal Blue, Chairman and CEO",USA,1369.8,1065.5,28.559366,,
+2010,53,Dassault Aviation,"Charles Edelstenne, Chairman and CEO",France,1366.5,2118.4,-35.493767,4770.3,28.645998
+2010,54,Nexter,"Luc Vigneron, Chairman and CEO",France,1236.9,766.0,61.4752,1236.9,100.0
+2010,55,Kawasaki Heavy Industries,"Satoshi Hasegawa, President",Japan,1123.9,1529.1,-26.499245,12645.9,8.8874655
+2010,56,Irkut,"Oleg Demchenko, Director",Russia,1103.7,1149.8,-4.0094013,1161.8,94.99913
+2010,57,Kongsberg,"Walter Qvam, CEO",Norway,1059.8,755.3,40.315117,2208.2,47.993843
+2010,58,GKN,"Marcus Bryson, CEO",United Kingdom,1052.1,1077.7,-2.375427,6575.8,15.999575
+2010,59,Force Protection,"Michael Moody, Chairman, President and CEO",USA,977.1,1326.3,-26.328888,977.1,100.0
+2010,60,Jacobs Engineering,"Craig Martin, President and CEO",USA,971.7,1008.0,-3.6011894,11467.4,8.473585
+2010,61,Indra,"Javier MonzÃ³n, Chairman",Spain,950.9,1005.9,-5.46774,3504.5,27.133686
+2010,62,Bharat Electronics,"Ashwani Kumar Datt, Chairman and Managing Director",India,916.0,855.0,7.1345034,1101.2,83.18199
+2010,63,Tactical Missiles,"Boris Obnosov, Director",Russia,910.9,1152.6,-20.969976,990.1,92.00081
+2010,64,Fluor,"Alan Boeckmann, Chairman and CEO",USA,871.5,777.7,12.061204,21990.3,3.963111
+2010,65,Ruag,"Lukas Braunschweiler, CEO",Switzerland,844.9,778.9,8.473488,1566.1,53.949303
+2010,66,VSE,"Maurice Gauthier, Presdient and CEO",USA,840.3,831.7,1.0340238,1014.6,82.820816
+2010,67,ARINC,"John Belcher, Chairman and CEO",USA,833.5,702.8,18.597042,1243.9,67.006996
+2010,68,Ultra Electronics Holdings,"Douglas Caster, CEO",United Kingdom,815.4,736.0,10.788047,1019.2,80.00392
+2010,69,Russian Helicopters,"Andrei Shibitov, Director",Russia,813.8,845.1,-3.7037022,1820.5,44.702003
+2010,70,Meggitt,"Terry Twigger, CEO",United Kingdom,810.2,839.1,-3.444162,1800.5,44.99861
+2010,71,Uralvagonzavod,"Oleg Siyenko, Director",Russia,801.5,646.8,23.917751,1144.0,70.06119
+2010,72,NEC,"Nobuhiro Endo, President (Representive Director)",Japan,778.6,981.4,-20.664362,38613.3,2.0164034
+2010,73,Chemring,"David Price, CEO",United Kingdom,778.09,688.1,13.078049,785.9,99.00623
+2010,74,Teledyne Technologies,"Robert Mehrabian, Chairman, President and CEO",USA,777.8,754.5,3.0881362,1765.2,44.062996
+2010,75,RSK MiG,"Mikhail Pogosyan, Director",Russia,762.5,,,770.2,99.00026
+2010,76,CurtissWright,"Martin Benante, Chairman and CEO",USA,759.0,663.0,14.479639,1810.0,41.9337
+2010,77,CAE,"Marc Parent, President and CEO",Canada,742.7,649.4,14.3671055,1401.8,52.981876
+2010,78,Alion Science and Technology,"Bahman Atefi, Chairman and CEO",USA,737.2,660.4,11.629313,802.2,91.897285
+2010,79,Battelle,"Jeffrey Wadsworth, President and CEO",USA,737.0,794.0,-7.1788416,5600.0,13.160714
+2010,80,Fincantieri,"Giuseppe Bono, CEO",Italy,735.4,584.5,25.81694,4558.9,16.131084
+2010,81,Agility,"Tarek Sultan, Chairman and Managing Director",Kuwait,715.5,2200.0,-67.47727,1705.4,41.954967
+2010,82,Cubic,"Walter Zable, Chairman",USA,709.8,607.8,16.781837,1016.7,69.8141
+2010,83,Diehl Stiftung,"Thomas Diehl, President and CEO",Germany,690.0,911.3,-24.283989,2928.3,23.563158
+2010,84,Patria,"Heikki Allonen, President and CEO",Finland,662.0,676.4,-2.1289213,752.3,87.99681
+2010,85,FLIR,"Earl Lewis, Chairman, President and CEO",USA,655.3,600.0,9.216664,1147.1,57.126663
+2010,86,Aselsan,"Cengiz Ergeneman, General Manager",Turkey,643.1,515.3,24.801085,669.3,96.08546
+2010,87,Day  Zimmermann,"Harold Yoh, Chairman and CEO",USA,637.0,548.3,16.177277,2100.0,30.333334
+2010,88,Korea Aerospace Industries,"Hong Kyung, Kim, President and CEO",South Korea,622.2,584.5,6.4499593,856.5,72.644485
+2010,89,AAR,"David Storch, Chairman and CEO",USA,614.1,518.8,18.369312,1424.0,43.124996
+2010,90,SRA International,"Stanton Sloane, President and CEO",USA,559.9,669.1,-16.320423,1540.7,36.340626
+2010,91,Sevmash,"Nikolai Kalistratov, Director",Russia,534.4,432.4,23.589277,668.0,80.0
+2010,92,Fujitsu,"Masami Yamamoto, President and Representative Director",Japan,533.4,442.7,20.487919,5028.2,10.6081705
+2010,93,Nammo,"Edgar Fossheim, President and CEO",Norway,513.8,466.0,10.257508,549.6,93.486176
+2010,94,MMPP Salyut,"Yury Yeliseyev, Director",Russia,494.7,444.2,11.3687525,521.3,94.89738
+2010,95,Embraer,"Frederico Fleury Curado, President and CEO",Brazil,480.4,530.1,-9.3755865,5474.4,8.775391
+2010,96,SRCSRCTec,"Robert Roberts, President and CEO",USA,471.0,348.1,35.305943,483.0,97.515526
+2010,97,Israel Military Industries,"Avi Felder, President and CEO",Israel,465.0,660.0,-29.545454,500.0,93.0
+2010,98,Accenture,"William Green, Chairman and CEO",Ireland,453.0,400.0,13.249999,21580.0,2.099166
+2010,99,MC Dean,"William Dean, President and CEO",USA,445.0,,,642.5,69.2607
+2010,100,Hyundai Rotem,"Yeo-Sung Lee, Executive Vice Chairman and CEO",South Korea,407.9,415.2,-1.7581933,2149.5,18.976507
+2009,1,Lockheed Martin,"Robert Stevens, Chairman, President and CEO",USA,39550.0,38513.0,2.6925974,42731.0,92.555756
+2009,2,BAE Systems,"Ian King, CEO",United Kingdom,32667.0,29800.0,9.620805,34351.0,95.097664
+2009,3,Boeing,"W. James McNerney, Chairman, President and CEO",USA,31082.0,31175.0,-0.29831597,60909.0,51.030224
+2009,4,Northrop Grumman,"Ro-ld Sugar, Chairman and CEO",USA,26579.0,24497.0,8.499001,33887.0,78.434204
+2009,5,General Dymics,"Jay Johnson, President and CEO",USA,22854.0,21519.0,6.2038198,29300.0,78.0
+2009,6,Raytheon,"William Swanson, Chairman and CEO",USA,21551.8,19809.9,8.793079,23174.0,92.999916
+2009,7,EADS,"Louis Gallois, CEO",Netherlands,16206.6,12241.3,32.3928,63639.4,25.4663
+2009,8,L Communications,"Michael Strianese, Chairman, President and CEO",USA,12159.0,11239.0,8.1857815,14901.0,81.59855
+2009,9,Finmeccanica,"PierFrancesco Guarguaglini, President and CEO",Italy,10219.0,9861.0,3.6304634,22119.0,46.2001
+2009,10,United Technologies,"Louis R. ChÃªnevert, President and CEO",USA,9975.8,8761.4,13.860792,58681.0,17.000051
+2009,11,Thales,"Luc Vigneron, Chairman and CEO",France,8020.0,7200.0,11.388889,18650.0,43.00268
+2009,12,SAIC,"Ken Dahlberg, Chairman and CEO",USA,7661.0,6503.0,17.807167,10070.0,76.07745
+2009,13,ITT,"Steven Loranger, Chairman, President and CEO",USA,6282.0,4176.0,50.431038,11694.8,53.716183
+2009,14,KBR,"William Utt, Chairman, President and CEO",USA,5997.1,5967.0,0.50444275,11581.0,51.783955
+2009,15,Honeywell,"David Cote, Chairman and CEO",USA,5313.0,5017.0,5.89994,36556.0,14.533865
+2009,16,AlmazAntei,"Vladislav Menshikov, Director",Russia,4335.2,2782.1,55.824738,4616.8,93.90054
+2009,17,RollsRoyce,"(Sir) John Rose, CEO",United Kingdom,4237.6,4402.8,-3.752151,16950.6,24.999706
+2009,18,GE Aviation,"David Joyce, President and CEO",USA,4000.0,4500.0,-11.111112,19200.0,20.833332
+2009,19,vistar,"Daniel Ustian, Chairman, President and CEO",USA,4000.0,429.0,832.4009,14724.0,27.16653
+2009,20,MBDA Missile Systems,"Antoine Bouvier, CEO",France,3995.0,4124.0,-3.1280308,3995.0,100.0
+2009,21,Computer Sciences Corp,"Michael Laphen, Chairman, President and CEO",USA,3800.0,3600.0,5.555556,16500.0,23.030304
+2009,22,Booz Allen Hamilton,"Ralph Shrader, Chairman and CEO",USA,3575.0,2930.0,22.013653,4300.0,83.139534
+2009,23,Textron,"Lewis Campbell, Chairman and CEO",USA,3400.0,2500.0,36.0,14200.0,23.943663
+2009,24,URS,"Martin Koffel, CEO",USA,3370.0,2173.0,55.085136,10086.0,33.41265
+2009,25,DCNS,"Patrick Boissier, President and CEO",France,3200.0,3837.0,-16.601511,3200.0,100.0
+2009,26,Mitsubishi Heavy Industries,"Hideaki Omiya, President",Japan,3137.5,2874.0,9.1684065,33728.7,9.302167
+2009,27,Safran,"Jean-Paul Herteman, CEO",France,3038.9,3156.3,-3.7195497,15193.2,20.00171
+2009,28,Saab Group,"Ake Svensson, President and CEO",Sweden,2932.7,2878.7,1.8758469,3651.2,80.32154
+2009,29,ATK,"Dan Murphy, Chairman, President and CEO",USA,2850.0,2670.0,6.741573,4583.2,62.183624
+2009,30,QinetiQ,"Graham Love, CEO",United Kingdom,2588.5,2193.3,18.018509,2783.4,92.99778
+2009,31,Rheinmetall AG,"Klaus Eberhardt, CEO",Germany,2535.4,2565.0,-1.1539999,5407.7,46.884995
+2009,32,Elbit Systems,"Joseph Ackerman, President and CEO",Israel,2506.1,1882.9,33.097885,2638.0,95.00001
+2009,33,Harris,"Howard Lance, Chairman, President and CEO",USA,2465.7,1738.8,41.804688,5311.0,46.426285
+2009,34,Rockwell Collins,"Clayton Jones, Chairman, President and CEO",USA,2351.0,2231.0,5.378754,4769.0,49.297546
+2009,35,Israel Aerospace Industries,"Itzhak Nissan, President and CEO",Israel,2203.0,1937.0,13.732576,3585.0,61.45049
+2009,36,Bechtel,"Riley Bechtel, Chairman and CEO",USA,2202.9,1648.0,33.671112,31400.0,7.0156045
+2009,37,Agility,"Tarek Abdul Aziz Sultan, Chairman and Ma-ging Director",Kuwait,2200.0,2000.0,10.0,6800.0,32.352943
+2009,38,Dassault Aviation,"Charles Edelstenne, Chairman and CEO",France,2110.8,2404.1,-12.199993,5525.5,38.20107
+2009,39,KraussMaffei Wegmann,"Frank Haun, Chairman and Ma-ging Director",Germany,2059.2,1914.7,7.546874,2059.2,100.0
+2009,40,Aviation Holding Company Sukhoi,"Mikhail Pogosyan, Director",Russia,2039.2,1715.4,18.876059,2169.4,93.998344
+2009,41,Oshkosh Truck,"Robert Bohn, Chairman and CEO",USA,1991.9,1416.5,40.62125,7138.3,27.904404
+2009,42,VT Group,"Paul Lester, CEO",United Kingdom,1960.0,1370.0,43.065693,2700.0,72.59259
+2009,43,Cobham,"Allan Cook, CEO",United Kingdom,1932.4,1464.9,31.91344,2720.0,71.04412
+2009,44,CACI Intertiol,"Paul Cofoni, President and CEO",USA,1807.8,1393.7,29.712284,2420.5,74.68705
+2009,45,Goodrich,"Marshall Larsen, Chairman, President and CEO",USA,1794.0,1600.0,12.125,7062.0,25.403568
+2009,46,Babcock Intertiol Group,"Peter Rogers, CEO",United Kingdom,1755.0,1697.6,3.3812456,2700.0,65.0
+2009,47,ManTech Intertiol,"George Pedersen, Chairman and CEO",USA,1754.9,1351.1,29.886765,1870.9,93.799774
+2009,48,Hindustan Aeroutics,"Ashok -ik, Chairman and Ma-ging Director",India,1585.1,1729.6,-8.354532,1981.4,79.998985
+2009,49,Mitsubishi Electric,"Setsuhiro Shimomura, President and CEO",Japan,1554.7,843.3,84.35906,36621.3,4.245343
+2009,50,Kawasaki Heavy Industries,"Tadaharu Ohashi, Chairman and President",Japan,1528.8,586.2,160.79837,13375.1,11.430196
+2009,51,Rafael Advanced Defense Systems,"Yedidia Yaari, President and CEO",Israel,1528.0,1286.0,18.81804,1528.0,100.0
+2009,52,Serco,"Christopher Hyman, CEO",United Kingdom,1446.6,1460.9,-0.978852,5786.2,25.000864
+2009,53,Force Protection,"Michael Moody, President and CEO",USA,1326.3,890.7,48.905357,1326.3,100.0
+2009,54,Singapore Technologies Engineering,"Tan Pheng Hock, President and CEO",Singapore,1247.6,1106.4,12.762107,3780.7,32.99918
+2009,55,Tactical Missiles,"Boris Obnosov, Director",Russia,1152.6,1056.0,9.147725,1213.3,94.99711
+2009,56,Irkut,"Oleg Demchenko, Director",Russia,1149.8,1184.3,-2.913113,1255.2,91.602936
+2009,57,General Atomics,"Neal Blue, Chairman & CEO",USA,1142.9,972.8,17.485613,,
+2009,58,NEC,"Kaoru Yano, President",Japan,981.2,629.2,55.944054,42121.9,2.3294296
+2009,59,Indra Sistemas,"Javier MonzÃ³n, Executive Chairman",Spain,944.0,932.0,1.2875537,3284.4,28.741932
+2009,60,Diehl Stiftung,"Thomas Diehl, President and CEO",Germany,911.3,972.1,-6.2544994,3131.6,29.100138
+2009,61,Fluor,"Alan Boeckmann, Chairman and CEO",USA,864.6,558.0,54.94623,22325.9,3.8726323
+2009,62,Jacobs Engineering,"Craig Martin, President and CEO",USA,846.9,627.0,35.071774,11252.2,7.526528
+2009,63,Meggitt,"Terry Twigger, CEO",United Kingdom,845.3,672.4,25.713856,2151.3,39.29252
+2009,64,Russian Helicopters,"Andrei Shibitov, Director",Russia,845.1,723.9,16.742636,1657.1,50.99873
+2009,65,VSE,"Maurice \""Mo\"" Gauthier",USA,831.7,538.5,54.447544,1043.7,79.68765
+2009,66,Kongsberg Gruppen,"Walter Qvam, CEO",Norway,799.6,570.8,40.08409,1986.1,40.259804
+2009,67,Battelle,"Jeffrey Wadsworth, President and CEO",USA,794.0,988.0,-19.635628,4600.0,17.260868
+2009,68,Ruag,"Lukas Braunschweiler, CEO",Switzerland,777.0,569.0,36.555363,1420.0,54.71831
+2009,69,Nexter Systems,"Luc Vigneron, CEO",France,766.0,776.0,-1.2886598,766.0,100.0
+2009,70,Teledyne Technologies,"Robert Mehrabian, CEO",USA,754.2,664.5,13.498873,1893.0,39.841522
+2009,71,Samsung Techwin,"ChangSuk Oh, President and CEO",South Korea,746.5,769.0,-2.9258778,2121.9,35.180737
+2009,72,GKN Group,"(Sir) Kevin Smith, CEO",United Kingdom,743.3,656.4,13.238873,8562.5,8.680876
+2009,73,Ultra Electronics,"Douglas Caster, CEO",United Kingdom,735.9,611.5,20.343422,955.6,77.00922
+2009,74,Bharat Electronics,"Ashwani Kumar Datt, Chairman and Ma-ging Director",India,733.1,892.7,-17.878351,917.1,79.93675
+2009,75,ARINC,"John Belcher, Chairman and CEO",USA,702.8,505.2,39.113216,1162.6,60.450714
+2009,76,SRA Intertiol,"Stanton Sloane, President and CEO",USA,669.1,614.4,8.902987,1506.9,44.402416
+2009,77,CurtissWright,"Martin Be-nte, Chairman and CEO",USA,663.0,613.0,8.156607,1831.0,36.20972
+2009,78,Israel Military Industries,"Avi Felder, Ma-ging Director",Israel,660.0,570.0,15.789473,660.0,100.0
+2009,79,CAE,"Robert Brown, President and CEO",Canada,649.0,543.4,19.433193,1489.8,43.562893
+2009,80,Uralvagonzavod,"Oleg Siyenko, Director",Russia,646.8,400.0,61.699997,1848.1,34.998108
+2009,81,Patria Oy,"Heikki Allonen, CEO",Finland,643.0,636.0,1.100629,748.0,85.96257
+2009,82,Alion Science and Technology,"Bahman Atefi, Chairman and CEO",USA,639.0,642.0,-0.46728972,739.0,86.4682
+2009,83,Cubic,"Walter Zable, Chairman, President and CEO",USA,607.8,641.1,-5.1941957,881.1,68.98196
+2009,84,KB Priborostroyeniya,"Igor Stepanichev, Acting Director",Russia,607.0,493.8,22.924263,610.0,99.508194
+2009,85,FLIR,"Earl Lewis, Chairman, President and CEO",USA,600.0,382.0,57.06806,1022.0,58.708416
+2009,86,Fincantieri  Cantieri vali Italiani SpA,"Giuseppe Bono, CEO",Italy,584.5,635.1,-7.9672456,4081.8,14.319663
+2009,87,Chemring Group,"David Price, CEO",United Kingdom,555.0,490.0,13.2653055,575.0,96.52174
+2009,88,Day  Zimmermann,"Harold Yoh, Chairman and CEO",USA,548.3,491.5,11.556457,2324.0,23.592943
+2009,89,Ufa Enginebuilding,"Alexander Artyukhov, Director",Russia,541.0,588.6,-8.086983,601.0,90.01664
+2009,90,AAR,"David Storch, Chairman and CEO",USA,516.9,379.2,36.313293,1384.2,37.342873
+2009,91,mmo,"Edgar Fossheim, President and CEO",Norway,510.4,365.1,39.797314,5946.0,8.583922
+2009,92,Embraer,Frederico Fleury Curado,Brazil,504.8,346.4,45.72748,6335.2,7.968178
+2009,93,ASELSAN Elektronik Sayi ve Ticaret A,"Cengiz Ergeneman, General Ma-ger",Turkey,488.2,423.3,15.331923,535.5,91.16714
+2009,94,Korea Aerospace Industries,"Hong Kyung Kim, President and CEO",South Korea,484.7,542.9,-10.720208,790.0,61.354435
+2009,95,Fujitsu,"Kuniaki Nozoe, President",Japan,442.6,387.9,14.101575,46891.0,0.94389117
+2009,96,Ball Aerospace  Technologies,"David Taylor, President and CEO",USA,429.0,432.0,-0.6944445,746.0,57.506706
+2009,97,Hyundai Rotem,"Yeo-sung Lee, President and CEO",South Korea,414.2,400.7,3.3691041,2090.1,19.817234
+2009,98,Accenture,"William Green, Chairman and CEO",USA,400.0,304.2,31.492434,23387.0,1.710352
+2009,99,RTI Systems Concern,"Sergei Tischenko, Director",Russia,396.1,313.5,26.34769,471.5,84.008484
+2009,100,ViaSat,"Mark Dankberg, Chairman and CEO",USA,389.0,320.0,21.5625,628.0,61.942673
+2008,1,Lockheed Martin,"Robert Stevens, President and CEO",USA,36090.0,34225.0,5.449233,39620.0,91.090355
+2008,2,Boeing,"James McNerney, Chairman, President and CEO",USA,30800.0,29200.0,5.479452,61530.0,50.05688
+2008,3,BAE Systems,"Mike Turner, CEO",United Kingdom,25070.6,20935.2,19.753338,26967.6,92.96563
+2008,4,Northrop Grumman,"Ronald Sugar, Chairman and CEO",USA,23649.0,23332.0,1.358649,30148.0,78.443016
+2008,5,Raytheon,"William Swanson, Chairman and CEO",USA,19500.0,18200.0,7.1428576,20291.0,96.10172
+2008,6,General Dynamics,"Nicholas Chabraja, Chairman and CEO",USA,18769.0,16570.0,13.270971,24063.0,77.99942
+2008,7,EADS,"Thomas Enders and Louis Gallois, co-CEOs",Netherlands,13202.7,9120.3,44.761692,52018.6,25.380728
+2008,8,L Communications,"Michael Strianese, CEO",USA,9989.6,8549.2,16.848352,12476.9,80.06476
+2008,9,Finmeccanica,"Pierfrancesco Guarguaglini, Chairman and CEO",Italy,9057.1,7125.7,27.104696,16466.4,55.003517
+2008,10,United Technologies,"George David, Chairman and CEO",USA,7652.6,6832.0,12.011126,47829.0,15.999916
+2008,11,Thales,"Denis Ranque, Chairman and CEO",France,6997.4,8523.3,-17.90269,13598.8,51.45601
+2008,12,KBR,"William Utt, President, CEO and Director",USA,6400.0,,,9600.0,66.66667
+2008,13,SAIC,"Ken Dahlberg, Chairman, CEO and President",USA,5800.0,5400.0,7.4074073,8300.0,69.87952
+2008,14,General Electric,"Jeffrey Immelt, Chairman and CEO",USA,4600.0,3500.0,31.428572,15400.0,29.870129
+2008,15,Honeywell,"David Cote, Chairman and CEO",USA,4400.0,,,31600.0,13.92405
+2008,16,RollsRoyce,"Sir John Rose, CEO",United Kingdom,4062.3,3293.6,23.339201,14007.8,29.000273
+2008,17,ITT,"Steve Gaffney, President of Defense",USA,3659.3,3220.0,13.642858,7807.9,46.86664
+2008,18,DCNS,"Jean-Marie Poimboeuf, President and CEO",France,3564.7,3352.0,6.345464,3564.7,100.0
+2008,19,Computer Sciences Corp,"Michael W. Laphen, Chairman, CEO and Director",USA,3530.0,3368.9,4.7819796,14615.6,24.152275
+2008,20,ATK,"Daniel Murphy, Chairman and CEO",USA,3066.0,2882.0,6.384455,3565.0,86.0028
+2008,21,DRS Technologies,"Mark Newman, Chairman, President and CEO",USA,2736.5,1674.8,63.39264,2821.2,96.997734
+2008,22,SAFRAN Group,"Jean-Paul BÃ©chat, CEO",France,2640.5,3074.8,-14.124497,14958.7,17.651936
+2008,23,Saab Ãke,"Svensson, President and CEO",Sweden,2461.9,1941.4,26.810541,3077.5,79.99675
+2008,24,Booz Allen Hamilton,"Ralph Shrader, Chairman and CEO",USA,2449.0,2183.0,12.185066,4000.0,61.225
+2008,25,Mitsubishi Heavy Industries,"Kazuo Tsukuda, President",Japan,2354.4,2055.9,14.519189,26024.9,9.04672
+2008,26,Textron,"Lewis Campbell, Chairman, President and CEO",USA,2088.0,1400.0,49.142857,11490.0,18.172323
+2008,27,Rockwell Collins,"Clayton Jones, Chairman, President and CEO",USA,2043.0,1810.0,12.872929,3864.0,52.87267
+2008,28,AlmazAntei,"Vladislav Menschikov, Director",Russia,2019.6,1567.5,28.842104,2362.1,85.50018
+2008,29,EDS,"Michael Jordan, Chairman and CEO",USA,1940.6,1400.0,38.614285,21300.0,9.110798
+2008,30,Rheinmetall,"Klaus Eberhardt, Executive Board Chairman",Germany,1907.8,1660.6,14.88619,4791.3,39.81801
+2008,31,Armor Holdings,"Warren Kanders, Chairman and CEO",USA,1897.8,1188.6,59.666843,2360.9,80.384605
+2008,32,URS,"Martin Koffel, Chairman, President and CEO",USA,1759.0,1729.0,1.7351071,4240.0,41.485847
+2008,33,Israel Aerospace Industries,"Itzhak Nissan, President and CEO",Israel,1746.0,1560.0,11.923077,2813.0,62.068962
+2008,34,Hindustan Aeronautics,"Ashok Baweja, CEO",India,1665.0,1053.0,58.11966,1850.0,90.0
+2008,35,Dassault Aviation,"Charles Edelstenne, Chairman and CEO",France,1649.0,2108.3,-21.785326,4359.5,37.82544
+2008,36,QinetiQ,"Graham Love, CEO",United Kingdom,1513.3,1677.1,-9.766855,1983.4,76.29828
+2008,37,Goodrich,"Marshall Larsen, Chairman, President and CEO",USA,1500.0,1500.0,0.0,5878.0,25.518885
+2008,38,Harris,"Howard Lance, Chairman, President and CEO",USA,1500.0,1500.0,0.0,3474.8,43.167953
+2008,39,Elbit Systems,"Joseph Ackerman, President, CEO and Director",Israel,1402.0,998.0,40.48096,1520.0,92.23684
+2008,40,GKN Group,"Kevin Smith, CEO",United Kingdom,1376.3,743.4,85.135864,6797.4,20.24745
+2008,41,KraussMaffei Wegmann,"Frank Haun, Chairman and CEO",Germany,1320.3,710.7,85.7746,1320.3,100.0
+2008,42,Oshkosh Truck,"Robert Bohn, Chairman, President and CEO",USA,1317.2,1061.0,24.147026,3427.0,38.435947
+2008,43,CACI,"J.P. London, Chairman, President and CEO",USA,1282.6,1179.3,8.759427,1755.3,73.07013
+2008,44,Bechtel Group,"Riley Bechtel, Chairman and CEO",USA,1264.5,1488.9,-15.07153,20000.5,6.322342
+2008,45,VT Group,"Paul Lester, CEO",United Kingdom,1217.9,1273.2,-4.343381,1739.8,70.0023
+2008,46,Cobham,"Allan Cook, CEO",United Kingdom,1214.7,877.6,38.411575,1978.7,61.38879
+2008,47,Kawasaki Heavy Industries,"Tadaharu Ohashi, President",Japan,1107.7,1103.2,0.4079043,12201.4,9.078465
+2008,48,ManTech International,"George Pedersen, Chairman and CEO",USA,1082.6,930.3,16.371063,1137.2,95.19874
+2008,49,Rafael Armament Development Authority,"Yedidia Yaari, President and General Manager",Israel,1056.3,845.7,24.90245,1056.3,100.0
+2008,50,Mitsubishi Electric,"Setsuhiro Shimomura, President",Japan,998.3,971.4,2.7691953,30568.2,3.2658122
+2008,51,Nexter,"Luc Vigneron, Chairman and CEO",France,950.6,865.8,9.794409,950.6,100.0
+2008,52,Diehl Stiftung,"Thomas Diehl, President and CEO",Germany,949.8,689.9,37.67212,2878.2,32.999794
+2008,53,Washington Group International,"Stephen Hanks, President and CEO",USA,907.3,952.0,-4.6953793,3398.1,26.700214
+2008,54,ST Engineering,"Tan Pheng Hock, President and CEO",Singapore,906.8,921.8,-1.6272511,2925.2,30.999588
+2008,55,Babcock International Group,"Peter Rogers, CEO",United Kingdom,858.9,563.7,52.368282,1455.7,59.00254
+2008,56,Battelle,"Carl Kohrt, President and CEO",USA,840.0,746.0,12.600536,3815.1,22.01777
+2008,57,Indra Sistemas,"Javier MonzÃ³n, CEO",Spain,792.2,303.3,161.19354,1584.3,50.003155
+2008,58,Bharat Electronics,"V. V. R. Sastry, Chairman and Managing Director",India,781.6,541.8,44.259872,977.0,79.99999
+2008,59,NEC,"Kaoru Yano, President",Japan,704.8,917.0,-23.140678,39460.0,1.7861124
+2008,60,EDO,"James Smith, Chairman, President and CEO",USA,686.0,623.0,10.112359,715.2,95.91722
+2008,61,Tactical Missiles,"Boris Obnosov, Director",Russia,674.8,423.8,59.226055,710.4,94.98873
+2008,62,Fincantieri,"Giuseppe Bono, CEO",Italy,652.9,576.2,13.311352,3256.7,20.047901
+2008,63,The Aerospace Corp,"William Ballhaus, President and CEO",USA,637.3,580.9,9.709065,719.7,88.55078
+2008,64,Jacobs Engineering Group,"Noel Watson, Chairman and CEO",USA,504.8,479.0,5.386219,7421.3,6.8020425
+2008,65,Aviation Holding Company Sukhoi,"Mikhail Pogosyan, Director",Russia,625.6,514.8,21.52292,742.1,84.30131
+2008,66,Patria,"Jorma Wiitakorpi, CEO",Finland,622.5,360.0,72.91667,732.1,85.02937
+2008,67,Irkut,"Oleg Demchenko, Director",Russia,590.6,687.0,-14.032027,641.5,92.06547
+2008,68,MiG,"Alexei Fyodorov, Director",Russia,587.3,403.0,45.732006,596.2,98.50721
+2008,69,Tenix Defence,"Greg Hayes, CEO",Australia,584.1,602.0,-2.9734259,1095.2,53.33272
+2008,70,Teledyne Technologies,"Robert Mehrabian, Chairman, President and CEO",USA,569.4,510.6,11.515867,1433.2,39.72928
+2008,71,Cubic,"Walter Zable, Chairman, President and CEO",USA,564.4,543.4,3.864556,821.4,68.71195
+2008,72,AAI,"Frederick Strader, President and CEO",USA,564.0,480.0,17.5,564.0,100.0
+2008,74,Ultra Electronic Holdings,"Douglas Caster, CEO",United Kingdom,561.3,519.0,8.150287,738.6,75.99513
+2008,74,Russias Helicopters,"Yuri Ivanov, Director",Russia,558.0,,,558.0,100.0
+2008,75,CurtissWright,"Martin Benante, Chairman and CEO",USA,549.0,520.0,5.576923,1282.2,42.817036
+2008,76,Ufa Enginebuilding,"Alexander Artyukhov, CEO",Russia,548.7,,,569.8,96.29695
+2008,77,Ruag Suisse,"Ko-ad Peter, Chairman",Switzerland,545.6,580.7,-6.0444355,1023.2,53.322906
+2008,78,ARINC,"John Belcher, Chairman and CEO",USA,537.5,330.1,62.82944,918.8,58.500217
+2008,79,Korea Aerospace Industries,"Jeong Hae Ju, President and CEO",South Korea,532.0,595.6,-10.678304,705.0,75.46099
+2008,80,Severnaya Verf,"Andrei Fomichev, Director",Russia,526.4,436.1,20.706264,658.0,80.0
+2008,81,Aerospace Equipment,"Sergei Bodrunov, Director",Russia,518.3,397.3,30.455578,730.0,71.0
+2008,82,Meggitt,"Terry Twigger, CEO",United Kingdom,511.9,625.4,-18.14839,1312.6,38.998936
+2008,83,CAE,"Robert Brown, President and CEO",Canada,489.6,452.3,8.246743,1082.4,45.232815
+2008,84,Israel Military Industries,"Avi Felderi, Managing Director",Israel,481.6,379.0,27.071241,481.6,100.0
+2008,85,Kongsberg Gruppen,"Jan Erik KorssjÃ¸en, CEO",Norway,481.2,390.8,23.132044,1078.9,44.600983
+2008,86,Alion Science and Technology,"Bahman Atefi, CEO",USA,451.8,,,508.6,88.832085
+2008,87,BearingPoint,"Harry You, CEO",USA,414.0,405.6,2.0710044,3450.0,12.0
+2008,88,Ball,"David Taylor, President and CEO",USA,412.3,361.4,14.084116,6621.5,6.2266855
+2008,89,IHI Marine United,"Yoshinori Imashimizu, President, Representative Director",Japan,378.3,,,848.1,44.60559
+2008,90,Fujitsu,"Hiroaki Kurokawa, President",Japan,374.0,266.2,40.49586,581.0,64.37177
+2008,91,KB Priborostroyeniya Instrument Design Bureau,"Alexander Rybas, Director",Russia,369.9,,,371.7,99.51574
+2008,92,Toshiba,"Atsutoshi Nishida, President and CEO",Japan,358.8,421.1,-14.79459,53801.0,0.66690207
+2008,93,Rotem Co,"Yeo-Sung Lee, CEO",South Korea,356.4,,,1682.7,21.180246
+2008,94,MMPP Salyut,"Yuri Yeliseyev, Director",Russia,351.1,346.2,1.415365,425.5,82.514694
+2008,95,Orbital Sciences,"David Thompson, Chairman and CEO",USA,321.2,350.0,-8.228568,803.0,40.0
+2008,96,IHI,"Mototsugu Ito, President",Japan,310.0,296.0,4.7297297,10466.0,2.9619722
+2008,97,Aselsan,"Cengiz Ergeneman, General Manager",Turkey,308.5,279.3,10.454713,341.1,90.44268
+2008,98,Komatsu,"Masahiro Sakane, President and CEO",Japan,307.9,287.5,7.0956497,16058.0,1.9174242
+2008,99,Admiralteiskiye Verfi,"Vladimir Alexandrov, Director",Russia,304.6,644.6,-52.745884,385.0,79.11689
+2008,100,Chemring,"David Price, CEO",United Kingdom,302.9,,,356.5,84.964935
+2007,1,Lockheed Martin,"Robert Stevens, President and CEO",USA,34225.0,34050.0,0.5139501,37213.0,91.97054
+2007,2,Boeing,"James McNerney, Chairman, President and CEO",USA,29200.0,30464.0,-4.14916,54845.0,53.240948
+2007,3,Northrop Grumman,"Ronald Sugar, Chairman and CEO",USA,23332.0,22126.0,5.450601,30700.0,76.0
+2007,4,BAE Systems,"Mike Turner, CEO",United Kingdom,20935.2,20344.0,2.9060128,26500.2,79.00016
+2007,5,Raytheon,"William Swanson, Chairman and CEO",USA,18200.0,18771.0,-3.0419264,21900.0,83.10502
+2007,6,General Dynamics,"Nicholas Chabraja, Chairman and CEO",USA,16570.0,15000.0,10.466666,21244.0,77.9985
+2007,7,EADS,"Thomas Enders and NoÃ«l Forgeard, co-CEOs",Netherlands,9120.3,10505.9,-13.188786,40508.2,22.514702
+2007,8,L Communications,"Michael Strianese, interim CEO",USA,8549.2,6133.8,39.378532,9444.7,90.51849
+2007,9,Thales,"Denis Ranque, Chairman and CEO",France,8523.3,8868.6,-3.8935099,12176.1,70.00025
+2007,10,Halliburton,"David Lesar, Chairman, President and CEO",USA,7552.0,8000.0,-5.6000004,20994.0,35.972183
+2007,11,Finmeccanica,"Pier Francesco Guarguaglini, Chairman and CEO",Italy,7125.7,7670.6,-7.1037455,12728.1,55.98401
+2007,12,United Techologies,"George David, Chairman and CEO",USA,6832.0,6740.0,1.3649852,42700.0,16.0
+2007,13,Science Applications International Corp,"Ken Dahlberg, Chairman, CEO and President",USA,5400.0,4686.0,15.236876,7792.0,69.30185
+2007,14,General Electric,"Jeffrey Immelt, Chairman and CEO",USA,3500.0,3400.0,2.9411764,149700.0,2.3380094
+2007,15,Computer Sciences Corp,"Van Honeycutt, Chairman and CEO",USA,3368.9,3779.0,-10.852079,14615.6,23.050028
+2007,16,DCN,"Jean-Marie Poimboeuf, President and CEO",France,3352.0,3547.4,-5.508257,3352.0,100.0
+2007,17,RollsRoyce,"Sir John Rose, CEO",United Kingdom,3293.6,3069.0,7.318348,11357.2,29.000107
+2007,18,ITT Industries,"Steven Loranger, Chairman, President and CEO",USA,3220.0,2414.0,33.388565,7400.0,43.51351
+2007,19,SAFRAN Group,"Jean-Paul Bechat, CEO",France,3074.8,3192.1,-3.6746984,12527.9,24.543617
+2007,20,ATK,"Daniel Murphy, Chairman and CEO",USA,2882.0,2516.0,14.5469,3217.0,89.58657
+2007,21,Booz Allen Hamilton,"Ralph Shrader, Chairman and CEO",USA,2183.0,1767.0,23.542728,3700.0,58.999996
+2007,22,Dassault Aviation,"Charles Edelstenne, Chairman and CEO",France,2108.3,1828.3,15.314773,4062.7,51.894062
+2007,23,Mitsubishi Heavy Industries,"Kazuo Tsukuda, President",Japan,2055.9,2516.7,-18.309692,23750.0,8.656421
+2007,24,Saab,"Ã…ke Svensson, President and CEO",Sweden,1941.4,1900.0,2.1789486,2426.9,79.995056
+2007,25,Rockwell Collins,"Clayton Jones, Chairman, President and CEO",USA,1810.0,1535.0,17.91531,3445.0,52.539913
+2007,26,URS,"Martin Koffel, Chairman, President and CEO",USA,1729.0,1460.0,18.424658,3918.0,44.129658
+2007,27,QinetiQ,"Graham Love, CEO",United Kingdom,1677.1,1399.1,19.869917,1973.0,85.00253
+2007,28,DRS Technologies,"Mark Newman, Chairman, President and CEO",USA,1674.8,1258.0,33.13196,1735.5,96.50246
+2007,29,Rheinmetall,"Klaus Eberhardt, Executive Board Chairman",Germany,1660.6,1882.8,-11.801576,4091.1,40.59055
+2007,30,AlmazAntei,"Vladislav Menschikov, Director",Russia,1567.5,929.0,68.72982,1741.7,89.99828
+2007,31,Israel Aircraft Industries,"Yitzhak Nissan, President and CEO",Israel,1560.0,1379.0,13.125454,2341.0,66.63819
+2007,32,Honeywell,"David Cote, Chairman and CEO",USA,1504.8,1382.5,8.846296,27653.0,5.4417243
+2007,33,Harris,"Howard Lance, Chairman, President and CEO",USA,1500.0,1445.0,3.8062282,3000.0,50.0
+2007,34,Goodrich,"Marshall Larsen, Chairman, President and CEO",USA,1500.0,1400.0,7.1428576,5396.0,27.79837
+2007,35,Bechtel Group,"Riley Bechtel, Chairman and CEO",USA,1486.9,1742.5,-14.668578,18100.0,8.214917
+2007,36,Textron,"Lewis Campbell, Chairman, President and CEO",USA,1400.0,1500.0,-6.666667,10000.0,14.0
+2007,37,EDS,"Michael Jordan, Chairman and CEO",USA,1400.0,1538.3,-8.990447,19800.0,7.070707
+2007,38,Smiths Group,"Keith Butler-Wheelhouse, CEO",United Kingdom,1362.7,1243.1,9.621107,5450.7,25.000456
+2007,39,Anteon,"Joseph Kampf, President and CEO",USA,1298.3,1124.8,15.424964,1490.0,87.13423
+2007,40,VT Group,"Paul Lester, CEO",United Kingdom,1273.2,1048.4,21.44219,1591.5,79.99999
+2007,41,Armor Holdings,"Warren Kanders, Chairman and CEO",USA,1188.6,605.0,96.46281,1536.0,77.38281
+2007,42,CACI,"J.P. London, Chairman, President and CEO",USA,1179.3,771.9,52.77886,1623.1,72.657265
+2007,43,Kawasaki Heavy Industries,"Tadaharu Ohashi, President",Japan,1103.2,1329.0,-16.990223,11249.2,9.806919
+2007,44,Oshkosh Truck,"Robert Bohn, Chairman, President and CEO",USA,1061.0,905.0,17.23757,2959.0,35.85671
+2007,45,Hindustan Aeronautics,"Ashok Baweja, Chairman and Managing Director",India,1053.0,918.0,14.705883,1170.0,90.0
+2007,46,Elbit Systems,"Joseph Ackerman, President, CEO and Director",Israel,998.0,876.3,13.8879385,1070.0,93.27103
+2007,47,Mitsubishi Electric,"Setsuhiro Shimomura, President",Japan,971.4,959.8,1.208589,30657.6,3.1685457
+2007,48,Ericsson,"Carl-He-ic Svanberg, President and CEO",Sweden,953.7,600.0,58.95,19074.2,4.999948
+2007,49,Washington Group International,"Stephen Hanks, President and CEO",USA,952.0,1109.7,-14.211043,3188.5,29.857298
+2007,50,ThyssenKrupp,"Ekkehard Schulz, CEO",Germany,946.6,1028.8,-7.9898977,49822.7,1.8999372
+2007,51,ManTech International,"George Pedersen, Chairman and CEO",USA,930.3,773.3,20.302599,980.3,94.89952
+2007,52,ST Engineering,"Tan Pheng Hock, President and CEO",Singapore,922.0,882.6,4.464086,2004.4,45.998802
+2007,53,NEC,"Kaoru Yano, President",Japan,917.0,842.6,8.829816,41041.1,2.2343454
+2007,54,Navantia,"Juan Pedro GÃ³mez JaÃ©n, Chairman and CEO",Spain,879.7,,,1097.9,80.125694
+2007,55,Cobham,"Allan Cook, CEO",United Kingdom,877.6,946.9,-7.3186235,1720.8,50.999535
+2007,56,GIAT Industries,"Luc Vigneron, Chairman and CEO",France,865.8,804.9,7.5661526,865.8,100.0
+2007,57,Rafael Armament Development Authority,"Yedidia Yaari, President and General Manager",Israel,845.7,800.0,5.7125015,845.7,100.0
+2007,58,Kongsberg Gruppen,"Jan Erik KorssjÃ¸en, CEO",Norway,798.7,478.0,67.09206,840.7,95.004166
+2007,59,Battelle,"Carl Kohrt, President and CEO",USA,746.0,581.0,28.399313,3400.0,21.941175
+2007,60,GKN Group,"Kevin Smith, CEO",United Kingdom,743.4,791.7,-6.1007943,6194.8,12.000388
+2007,61,Stewart  Stevenson Services,"Max Lukens, President and CEO",USA,724.0,549.0,31.876139,726.0,99.72452
+2007,62,KraussMaffei Wegmann,"Frank Haun, Chairman and CEO",Germany,710.7,818.6,-13.181037,710.7,100.0
+2007,63,Diehl Stiftung,"Thomas Diehl, President and CEO",Germany,689.9,781.0,-11.66453,1954.3,35.301643
+2007,64,Irkut,"Oleg Demchenko, Director",Russia,687.0,624.5,10.008006,861.8,79.71687
+2007,65,Admiralteiskiye Verfi,"Vladimir Alexandrov, Director",Russia,644.6,354.4,81.88487,678.5,95.003685
+2007,66,Meggitt,"Terry Twigger, CEO",United Kingdom,625.4,415.3,50.589943,1060.0,59.000004
+2007,67,EDO,"James Smith, Chairman, President and CEO",USA,623.0,489.0,27.402863,648.0,96.141975
+2007,68,Tenix Defence,"Robert Salteri, CEO",Australia,602.0,495.3,21.542503,762.0,79.002625
+2007,69,Korea Aerospace Industries,"Hae Joo Chung, President and CEO",South Korea,595.6,557.8,6.7766204,668.5,89.094986
+2007,70,MITRE,"Martin Faga, President and CEO",USA,584.7,592.1,-1.2497828,962.1,60.77331
+2007,71,The Aerospace Corp,"William Ballhaus, President and CEO",USA,580.9,524.0,10.858783,663.9,87.498116
+2007,72,Ruag Suisse,"Ko-ad Peter, Chairman",Switzerland,580.7,1082.8,-46.37052,907.3,64.00308
+2007,73,Fincantieri,"Giuseppe Bono, CEO",Italy,576.2,615.3,-6.3546195,2687.3,21.441595
+2007,74,Babcock International Group,"Peter Rogers, CEO",United Kingdom,563.7,761.5,-25.975048,1428.0,39.474792
+2007,75,Cubic,"Walter Zable, Chairman, President and CEO",USA,543.4,452.9,19.982342,804.0,67.58707
+2007,76,Bharat Electronics,"Y. Gopala Rao, Chairman and Managing Director",India,541.8,519.4,4.312661,774.0,70.0
+2007,77,Sevmash,"Vladimir Pastukhov, Director",Russia,528.7,,,665.9,79.39631
+2007,78,CurtissWright,"Martin Benante, Chairman and CEO",USA,520.0,440.0,18.181818,1131.0,45.977013
+2007,79,Ultra Electronic Holdings,"Douglas Caster, CEO",United Kingdom,519.0,473.2,9.678781,589.2,88.08554
+2007,80,Aviation Holding Company Sukhoi,"Mikhail Pogosyan, Director",Russia,514.8,1469.0,-64.95575,553.5,93.00813
+2007,81,Teledyne Technologies,"Robert Mehrabian, Chairman, President and CEO",USA,510.6,437.1,16.815372,1206.5,42.320763
+2007,82,AAI,"Frederick M. Strader, President and CEO",USA,480.0,355.0,35.21127,517.0,92.84332
+2007,83,Jacobs Engineering Group,"Noel Watson, Chairman and CEO",USA,479.0,544.0,-11.948529,5635.0,8.500443
+2007,84,CAE,"Robert Brown, President and CEO",Canada,452.3,383.0,18.09399,948.4,47.690845
+2007,85,ADI,"Lucio Di Bartolomeo, Managing Director",Australia,438.9,511.8,-14.243844,466.7,94.04328
+2007,86,Severnaya Verf,Alexander Buzakov,Russia,436.1,,,445.9,97.8022
+2007,87,Tactical Missiles,"Boris Obnosov, Director",Russia,423.8,,,448.5,94.49275
+2007,88,Toshiba,"Atsutoshi Nishida, President and CEO",Japan,421.1,385.9,9.121537,53958.5,0.7804146
+2007,89,Embraer,"MaurÃ­cio Novis Botelho, President and CEO",Brazil,406.0,365.8,10.989615,3829.9,10.6008
+2007,90,BearingPoint,"Harry You, CEO",USA,405.6,328.5,23.470322,,
+2007,91,Aerospace Equipment,"Sergei Bodrunov, Director",Russia,397.3,444.2,-10.558312,575.8,68.99966
+2007,92,Israel Military Industries,"Avi Felderi, acting CEO",Israel,379.0,399.1,-5.036333,379.0,100.0
+2007,93,MAN Group,"HÃ¥kan Samuelsson, Chairman",Germany,371.1,,,2046.6,18.132513
+2007,94,Ball Corp,"David Hoover, Chairman, President and CEO",USA,361.4,344.7,4.844787,5751.2,6.2839055
+2007,95,Orbital Sciences,"David Thompson, Chairman and CEO",USA,350.0,365.1,-4.1358547,703.4,49.758316
+2007,96,MMPP Salyut,"Yuri Yeliseyev, Director",Russia,346.2,,,396.6,87.291985
+2007,97,Universal Shipbuilding Corp,"Kamijo Takehiko, President",Japan,337.7,,,1251.2,26.990091
+2007,98,ARINC,"John Belcher, Chairman and CEO",USA,330.1,532.0,-37.951126,891.0,37.048264
+2007,99,Indra Sistemas,"Javier MonzÃ³n, CEO",Spain,303.3,313.8,-3.3460803,1424.0,21.299156
+2007,100,IshikawajimaHarima Heavy Industries,"Mototsugu Ito, President",Japan,296.0,458.5,-35.441658,9586.4,3.0877075
+2006,1,Lockheed Martin,"Robert J. Stevens, Chairman and CEO",USA,34050.0,30097.0,13.134199,35526.0,95.84529
+2006,2,Boeing,"W. James McNerney, Chairman, President and CEO",USA,30464.0,27360.0,11.345029,52457.0,58.07423
+2006,3,Northrop Grumman,"Ronald D. Sugar, Chairman, CEO, and President",USA,22126.0,18700.0,18.320856,29900.0,74.0
+2006,4,BAE Systems,"Mike Turner, CEO",United Kingdom,20344.8,17159.0,18.566355,25431.0,80.0
+2006,5,Raytheon,"William H. Swanson, Chairman and CEO",USA,18771.0,16896.0,11.097301,20245.0,92.71919
+2006,6,General Dynamics,"Nicholas D. Chabraja, Chairman and CEO",USA,15000.0,12782.0,17.352528,19178.0,78.21462
+2006,7,EADS,"Thomas Enders and No'l Forgeard, co-CEOs",Netherlands,10505.9,8036.5,30.727312,43387.9,24.213896
+2006,8,Honeywell,"David M. Cote, Chairman and CEO",USA,10240.4,4200.0,143.81906,25601.0,40.0
+2006,9,Thales,"Denis Ranque, Chairman and CEO",France,8868.6,8476.0,4.631897,14053.3,63.106884
+2006,10,Halliburton,"David J. Lesnar, Chairman, President and CEO",USA,8000.0,2700.0,196.2963,20446.0,39.127457
+2006,11,Finmeccanica,Pier Francesco Guarguaglini. Chairman and CEO,Italy,7670.6,5895.5,30.10941,12807.6,59.891003
+2006,12,United Technologies,"George David, Chairman and CEO",USA,6740.0,5300.0,27.169811,37445.0,17.999733
+2006,13,L Communications,"Frank Lanza, Chairman and CEO",USA,6133.8,4369.2,40.387245,6897.0,88.93431
+2006,14,Science Applications International Corp,"Ken Dahlberg, CEO and President",USA,4686.0,3735.0,25.461847,7187.0,65.20106
+2006,15,Computer Sciences Corp,"Van B. Honeycutt, Chairman and CEO",USA,3779.0,3818.0,-1.0214772,14768.0,25.589111
+2006,16,DCN,"Jean-Marie Poimbouef, President and CEO",France,3547.4,2084.5,70.1799,3547.4,100.0
+2006,17,General Electric,"Jeffrey R. Immelt, Chairman and CEO",USA,3400.0,3100.0,9.677419,15500.0,21.935484
+2006,18,RollsRoyce,"Sir John Rose, CEO",United Kingdom,3069.0,2489.9,23.257967,11366.9,26.999443
+2006,19,Misubishi Heavy Industries,"Kazuo Tsukuda, President",Japan,2516.7,2667.4,-5.649695,25323.6,9.93816
+2006,20,Alliant Techsystems,"Daniel J. Murphy Jr., Chairman and CEO",USA,2516.0,2102.0,19.695528,2081.0,120.90341
+2006,21,ITT Industries,"Steve R. Loranger, Chairman, President and CEO",USA,2414.0,1790.9,34.79256,6740.1,35.81549
+2006,22,United Defense Industries,"Thomas W. Rabaut, President and CEO",USA,2292.0,2052.6,11.663251,2292.0,100.0
+2006,23,Snecma,"Jean-Paul BÃ©chat, Chairman and CEO",France,2183.0,1845.9,18.262093,9277.9,23.52903
+2006,24,Titan,"Gene W. Ray, Chairman, President and CEO",France,2004.0,1113.0,80.05391,2047.0,97.89937
+2006,25,Saab,"Ã…ke Svensson, President and CEO",Sweden,1900.0,1380.0,37.68116,4200.0,45.238094
+2006,26,Rheinmetall,"Klaus Eberhardt, Executive Board Chairman",Germany,1882.8,2014.1,-6.5190372,4652.6,40.467693
+2006,27,Dassault Aviation,"Charles Edelstenne, Chairman and CEO",France,1828.3,2009.1,-8.99905,4720.8,38.728607
+2006,28,Booz Allen Hamilton,"Ralph W. Shrader, Chairman and CEO",USA,1767.0,1355.0,30.405903,3300.0,53.545456
+2006,29,Bechtel Group,"Riley Bechtel, Chairman and CEO",USA,1742.5,910.4,91.399376,17400.0,10.014368
+2006,30,SAGEM,"GrÃ©goire Olivier, Chairman and CEO",France,1584.0,1359.0,16.556292,4870.9,32.51966
+2006,31,Electronic Data Systems,"Michael H. Jordan, Chairman and CEO",USA,1538.3,772.1,99.23586,20669.0,7.4425473
+2006,32,Rockwell Collins,"Clayton M. Jones, Chairman, President, and CEO",USA,1535.0,1270.0,20.866142,2604.0,58.947773
+2006,33,Textron,"Lewis B. Campbell, Chairman, President and CEO",USA,1500.0,1600.0,-6.25,10242.0,14.6455765
+2006,34,Aviation Holding Company Sukhoi,"Mikhail Pogosyan, Director",Russia,1469.0,1425.0,3.0877194,1499.0,97.998665
+2006,35,URS,"Martin M. Koffel, Chairman and CEO",USA,1460.0,1230.0,18.699186,3300.0,44.242424
+2006,36,Harris,"Howard L. Lance, Chairman, President and CEO",USA,1445.0,1100.0,31.363636,2518.6,57.373142
+2006,37,Goodrich,"Marshall O. Larsen, Chairman, President and CEO",USA,1400.0,1300.0,7.692308,4700.0,29.787233
+2006,38,QinetiQ,"Sir John Chisolm, CEO",United Kingdom,1399.1,1161.4,20.466673,1639.2,85.352615
+2006,39,Israel Aircraft Industries,"Moshe Keret, President and CEO",Israel,1379.0,1308.0,5.4281344,2056.0,67.07198
+2006,40,Kawasaki Heavy Industries,"Masamoto Tazaki, President and CEO",Japan,1329.0,1096.5,21.20383,11547.6,11.508885
+2006,41,DRS Technologies,"Mark S. Newman, Chairman, President, and CEO",USA,1258.0,940.2,33.801315,1308.6,96.13327
+2006,42,Smiths Group,"Keith Butler-Wheelhouse, CEO",United Kingdom,1243.1,1778.2,-30.092228,4972.4,25.0
+2006,43,Anteon,"Joseph Kampf, President and CEO",USA,1124.8,927.0,21.337654,1268.1,88.69963
+2006,44,Washington Group International,"Stephen G. Hanks, President and CEO",USA,1109.7,1048.0,5.8874,2915.2,38.065998
+2006,45,RUAG,"Konrad Peter, Chairman",Switzerland,1082.8,838.1,29.197002,1691.9,63.999058
+2006,46,VT Group,"Paul Lester, CEO",United Kingdom,1048.4,857.8,22.219635,1397.9,74.998215
+2006,47,ThyssenKrupp,"Ekkehard Schulz, CEO",Germany,1028.8,1110.0,-7.315311,53620.9,1.918655
+2006,48,Mitsubishi Electric,"Tamotsu Nomakuchi, President and CEO",Japan,959.8,898.6,6.810596,31720.6,3.025794
+2006,49,Cobham,"Allen Cook, CEO",United Kingdom,946.9,742.7,27.494278,1893.8,50.0
+2006,50,AlmazAntei,"Vladislav Menschikov, Director",Russia,929.0,,,1327.0,70.00753
+2006,51,Hindustan Aeronautics,"Ashok K. Baweja, Chairman and Managing Director",India,918.0,738.0,24.390244,1020.0,90.0
+2006,52,OshKosh Truck,"Robert G. Bohn, Chairman, President and CEO",USA,905.0,657.0,37.747337,2700.0,33.51852
+2006,53,Singapore Technologies Engineering,"Tan Pheng Hock, President and CEO",Singapore,882.6,903.6,-2.3240373,1800.7,49.014275
+2006,54,Elbit Systems,"Joseph Ackerman, President, CEO and Director",Israel,876.3,848.0,3.3372626,939.9,93.233315
+2006,55,IZAR Construcctiones Navales,"Juan Pedro Gomez Jaen, President",Spain,851.4,739.0,15.209746,1528.1,55.71625
+2006,56,NEC,"Akinobu Kanasugi, President",Japan,842.6,533.1,58.056652,45155.3,1.8660046
+2006,57,Engineered Support Systems,"Gerald A. Potthoff, Vice Chairman and CEO",USA,830.6,555.2,49.60374,883.6,94.00181
+2006,58,KraussMaffei Wegmann,"Manfred Bode, Chairman and CEO",Germany,818.6,791.1,3.4761727,818.6,100.0
+2006,59,GIAT Industries,"Luc Vigneron, Chairman and CEO",France,804.9,915.4,-12.071225,804.9,100.0
+2006,60,Rafael Armament Development Authority,"Yedidia Yaari, President and General Manager",Israel,800.0,830.0,-3.6144576,800.0,100.0
+2006,61,GKN Group,"Kevin Smith, CEO",United Kingdom,791.7,1533.7,-48.379734,7917.4,9.999495
+2006,62,Diehl Stiftung,"Thomas Diehl, President and CEO",Germany,781.0,683.1,14.331727,2169.4,36.00074
+2006,63,ManTech International,"George J. Pedersen, Chairman and CEO",USA,773.3,639.9,20.847,842.4,91.79724
+2006,64,CACI,"J.P. London, Chairman, President and CEO",USA,771.9,536.3,43.930645,1145.8,67.36778
+2006,65,Babcock International Group,"Peter Rogers, CEO",United Kingdom,761.5,602.6,26.369072,1428.0,53.326332
+2006,66,Irkut,"Oleg Demchenko, Director",Russia,624.5,468.4,33.326218,643.8,97.00218
+2006,67,Fincantieri,"Giuseppe Bono, CEO",Italy,615.3,632.9,-2.780856,2970.3,20.715078
+2006,68,Armor Holdings,"Warren B. Kanders, Chairman and CEO",USA,605.0,91.0,564.83514,980.0,61.734695
+2006,69,Ericsson,"Carl-Henric Svanberg, President and CEO",Sweden,600.0,439.1,36.64313,1650.0,36.363636
+2006,70,MITRE,"Martin C. Faga, President and CEO",USA,592.1,533.7,10.942471,870.7,68.002754
+2006,71,Battelle,"Carl F. Kohrt, President and CEO",USA,581.0,472.0,23.09322,2900.0,20.034483
+2006,72,Korea Aerospace Industries,"Hae Joo Chung, President and CEO",South Korea,557.8,596.5,-6.487848,626.0,89.10543
+2006,73,Stewart  Stevenson Services,"Max L. Lukens, President and CEO",USA,549.0,446.0,23.09417,1160.0,47.327587
+2006,74,Jacobs Engineering Group,"Noel G. Watson, Chairman and CEO",USA,544.0,494.0,10.121457,710.0,76.61972
+2006,75,ARINC,"John M. Belcher, Chairman and CEO",USA,532.0,347.1,53.269947,734.0,72.47956
+2006,76,The Aerospace Corp,"William F. Ballhaus Jr., President and CEO",USA,524.0,510.0,2.745098,615.0,85.203255
+2006,77,Bharat Electronics,"Y. Gopala Rao, Chairman and Managing Director",India,519.4,434.2,19.622295,742.0,70.00001
+2006,78,ADI,"Lucio Di Bartolomeo, Managing Director",Australia,511.8,496.7,3.0400596,536.4,95.413864
+2006,79,Tenix Defence,"Robert Salteri, CEO",Australia,495.3,380.3,30.239286,762.0,65.0
+2006,80,EDO,"James M. Smith, Chairman, President and CEO",USA,489.0,415.0,17.831326,536.0,91.231346
+2006,81,Kongsberg Gruppen,"Jan Erik Korssjoen, CEO",Norway,478.0,456.1,4.8015776,1000.0,47.8
+2006,82,Ultra Electronic Holdings,"Douglas Caster, CEO",United Kingdom,473.2,399.0,18.596495,614.6,76.99317
+2006,83,IshikawajimaHarima Heavy Industries,"Mototsugu Ito, President and CEO",Japan,458.5,342.8,33.751465,10128.4,4.526875
+2006,84,Cubic,"Walter J. Zable, Chairman, President and CEO",USA,452.9,365.1,24.048203,722.0,62.72853
+2006,85,Aerospace Equipment,"Sergei Bodrunov, Director",Russia,444.2,488.9,-9.14297,583.0,76.19211
+2006,86,Teledyne Technologies,"Robert Mehrabian, Chairman, President and CEO",USA,437.1,387.0,12.945739,1016.6,42.99626
+2006,87,Meggitt,"Terry Twigger, CEO",United Kingdom,415.3,314.6,32.008892,922.8,45.004333
+2006,88,RSK MiG,"Alexei Fyodorov, Director",Russia,403.0,,,427.4,94.29106
+2006,89,Israel Military Industries Ltd,"Ehud (Udi) Ganani, President and CEO",Israel,399.1,469.0,-14.904051,399.1,100.0
+2006,90,BearingPoint,"Harry L. You, CEO",USA,398.5,328.5,21.30898,3450.0,11.550724
+2006,91,Toshiba,"Atsutoshi Nishida, President and CEO",Japan,385.9,368.3,4.7787147,54279.2,0.7109537
+2006,92,CAE,"Robert E. Brown, President and CEO",Canada,383.0,361.6,5.91814,810.6,47.248955
+2006,93,Embraer,"Maur'cio Novis Botelho, President and CEO",Brazil,365.8,,,3440.0,10.63372
+2006,94,Orbital Sciences,"David W. Thompson, Chairman and CEO",USA,365.1,261.6,39.56422,676.0,54.008877
+2006,95,Patria,"Jorma Wiitakorpi, CEO",Finland,360.0,,,400.0,90.0
+2006,96,AAI,"Frederick M. Strader, President and CEO",USA,355.0,282.0,25.886524,385.0,92.20779
+2006,97,Admiralteiske Verfi,"Vladimir Alexandrov, Director",Russia,354.4,,,404.6,87.59268
+2006,98,Ufa MPO,"Yuri Puvstogarov, Director",Russia,345.7,390.6,-11.495134,363.9,94.998634
+2006,99,Ball Corp,"R. David Hoover, Chairman, President and CEO",USA,344.7,307.0,12.280134,5440.2,6.3361645
+2006,100,Komatsu,"Masahiro Sakane, President and CEO",Japan,322.7,356.0,-9.353929,9623.3,3.3533196
+2005,1,Lockheed Martin,"Vance D. Coffman, Chairman and CEO",USA,30097.0,23337.0,28.966877,31824.0,94.57328
+2005,2,Boeing,"Harry C. Stonecipher, President and CEO",USA,27360.0,22033.0,24.17737,50500.0,54.17822
+2005,3,Northrop Grumman,"Ronald D. Sugar, Chairman, CEO, and President",USA,18700.0,12278.1,52.303703,26200.0,71.37405
+2005,4,BAE Systems,"Mike Turner, CEO",United Kingdom,17159.0,15036.4,14.116408,22359.3,76.74211
+2005,5,Raytheon,"William H. Swanson, Chairman and CEO",USA,16896.0,15291.0,10.49637,18100.0,93.34807
+2005,6,General Dynamics,"Nicholas D. Chabraja, Chairman and CEO",USA,12782.0,9800.0,30.42857,16617.0,76.92123
+2005,7,Thales,"Denis Ranque, Chairman and CEO",France,8476.0,7652.6,10.75974,13310.4,63.679527
+2005,8,EADS,"Philippe Camus and Rainer Hertrich, co-CEOs",Netherlands,8036.5,6289.8,27.77036,37796.6,21.262493
+2005,9,Finmeccanica,"Pier Francesco Guarguaglini, Chairman and CEO",Italy,5895.5,3894.4,51.384045,10856.8,54.302376
+2005,10,United Techologies,"George David, Chairman and CEO",USA,5300.0,3600.0,47.22222,31034.0,17.078043
+2005,11,L Communications,"Frank C. Lanza, Chairman and CEO",USA,4369.2,3581.0,22.010616,5061.6,86.32053
+2005,12,Honeywell,"David M. Cote, Chairman and CEO",USA,4200.0,3800.0,10.526316,23100.0,18.181818
+2005,13,Computer Sciences Corp,"Van B. Honeycutt, Chairman and CEO",USA,3818.0,1904.9,100.430466,14800.0,25.797298
+2005,14,Science Applications International Corp,"K.C. Dahlberg, CEO and President",USA,3735.0,3045.0,22.660099,6720.0,55.58036
+2005,15,General Electric,"Jeffrey R. Immelt, Chairman and CEO",USA,3100.0,2800.0,10.714286,134200.0,2.3099852
+2005,16,Halliburton,"David J. Lesar, Chairman, President, and CEO",USA,2700.0,483.7,458.1972,16271.0,16.59394
+2005,17,Mitsubishi Heavy Industries,"Kazuo Tsukuda, President",Japan,2667.4,2903.3,-8.125242,22473.6,11.869038
+2005,18,RollsRoyce,"Sir John Rose, CEO",United Kingdom,2489.9,2207.7,12.782532,9959.6,25.0
+2005,19,Alliant Techsystems,"Daniel J. Murphy Jr., CEO",USA,2102.0,1820.0,15.494506,2366.0,88.84193
+2005,20,DCN,"Jean-Marie Poimboeuf, President and CEO",France,2084.5,2286.3,-8.82649,2084.5,100.0
+2005,21,United Defense Industries,"Thomas W. Rabaut, President and CEO",USA,2052.6,1725.0,18.99131,2052.6,100.0
+2005,22,Rheinmetall DeTec,"Klaus Eberhardt, CEO",Germany,2014.1,1758.1,14.561174,5334.2,37.758236
+2005,23,Dassault Aviation,"Charles Edelstenne, Chairman and CEO",France,2009.1,1269.5,58.259155,4143.8,48.48448
+2005,24,Snecma,"Jean-Paul BÃ©chat, Chairman and CEO",France,1845.9,1295.7,42.46354,8036.5,22.968954
+2005,25,ITT Industries,"Louis J. Giuliano, Chairman, President, and CEO",USA,1790.9,1513.9,18.297113,5626.6,31.82917
+2005,26,Smiths Industries,"Keith Butler-Wheelhouse, CEO",United Kingdom,1778.2,1117.0,59.194267,4235.2,41.98621
+2005,27,Textron,"Lewis B. Campbell, Chairman, President, and CEO",USA,1600.0,1608.0,-0.49751243,9859.0,16.228827
+2005,28,GKN Group,"Kevin Smith, CEO",United Kingdom,1533.7,2084.5,-26.423607,7668.7,19.999477
+2005,29,Aviation Holding Company Sukhoi,"Mikhail Pogosyan, General Director",Russia,1425.0,988.0,44.230766,1500.0,95.0
+2005,30,Saab,"Ã…ke Svensson, President and CEO",Sweden,1380.0,1415.7,-2.5217173,1725.0,80.0
+2005,31,SAGEM,"GrÃ©goire Olivier, Chairman and CEO",France,1359.9,1046.2,29.984716,3993.1,34.056248
+2005,32,Booz Allen Hamilton,"Ralph W. Shrader, Chairman and CEO",USA,1355.0,1026.0,32.066277,2700.0,50.185184
+2005,33,Israel Aircraft Industries,"Moshe Keret, President and CEO",Israel,1308.0,1254.0,4.30622,1868.0,70.021416
+2005,34,Goodrich,"Marshall O. Larsen, Chairman, President, and CEO",USA,1300.0,1000.0,30.000002,4383.0,29.66005
+2005,35,Rockwell Collins,"Clayton M. Jones, Chairman, President, and CEO",USA,1270.0,1115.0,13.901345,2542.0,49.960663
+2005,36,URS,"Martin M. Koffel, Chairman, CEO, and President",USA,1230.0,1200.0,2.5,3200.0,38.4375
+2005,37,QinetiQ,"Sir John Chrisholm, CEO",United Kingdom,1161.4,1007.9,15.229686,1380.1,84.15333
+2005,38,Titan,"Gene W. Ray, Chairman, President, and CEO",USA,1113.0,1320.0,-15.681818,1800.0,61.833336
+2005,39,ThyssenKrupp Werften,"Dr. Klaus Borgschulte, CEO",Germany,1110.0,955.0,16.230368,6152.9,18.040274
+2005,40,Harris,"Howard L. Lance, President and CEO",USA,1100.0,1012.7,8.620519,2093.0,52.55614
+2005,41,Kawasaki Heavy Industries,"Masamoto Tazaki, President and CEO",Japan,1096.5,919.6,19.236628,10986.2,9.980703
+2005,42,Washington Group International,"Stephen G. Hanks, President and CEO",USA,1048.0,918.0,14.161221,2501.0,41.90324
+2005,43,DRS Technologies,"Mark S. Newman, Chairman, President, and CEO",USA,940.2,608.2,54.587303,1001.3,93.897934
+2005,44,Anteon,"Joseph M. Kampf, President and CEO",USA,927.0,661.0,40.242058,1042.0,88.96353
+2005,45,GIAT Industries,"Luc Vigneron, Chairman and CEO",France,915.4,814.5,12.387971,915.4,100.0
+2005,46,Bechtel Group,"Riley Bechtel, Chairman and CEO",USA,910.4,1029.7,-11.585892,16300.0,5.585276
+2005,47,Singapore Technologies Engineering,"Tan Pheng Hock, President and CEO",Singapore,903.6,864.8,4.486585,1655.1,54.594887
+2005,48,Mitsubishi Electric,"Tamotsu Nomakuchi, President and CEO",Japan,898.6,613.4,46.494938,31338.4,2.8674085
+2005,49,VT Group,"Paul Lester, CEO",United Kingdom,857.8,708.7,21.038517,1225.4,70.00163
+2005,50,Elbit Systems,"Joseph Ackerman, President, CEO and Director",Israel,848.0,779.3,8.815605,898.0,94.432076
+2005,51,Ruag Suisse,"Toni J. Wicki, CEO",Switzerland,838.1,541.0,54.916817,974.5,86.003075
+2005,52,Rafael Armament Development Authority,"Giora Shalgi, President and CEO",Israel,830.0,760.0,9.210526,830.0,100.0
+2005,53,KraussMaffei Wegmann,"Dr. Manfred Bode, Chairman and CEO",Germany,791.1,631.1,25.352562,791.1,100.0
+2005,54,Electronic Data Systems,"Michael H. Jordan, Chairman and CEO",USA,772.1,468.4,64.83774,21476.0,3.595176
+2005,55,Cobham,"Allen Cook, CEO",United Kingdom,742.7,582.1,27.589767,1480.8,50.15532
+2005,56,IZAR Construcciones Navales,"Juan Pedro GÃ³mez JaÃ©n, Chairman and CEO",Spain,739.0,472.9,56.269825,2173.6,33.998894
+2005,57,Hindustan Aeronautics,"N.R. Mohanty, Chairman",India,738.0,531.3,38.90458,820.0,90.0
+2005,58,Diehl Stiftung,"Dr.-Ing. E.h.Thomas Diehl, President and CEO",Germany,683.1,694.0,-1.5706086,2009.1,34.000298
+2005,59,Oshkosh Truck,"Robert G. Bohn, Chairman, President, and CEO",USA,657.0,700.0,-6.142857,1926.0,34.11215
+2005,60,ManTech International,"George J. Pedersen, Chairman, CEO, and President",USA,639.9,433.2,47.714684,701.6,91.205826
+2005,61,Fincantieri,"Giuseppe Bono, CEO",Italy,632.9,517.9,22.205057,2942.1,21.511845
+2005,62,Alvis,"N.M. Prest, Chairman and CEO",United Kingdom,620.7,362.1,71.41673,620.7,100.0
+2005,63,Babcock International Group,"Peter Rogers, CEO",United Kingdom,602.6,483.8,24.5556,753.2,80.0053
+2005,64,Korea Aerospace Industries,"Kil Hyoung-Bo, President and CEO",South Korea,596.5,712.0,-16.22191,669.8,89.056435
+2005,65,Indra Sistemas,"Regino Moranchel, CEO",Spain,567.3,214.1,164.96962,1232.3,46.035866
+2005,66,Engineered Support Systems,"Gerald E. Daniels, CEO",USA,555.2,391.6,41.777325,572.7,96.9443
+2005,67,CACI,"Dr. J.P. London, Chairman, President and CEO",USA,536.3,,,843.1,63.61049
+2005,68,MITRE,"Martin C. Faga, President and CEO",USA,533.7,485.0,10.04124,784.6,68.02193
+2005,69,NEC,"Akinobu Kanasugi, President",Japan,533.1,404.7,31.727196,46461.7,1.1473967
+2005,70,Denel,"Victor Moche, CEO",South Africa,519.2,277.4,87.16656,665.7,77.99309
+2005,71,The Aerospace Corp,"Dr. William F. Ballhaus Jr., President and CEO",USA,510.0,453.0,12.582782,582.0,87.62887
+2005,72,ADI,"Lucio Di Bartolomeo, CEO",Australia,496.7,343.0,44.810497,533.5,93.10216
+2005,73,Jacobs Engineering Group,"Noel G. Watson, CEO",USA,494.0,842.3,-41.351063,1884.8,26.209677
+2005,74,Aerospace Equipment,"Sergei Bodrunov, General Director",Russia,488.9,482.4,1.3474295,582.0,84.00343
+2005,75,Israel Military Industries,"Dr. Ehud (Udi) Ganani, President and CEO",Israel,480.1,410.3,17.011948,513.1,93.56851
+2005,76,Battelle,"Carl F. Kohrt, President and CEO",USA,472.0,405.0,16.54321,1300.0,36.307693
+2005,77,Irkut,"Alexei Fyodorov, President",Russia,468.4,505.8,-7.394226,502.0,93.30677
+2005,78,Kongsberg Gruppen,"Jan Erik KorssjÃ¸en, CEO",Norway,456.1,441.6,3.2835145,991.5,46.001007
+2005,79,Stewart  Stevenson Services,"Max L. Lukens, President and CEO",USA,446.0,439.9,1.3866801,1175.0,37.957447
+2005,80,Ericsson,"Carl-Henric Svanberg, CEO and President",Sweden,439.1,333.5,31.66417,16263.5,2.6999109
+2005,81,Bharat Electronics,"Y. Gopala Rao, Chairman and Managing Director",India,434.2,382.9,13.397759,620.2,70.009674
+2005,82,EDO,"James M. Smith, Chairman, President, and CEO",USA,415.0,296.0,40.202705,460.7,90.08031
+2005,83,Ultra Electronic Holdings,"Julian Blogh, CEO",United Kingdom,399.0,338.4,17.907804,505.1,78.994255
+2005,84,Ufa MPO,"Valery Lesunov, General Director",Russia,390.6,325.0,20.184616,406.5,96.08856
+2005,85,Teledyne Technologies,"Robert Mehrabian, Chairman, President, and CEO",USA,387.0,300.0,29.0,841.0,46.016647
+2005,86,Tenix Defence,"Robert Salteri, CEO",Australia,380.3,433.6,-12.292439,560.4,67.862236
+2005,87,Toshiba,"Tadashi Okamura, President and CEO",Japan,368.3,415.6,-11.38114,52831.2,0.6971259
+2005,88,Cubic,"Walter J. Zable, Chairman, President, and CEO",USA,365.1,314.4,16.125957,634.0,57.586754
+2005,89,CAE,"Derek H. Burney, President and CEO",Canada,361.6,416.8,-13.243759,835.9,43.258762
+2005,90,Komatsu,"Masahiro Sakane, President and CEO",Japan,356.0,297.9,19.503191,11328.6,3.1424892
+2005,91,ARINC,"John M. Belcher, Chairman and CEO",USA,347.1,372.0,-6.6935463,636.5,54.5326
+2005,92,IshikawajimaHarima Heavy Industries,"Mototsugu Ito, President and CEO",Japan,342.8,439.8,-22.05548,9918.0,3.4563417
+2005,93,Uralvagonzavod,"Nikolai Malykh, General Director",Russia,332.9,271.0,22.841328,749.7,44.404427
+2005,94,BearingPoint,"Randolph C. Blazer, Chairman and CEO",USA,328.5,304.3,7.9526825,3139.3,10.464116
+2005,95,Meggitt,"Terry Twigger, CEO",United Kingdom,314.6,232.8,35.137455,715.0,44.0
+2005,96,Silicon Graphics,"Robert Bishop, Chairman and CEO",USA,314.0,354.0,-11.299435,962.0,32.64033
+2005,97,Fuji Heavy Industries,"Kyoji Takenaka, President and CEO",Japan,272.7,280.4,-2.7460706,13629.9,2.0007484
+2005,98,Tadiran Communications,"Hezi Hermoni, CEO and President",Israel,272.2,225.8,20.549162,1192.1,22.833656
+2005,99,MMPP Salyut,"Yuri Yeliseyev, General Director",Russia,268.8,307.7,-12.642191,420.0,64.0
+2005,100,Baltiisky Zavod,"Oleg Shulyakovsky, General Director",Russia,260.0,,,309.5,84.00646
+2020,12,Airbus,"Guillaume Faury, CEO",France,11266.57,13063.82,-13.757462,78916.36,14.276597
+2019,9,Airbus,"Guillaume Faury, CEO *",France,13063.82,11185.91,16.788174,75220.59,17.367346
+2018,7,Airbus,"Thomas Enders, CEO",France,11185.91,12321.0,-9.212644,75702.63,14.776118
+2017,7,Airbus,"Fabrice Brégier, President and CEO",France,12321.0,12776.1,-3.562117,73903.8,16.671675
