@@ -8,8 +8,8 @@ This repository contains data and code used to get and clean data from https://p
 ## The dataset has shared on Kaggle
 * Kaggle is a subsidiary of Google Inc., and is the world's largest data science community.
 
-Dataset Link: > *https://www.kaggle.com/onurduman/defence-companies-top-100-for-each-year-from-2005*
-My Notebook: > *https://www.kaggle.com/onurduman/defence-companies-top-100-cleaning-eda*
+Dataset Link: > https://www.kaggle.com/onurduman/defence-companies-top-100-for-each-year-from-2005
+My Notebook: > https://www.kaggle.com/onurduman/defence-companies-top-100-cleaning-eda
 
 
 ## Files
